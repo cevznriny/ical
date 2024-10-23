@@ -4,38 +4,12 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Channel 4
-DESCRIPTION:It's Caramel Week and the bakers make irresistible caramel bis
- cuits and turn up the heat with showstopping mousse cakes. Who gets a tas
- te of sweet success\, and whose mousse cuts them loose?
-DTEND:20241015T200000Z
-DTSTAMP:20241022T011102Z
-DTSTART:20241015T190000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Great British Bake Off - 15x04 - Caramel Week
-UID:NzbDrone_episode_24637
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Sky Arts
-DESCRIPTION:Created in 1514 and widely regarded as the greatest print ever
-  made\, Durer's Melencolia has defied all attempts to understand it
-DTEND:20241015T200000Z
-DTSTAMP:20241022T011103Z
-DTSTART:20241015T193000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Art Mysteries with Waldemar Januszczak - 3x01 - Melencolia I\,
-  by Albrecht Durer
-UID:NzbDrone_episode_25065
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:BBC One
 DESCRIPTION:Graham's guests are the Boss himself\, Bruce Springsteen\, Osc
  ar-nominated actress Amy Adams\, American star Vanessa Williams and comed
  ian Bill Bailey.
 DTEND:20241018T221900Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241018T213000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -46,7 +20,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Michael Keaton hosts\, and Billie Eilish performs.
 DTEND:20241020T043500Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241020T033000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -58,7 +32,7 @@ CATEGORIES:FOX
 DESCRIPTION:Lisa has a blazing misadventure in the dark world of Capital C
  ity's downtown art scene.
 DTEND:20241021T002500Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241021T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -71,7 +45,7 @@ DESCRIPTION:With his nascent operation at stake\, Oz makes a desperate mov
  e to turn the tables. Meanwhile\, Sofia strives to build a new legacy for
   herself.
 DTEND:20241021T015900Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241021T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -84,7 +58,7 @@ DESCRIPTION:It's Pastry Week and the bakers tackle a frangipane tart and P
  aris-Brest\, complete with a freestanding podium. Who'll be put on a pede
  stal\, and whose dreams will flake away?
 DTEND:20241022T200000Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241022T190000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -96,7 +70,7 @@ CATEGORIES:BBC One
 DESCRIPTION:Graham’s guests are actors Paul Mescal\, Denzel Washington\, S
  aoirse Ronan and Eddie Redmayne. Plus music from Blossoms.
 DTEND:20241025T221900Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241025T213000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -109,7 +83,7 @@ DESCRIPTION:An unearthed corpse opens up a cold case from Springfield in t
  he 1980s... as well as a steamy relationship between young Grampa and Agn
  es Skinner.
 DTEND:20241028T002500Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241028T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -122,7 +96,7 @@ DESCRIPTION:Despite his enemies’ attempts to smoke him out\, Oz seeks to e
  xpand his reach in the city. Meanwhile\, Victor crosses paths with a form
  er adversary.
 DTEND:20241028T015900Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241028T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -135,7 +109,7 @@ DESCRIPTION:It's Autumn Week and the bakers make sweet autumn-inspired pie
  s and transform veg into showstopping cakes. Who's got their eyes on the 
  pies\, and who'll be leaf-ing the tent?
 DTEND:20241029T210000Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241029T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -148,7 +122,7 @@ DESCRIPTION:Graham’s guests are comedy legend Billy Crystal\, British star
  s Hugh Bonneville and Emily Mortimer\, and musical great Pharrell William
  s.
 DTEND:20241101T231900Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241101T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -159,7 +133,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:John Mulaney hosts\, and Chappell Roan performs.
 DTEND:20241103T043500Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241103T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -171,7 +145,7 @@ CATEGORIES:HBO
 DESCRIPTION:Oz fights to preserve his family and his enterprise\, while So
  fia makes a shocking discovery.
 DTEND:20241104T025900Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241104T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -181,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20241105T210000Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241105T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -193,7 +167,7 @@ CATEGORIES:HBO
 DESCRIPTION:Truths are laid bare as Oz Cobb nears the end of his journey a
  nd his power struggle with Sofia comes to a head.
 DTEND:20241111T025900Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241111T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -203,11 +177,21 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20241112T210000Z
-DTSTAMP:20241022T011103Z
+DTSTAMP:20241023T011101Z
 DTSTART:20241112T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Great British Bake Off - 15x08 - TBA
 UID:NzbDrone_episode_24641
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Channel 4
+DTEND:20241119T210000Z
+DTSTAMP:20241023T011101Z
+DTSTART:20241119T200000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Great British Bake Off - 15x09 - TBA
+UID:NzbDrone_episode_24642
 END:VEVENT
 END:VCALENDAR
