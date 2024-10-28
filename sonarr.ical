@@ -4,22 +4,11 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:Michael Keaton hosts\, and Billie Eilish performs.
-DTEND:20241020T043500Z
-DTSTAMP:20241027T021100Z
-DTSTART:20241020T033000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Saturday Night Live - 50x04 - Michael Keaton / Billie Eilish
-UID:NzbDrone_episode_24682
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:FOX
 DESCRIPTION:Lisa has a blazing misadventure in the dark world of Capital C
  ity's downtown art scene.
 DTEND:20241021T002500Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241021T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,7 +21,7 @@ DESCRIPTION:With his nascent operation at stake\, Oz makes a desperate mov
  e to turn the tables. Meanwhile\, Sofia strives to build a new legacy for
   herself.
 DTEND:20241021T015900Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241021T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -45,7 +34,7 @@ DESCRIPTION:It's Pastry Week and the bakers tackle a frangipane tart and P
  aris-Brest\, complete with a freestanding podium. Who'll be put on a pede
  stal\, and whose dreams will flake away?
 DTEND:20241022T200000Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241022T190000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -58,7 +47,7 @@ DESCRIPTION:Waldemar Januszczak uncovers the secret meanings hidden within
   Marcel Duchamp's Fountain\, a readymade sculpture consisting of a porcel
  ain urinal signed R Mutt.
 DTEND:20241022T200000Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241022T193000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -71,7 +60,7 @@ CATEGORIES:BBC One
 DESCRIPTION:Graham’s guests are actors Paul Mescal\, Denzel Washington\, S
  aoirse Ronan and Eddie Redmayne. Plus music from Blossoms.
 DTEND:20241025T221900Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241025T213000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -84,7 +73,7 @@ DESCRIPTION:An unearthed corpse opens up a cold case from Springfield in t
  he 1980s... as well as a steamy relationship between young Grampa and Agn
  es Skinner.
 DTEND:20241028T002500Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241028T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -97,7 +86,7 @@ DESCRIPTION:Despite his enemies’ attempts to smoke him out\, Oz seeks to e
  xpand his reach in the city. Meanwhile\, Victor crosses paths with a form
  er adversary.
 DTEND:20241028T015900Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241028T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -110,7 +99,7 @@ DESCRIPTION:It's Autumn Week and the bakers make sweet autumn-inspired pie
  s and transform veg into showstopping cakes. Who's got their eyes on the 
  pies\, and who'll be leaf-ing the tent?
 DTEND:20241029T210000Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241029T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -122,7 +111,7 @@ CATEGORIES:Sky Arts
 DESCRIPTION:Waldemar Januszczak uncovers the secret meanings hidden within
   The Garden of Earthly Delights by Hieronymus Bosch.
 DTEND:20241029T210000Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241029T203000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -136,7 +125,7 @@ DESCRIPTION:Graham’s guests are comedy legend Billy Crystal\, British star
  s Hugh Bonneville and Emily Mortimer\, and musical great Pharrell William
  s.
 DTEND:20241101T231900Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241101T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -147,7 +136,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:John Mulaney hosts\, and Chappell Roan performs.
 DTEND:20241103T043500Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241103T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -161,7 +150,7 @@ DESCRIPTION:Giant monsters created by political rage threaten to tear the
  ghosts of his abused workers\, and Homer bonds with a pair of extra-terre
  strial jeans.
 DTEND:20241104T012500Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241104T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -173,7 +162,7 @@ CATEGORIES:HBO
 DESCRIPTION:Oz fights to preserve his family and his enterprise\, while So
  fia makes a shocking discovery.
 DTEND:20241104T025900Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241104T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -182,8 +171,11 @@ UID:NzbDrone_episode_24838
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
+DESCRIPTION:It's Dessert Week and the bakers tackle exquisitely filled mer
+ ingue nests\, steamed suet puddings and a beloved Italian dessert. Whose 
+ tiramisu will get them through?
 DTEND:20241105T210000Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241105T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -196,7 +188,7 @@ DESCRIPTION:Waldemar Januszczak uncovers the secret meanings hidden within
   The Polish Rider by Rembrandt\, which depicts a young man traveling on h
  orseback through a murky landscape.
 DTEND:20241105T210000Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241105T203000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -209,7 +201,7 @@ CATEGORIES:BBC One
 DESCRIPTION:Graham’s guests are Oscar winner Kate Winslet\, fellow actors 
  Dwayne Johnson and Lucy Liu\, and music superstar Jennifer Lopez.
 DTEND:20241108T231900Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241108T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -221,7 +213,7 @@ CATEGORIES:HBO
 DESCRIPTION:Truths are laid bare as Oz Cobb nears the end of his journey a
  nd his power struggle with Sofia comes to a head.
 DTEND:20241111T025900Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241111T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -231,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20241112T210000Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241112T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -241,7 +233,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20241119T210000Z
-DTSTAMP:20241027T021100Z
+DTSTAMP:20241028T021101Z
 DTSTART:20241119T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
