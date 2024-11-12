@@ -4,38 +4,12 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Giant monsters created by political rage threaten to tear the 
- town apart\, a Victorian Mr. Burns is jump-scared on Thanksgiving by the 
- ghosts of his abused workers\, and Homer bonds with a pair of extra-terre
- strial jeans.
-DTEND:20241104T012500Z
-DTSTAMP:20241111T021102Z
-DTSTART:20241104T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Simpsons - 36x05 - Treehouse of Horror XXXV
-UID:NzbDrone_episode_25132
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HBO
-DESCRIPTION:Oz fights to preserve everything he’s built\, while Sofia make
- s a shocking discovery.
-DTEND:20241104T025600Z
-DTSTAMP:20241111T021102Z
-DTSTART:20241104T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Penguin - 1x07 - Top Hat
-UID:NzbDrone_episode_24838
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Channel 4
 DESCRIPTION:It's Dessert Week and the bakers tackle exquisitely filled mer
  ingue nests\, steamed suet puddings and a beloved Italian dessert. Whose 
  meringues will peak\, and whose tiramisu will get them through?
 DTEND:20241105T210000Z
-DTSTAMP:20241111T021102Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241105T200000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -48,7 +22,7 @@ DESCRIPTION:Waldemar Januszczak uncovers the secret meanings hidden within
   The Polish Rider by Rembrandt\, which depicts a young man traveling on h
  orseback through a murky landscape.
 DTEND:20241105T210000Z
-DTSTAMP:20241111T021102Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241105T203000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -61,7 +35,7 @@ CATEGORIES:BBC One
 DESCRIPTION:Graham’s guests are Oscar winner Kate Winslet\, fellow actors 
  Dwayne Johnson and Lucy Liu\, and music superstar Jennifer Lopez.
 DTEND:20241108T231900Z
-DTSTAMP:20241111T021102Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241108T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -72,7 +46,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Bill Burr hosts\, and Mk.gee performs.
 DTEND:20241110T053500Z
-DTSTAMP:20241111T021102Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241110T043000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -83,7 +57,7 @@ BEGIN:VEVENT
 CATEGORIES:FOX
 DESCRIPTION:Girls just want to have funny.
 DTEND:20241111T012500Z
-DTSTAMP:20241111T021102Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241111T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -94,21 +68,22 @@ BEGIN:VEVENT
 CATEGORIES:HBO
 DESCRIPTION:Truths are laid bare as Oz Cobb nears the end of his journey a
  nd his power struggle with Sofia comes to a head.
-DTEND:20241111T025600Z
-DTSTAMP:20241111T021102Z
+DTEND:20241111T025700Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241111T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Penguin - 1x08 - A Great or Little Thing
+STATUS:CONFIRMED
+SUMMARY:The Penguin - 1x08 - A Great Or Little Thing
 UID:NzbDrone_episode_24839
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DESCRIPTION:It's a Bake Off first as the bakers get groovy for 1970s Week 
- with towering profiteroles and a retro favourite. Whose gateau will steal
-  the show and who'll make the semi-final?
+ with towering profiterole masterpiece\, a retro favourite and an elaborat
+ ely decorated gateau. Whose gateau will steal the show and who'll make th
+ e semi-final?
 DTEND:20241112T210000Z
-DTSTAMP:20241111T021102Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241112T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -119,7 +94,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Charli XCX hosts and performs.
 DTEND:20241117T053500Z
-DTSTAMP:20241111T021102Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241117T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -128,11 +103,13 @@ UID:NzbDrone_episode_25138
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
-DESCRIPTION:It's the semi-final and the bakers show off their patisserie p
- rowess with breakfast pastries and a classic-but-theatrical Technical. Wh
- o'll make final-worthy fruit entremets?
+DESCRIPTION:It's the semi-final and Patisserie Week\, as the bakers dazzle
+  with rich\, buttery breakfast pastries fit for a Parisian pâtisserie in 
+ the Signature and challenge their precision in a classic-but-theatrical T
+ echnical. And to earn their place in the final\, the bakers create a stun
+ ning fruit entremet in the Showstopper.
 DTEND:20241119T210000Z
-DTSTAMP:20241111T021102Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241119T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -145,7 +122,7 @@ DESCRIPTION:Graham's guests are Oscar winner Nicole Kidman\, British actor
   and singer Cynthia Erivo\, Happy Valley star James Norton\, and comic an
  d Strictly star Chris McCausland.
 DTEND:20241122T231900Z
-DTSTAMP:20241111T021102Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241122T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -153,9 +130,23 @@ SUMMARY:The Graham Norton Show - 32x08 - Episode 8
 UID:NzbDrone_episode_25144
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:FOX
+DESCRIPTION:A tattooed man at a mysterious night circus transports Lisa in
+ to three strange stories from the innocent 1950s\, the chilling retro-pre
+ sent\, and a brutalist future where prestige TV rules the world.
+DTEND:20241125T012500Z
+DTSTAMP:20241112T021100Z
+DTSTART:20241125T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Simpsons - 36x07 - Treehouse of Horror Presents: Simpsons Wick
+ ed This Way Comes
+UID:NzbDrone_episode_25146
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20241126T210000Z
-DTSTAMP:20241111T021102Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241126T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -168,7 +159,7 @@ DESCRIPTION:Graham's guests are superstar actor and singer Cher\, actor Mi
  chael Fassbender\, double Oscar nominee Keira Knightley and Hollywood sta
  r Josh Brolin. With music from Jalen Ngonda.
 DTEND:20241129T231900Z
-DTSTAMP:20241111T021102Z
+DTSTAMP:20241112T021100Z
 DTSTART:20241129T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
