@@ -4,35 +4,12 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Girls just want to have funny.
-DTEND:20241111T012500Z
-DTSTAMP:20241118T021101Z
-DTSTART:20241111T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Simpsons - 36x06 - Women in Shorts
-UID:NzbDrone_episode_25139
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HBO
-DESCRIPTION:Truths are laid bare as Oz Cobb nears the end of his journey a
- nd his power struggle with Sofia comes to a head.
-DTEND:20241111T025700Z
-DTSTAMP:20241118T021101Z
-DTSTART:20241111T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Penguin - 1x08 - A Great Or Little Thing
-UID:NzbDrone_episode_24839
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Channel 4
 DESCRIPTION:It's a Bake Off first as the bakers get groovy for 1970s Week 
  with towering profiteroles and a retro favourite. Whose gateau will steal
   the show\, and who'll make the semi-final?
 DTEND:20241112T210000Z
-DTSTAMP:20241118T021101Z
+DTSTAMP:20241119T021101Z
 DTSTART:20241112T200000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -43,7 +20,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Charli XCX hosts and performs.
 DTEND:20241117T053500Z
-DTSTAMP:20241118T021101Z
+DTSTAMP:20241119T021101Z
 DTSTART:20241117T043000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -56,7 +33,7 @@ DESCRIPTION:It's the semi-final and the bakers show off their patisserie p
  rowess with breakfast pastries and a classic-but-theatrical Technical. Wh
  o'll make final-worthy fruit entremets?
 DTEND:20241119T210000Z
-DTSTAMP:20241118T021101Z
+DTSTAMP:20241119T021101Z
 DTSTART:20241119T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -69,7 +46,7 @@ DESCRIPTION:Graham's guests are Oscar winner Nicole Kidman\, British actor
   and singer Cynthia Erivo\, Happy Valley star James Norton\, and comic an
  d Strictly star Chris McCausland.
 DTEND:20241122T231900Z
-DTSTAMP:20241118T021101Z
+DTSTAMP:20241119T021101Z
 DTSTART:20241122T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -82,7 +59,7 @@ DESCRIPTION:A tattooed man at a mysterious night circus transports Lisa in
  to three strange stories from the innocent 1950s\, the chilling retro-pre
  sent\, and a brutalist future where prestige TV rules the world.
 DTEND:20241125T012500Z
-DTSTAMP:20241118T021101Z
+DTSTAMP:20241119T021101Z
 DTSTART:20241125T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -92,11 +69,13 @@ UID:NzbDrone_episode_25146
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
-DESCRIPTION:The finalists go all out with Signature scones\, afternoon tea
-  and tiered celebration cakes. Whose chance of winning has come and scone
- ? And who'll be shedding tiers of joy?
+DESCRIPTION:The three finalists bake delicate scones\, prepare a quintesse
+ ntial afternoon tea and create a hanging tiered celebration cake as a cen
+ trepiece for a summer garden party. Alison Hammond and Noel Fielding enco
+ urage the bakers\, while judges Paul Hollywood and Prue Leith taste their
+  efforts - but only one can be crowned the winner.
 DTEND:20241126T210000Z
-DTSTAMP:20241118T021101Z
+DTSTAMP:20241119T021101Z
 DTSTART:20241126T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -109,7 +88,7 @@ DESCRIPTION:Graham's guests are superstar actor and singer Cher\, actor Mi
  chael Fassbender\, double Oscar nominee Keira Knightley and Hollywood sta
  r Josh Brolin. With music from Jalen Ngonda.
 DTEND:20241129T231900Z
-DTSTAMP:20241118T021101Z
+DTSTAMP:20241119T021101Z
 DTSTART:20241129T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -122,7 +101,7 @@ DESCRIPTION:Graham's guests are Hollywood star Nicholas Hoult\, celebrity
  chef Jamie Oliver\, actor Lolly Adefope and supergroup Coldplay\, who als
  o perform their current single All My Life.
 DTEND:20241206T231900Z
-DTSTAMP:20241118T021101Z
+DTSTAMP:20241119T021101Z
 DTSTART:20241206T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -133,7 +112,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Paul Mescal hosts\, and Shaboozey performs.
 DTEND:20241208T053500Z
-DTSTAMP:20241118T021101Z
+DTSTAMP:20241119T021101Z
 DTSTART:20241208T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
