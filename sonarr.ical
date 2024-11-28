@@ -9,7 +9,7 @@ DESCRIPTION:Graham's guests are Oscar winner Nicole Kidman\, British actor
   and singer Cynthia Erivo\, Happy Valley star James Norton\, and comic an
  d Strictly star Chris McCausland.
 DTEND:20241122T231900Z
-DTSTAMP:20241127T021102Z
+DTSTAMP:20241128T021101Z
 DTSTART:20241122T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -22,7 +22,7 @@ DESCRIPTION:A tattooed man at a mysterious night circus transports Lisa in
  to three strange stories from the innocent 1950s\, the chilling retro-pre
  sent\, and a brutalist future where prestige TV rules the world.
 DTEND:20241125T012500Z
-DTSTAMP:20241127T021102Z
+DTSTAMP:20241128T021101Z
 DTSTART:20241125T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -36,7 +36,7 @@ DESCRIPTION:The finalists go all out with Signature scones\, afternoon tea
   and tiered celebration cakes. Whose chance of winning has come and scone
  ? And who'll be shedding tiers of joy?
 DTEND:20241126T210000Z
-DTSTAMP:20241127T021102Z
+DTSTAMP:20241128T021101Z
 DTSTART:20241126T200000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -49,7 +49,7 @@ DESCRIPTION:Graham's guests are superstar actor and singer Cher\, actor Mi
  chael Fassbender\, double Oscar nominee Keira Knightley and Hollywood sta
  r Josh Brolin. With music from Jalen Ngonda.
 DTEND:20241129T231900Z
-DTSTAMP:20241127T021102Z
+DTSTAMP:20241128T021101Z
 DTSTART:20241129T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -62,7 +62,7 @@ DESCRIPTION:Graham's guests are Hollywood stars Sigourney Weaver and Nicho
  las Hoult\, celebrity chef Jamie Oliver\, actor Lolly Adefope and supergr
  oup Coldplay\, who also perform their current single All My Life.
 DTEND:20241206T231900Z
-DTSTAMP:20241127T021102Z
+DTSTAMP:20241128T021101Z
 DTSTART:20241206T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Paul Mescal hosts\, and Shaboozey performs.
 DTEND:20241208T053500Z
-DTSTAMP:20241127T021102Z
+DTSTAMP:20241128T021101Z
 DTSTART:20241208T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -86,23 +86,11 @@ DESCRIPTION:Graham’s guests are former 007 Daniel Craig\, Oscar-nominated
  Jesse Eisenberg and Emmy winner Kieran Culkin. Fontaines D.C. perform liv
  e.
 DTEND:20241213T231900Z
-DTSTAMP:20241127T021102Z
+DTSTAMP:20241128T021101Z
 DTSTART:20241213T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Graham Norton Show - 32x11 - Episode 11
 UID:NzbDrone_episode_25227
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:BBC Two
-DESCRIPTION:The brilliant Judi Love introduces comedians Dan Tiernan and J
- ohn Kearns to the stage.
-DTEND:20241217T223200Z
-DTSTAMP:20241127T021102Z
-DTSTART:20241217T220000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Live at the Apollo - 19x01 - Christmas Special 2024
-UID:NzbDrone_episode_25279
 END:VEVENT
 END:VCALENDAR
