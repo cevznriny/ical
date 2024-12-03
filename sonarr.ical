@@ -4,26 +4,12 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:A tattooed man at a mysterious night circus transports Lisa in
- to three strange stories from the innocent 1950s\, the chilling retro-pre
- sent\, and a brutalist future where prestige TV rules the world.
-DTEND:20241125T012500Z
-DTSTAMP:20241202T021101Z
-DTSTART:20241125T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Simpsons - 36x07 - Treehouse of Horror Presents: Simpsons Wick
- ed This Way Comes
-UID:NzbDrone_episode_25146
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Channel 4
 DESCRIPTION:The finalists go all out with Signature scones\, afternoon tea
   and tiered celebration cakes. Whose chance of winning has come and scone
  ? And who'll be shedding tiers of joy?
 DTEND:20241126T210000Z
-DTSTAMP:20241202T021101Z
+DTSTAMP:20241203T021101Z
 DTSTART:20241126T200000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -36,7 +22,7 @@ DESCRIPTION:Graham's guests are superstar actor and singer Cher\, actor Mi
  chael Fassbender\, double Oscar nominee Keira Knightley and Hollywood sta
  r Josh Brolin. With music from Jalen Ngonda.
 DTEND:20241129T231900Z
-DTSTAMP:20241202T021101Z
+DTSTAMP:20241203T021101Z
 DTSTART:20241129T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -49,7 +35,7 @@ DESCRIPTION:Graham's guests are Hollywood stars Sigourney Weaver and Nicho
  las Hoult\, celebrity chef Jamie Oliver\, actor Lolly Adefope and supergr
  oup Coldplay\, who also perform their current single All My Love.
 DTEND:20241206T231900Z
-DTSTAMP:20241202T021101Z
+DTSTAMP:20241203T021101Z
 DTSTART:20241206T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -60,7 +46,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Paul Mescal hosts\, and Shaboozey performs.
 DTEND:20241208T053500Z
-DTSTAMP:20241202T021101Z
+DTSTAMP:20241203T021101Z
 DTSTART:20241208T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -72,7 +58,7 @@ CATEGORIES:FOX
 DESCRIPTION:The Simpsons are trapped on a flight with the most unruly pass
  engers in America.
 DTEND:20241209T012500Z
-DTSTAMP:20241202T021101Z
+DTSTAMP:20241203T021101Z
 DTSTART:20241209T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -85,7 +71,7 @@ DESCRIPTION:Graham’s guests are former 007 Daniel Craig\, Oscar-nominated
  Jesse Eisenberg and Emmy winner Kieran Culkin. Fontaines D.C. perform liv
  e.
 DTEND:20241213T231900Z
-DTSTAMP:20241202T021101Z
+DTSTAMP:20241203T021101Z
 DTSTART:20241213T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -97,7 +83,7 @@ CATEGORIES:FOX
 DESCRIPTION:After a fight in an escape room\, Krusty's truth-telling Aunt 
  fixes Homer's relationship with Patty and Selma.
 DTEND:20241216T012500Z
-DTSTAMP:20241202T021101Z
+DTSTAMP:20241203T021101Z
 DTSTART:20241216T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -109,7 +95,7 @@ CATEGORIES:BBC One
 DESCRIPTION:Graham’s guests on the sofa are Timothée Chalamet\, Colman Dom
  ingo\, Andrew Garfield\, James Corden and Ruth Jones.
 DTEND:20241220T231900Z
-DTSTAMP:20241202T021101Z
+DTSTAMP:20241203T021101Z
 DTSTART:20241220T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
