@@ -4,25 +4,12 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Channel 4
-DESCRIPTION:The finalists go all out with Signature scones\, afternoon tea
-  and tiered celebration cakes. Whose chance of winning has come and scone
- ? And who'll be shedding tiers of joy?
-DTEND:20241126T210000Z
-DTSTAMP:20241203T021101Z
-DTSTART:20241126T200000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Great British Bake Off - 15x10 - The Final
-UID:NzbDrone_episode_24643
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:BBC One
 DESCRIPTION:Graham's guests are superstar actor and singer Cher\, actor Mi
  chael Fassbender\, double Oscar nominee Keira Knightley and Hollywood sta
  r Josh Brolin. With music from Jalen Ngonda.
 DTEND:20241129T231900Z
-DTSTAMP:20241203T021101Z
+DTSTAMP:20241204T021101Z
 DTSTART:20241129T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -35,7 +22,7 @@ DESCRIPTION:Graham's guests are Hollywood stars Sigourney Weaver and Nicho
  las Hoult\, celebrity chef Jamie Oliver\, actor Lolly Adefope and supergr
  oup Coldplay\, who also perform their current single All My Love.
 DTEND:20241206T231900Z
-DTSTAMP:20241203T021101Z
+DTSTAMP:20241204T021101Z
 DTSTART:20241206T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -46,7 +33,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Paul Mescal hosts\, and Shaboozey performs.
 DTEND:20241208T053500Z
-DTSTAMP:20241203T021101Z
+DTSTAMP:20241204T021101Z
 DTSTART:20241208T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -58,7 +45,7 @@ CATEGORIES:FOX
 DESCRIPTION:The Simpsons are trapped on a flight with the most unruly pass
  engers in America.
 DTEND:20241209T012500Z
-DTSTAMP:20241203T021101Z
+DTSTAMP:20241204T021101Z
 DTSTART:20241209T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -71,7 +58,7 @@ DESCRIPTION:Graham’s guests are former 007 Daniel Craig\, Oscar-nominated
  Jesse Eisenberg and Emmy winner Kieran Culkin. Fontaines D.C. perform liv
  e.
 DTEND:20241213T231900Z
-DTSTAMP:20241203T021101Z
+DTSTAMP:20241204T021101Z
 DTSTART:20241213T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -79,11 +66,22 @@ SUMMARY:The Graham Norton Show - 32x11 - Episode 11
 UID:NzbDrone_episode_25227
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:Chris Rock hosts\, and Gracie Abrams performs.
+DTEND:20241215T053500Z
+DTSTAMP:20241204T021101Z
+DTSTART:20241215T043000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Saturday Night Live - 50x09 - Chris Rock / Gracie Abrams
+UID:NzbDrone_episode_25286
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:FOX
 DESCRIPTION:After a fight in an escape room\, Krusty's truth-telling Aunt 
  fixes Homer's relationship with Patty and Selma.
 DTEND:20241216T012500Z
-DTSTAMP:20241203T021101Z
+DTSTAMP:20241204T021101Z
 DTSTART:20241216T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -95,11 +93,22 @@ CATEGORIES:BBC One
 DESCRIPTION:Graham’s guests on the sofa are Timothée Chalamet\, Colman Dom
  ingo\, Andrew Garfield\, James Corden and Ruth Jones.
 DTEND:20241220T231900Z
-DTSTAMP:20241203T021101Z
+DTSTAMP:20241204T021101Z
 DTSTART:20241220T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Graham Norton Show - 32x12 - Episode 12
 UID:NzbDrone_episode_25281
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:Martin Short hosts\, and Hozier performs.
+DTEND:20241222T053500Z
+DTSTAMP:20241204T021101Z
+DTSTART:20241222T043000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Saturday Night Live - 50x10 - Martin Short / Hozier
+UID:NzbDrone_episode_25287
 END:VEVENT
 END:VCALENDAR
