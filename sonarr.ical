@@ -5,11 +5,15 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:BBC One
-DESCRIPTION:Graham's guests are Hollywood stars Sigourney Weaver and Nicho
- las Hoult\, celebrity chef Jamie Oliver\, actor Lolly Adefope and supergr
- oup Coldplay\, who also perform their current single All My Love.
+DESCRIPTION:Together on Graham’s sofa are: Hollywood star of Alien and Ava
+ tar Sigourney Weaver\, taking to the West End stage in Shakespeare’s The 
+ Tempest\; English actor Nicholas Hoult (The Great\, The Menu)\, starring 
+ in the remake of the classic gothic horror Nosferatu\; celebrity chef Jam
+ ie Oliver\, whose new cookbook is Simply Jamie\; Lolly Adefope\, playing 
+ set assistant Dag in the superhero-spoof series The Franchise\; and super
+ group Coldplay\, who chat and perform their current single\, All My Love.
 DTEND:20241206T231900Z
-DTSTAMP:20241207T021101Z
+DTSTAMP:20241208T021101Z
 DTSTART:20241206T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,7 +24,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Paul Mescal hosts\, and Shaboozey performs.
 DTEND:20241208T053500Z
-DTSTAMP:20241207T021101Z
+DTSTAMP:20241208T021101Z
 DTSTART:20241208T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -32,7 +36,7 @@ CATEGORIES:FOX
 DESCRIPTION:The Simpsons are trapped on a flight with the most unruly pass
  engers in America.
 DTEND:20241209T012500Z
-DTSTAMP:20241207T021101Z
+DTSTAMP:20241208T021101Z
 DTSTART:20241209T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -41,11 +45,15 @@ UID:NzbDrone_episode_25282
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC One
-DESCRIPTION:Graham’s guests are former 007 Daniel Craig\, Oscar-nominated 
- Jesse Eisenberg and Emmy winner Kieran Culkin. Fontaines D.C. perform liv
- e.
+DESCRIPTION:Among the guests on Graham’s sofa tonight are former 007 Danie
+ l Craig\, critically acclaimed for his performance in gay love story Quee
+ r\, Oscar-nominated Jesse Eisenberg (The Social Network) and Emmy winner 
+ Kieran Culkin (Succession)\, who both star in Jesse’s comedy road movie A
+  Real Pain\, and Derry Girls and Bridgerton star Nicola Coughlan\, appear
+ ing in the Doctor Who Christmas Special.\n\nAlso\, music from girl-band F
+ LO\, performing their single In My Bag.
 DTEND:20241213T231900Z
-DTSTAMP:20241207T021101Z
+DTSTAMP:20241208T021101Z
 DTSTART:20241213T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -56,7 +64,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Chris Rock hosts\, and Gracie Abrams performs.
 DTEND:20241215T053500Z
-DTSTAMP:20241207T021101Z
+DTSTAMP:20241208T021101Z
 DTSTART:20241215T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -68,7 +76,7 @@ CATEGORIES:FOX
 DESCRIPTION:After a fight in an escape room\, Krusty's truth-telling Aunt 
  fixes Homer's relationship with Patty and Selma.
 DTEND:20241216T012500Z
-DTSTAMP:20241207T021101Z
+DTSTAMP:20241208T021101Z
 DTSTART:20241216T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -77,10 +85,16 @@ UID:NzbDrone_episode_25283
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC One
-DESCRIPTION:Graham’s guests on the sofa are Timothée Chalamet\, Colman Dom
- ingo\, Andrew Garfield\, James Corden and Ruth Jones.
+DESCRIPTION:Together on Graham’s sofa tonight: Wonka and Dune star Timothé
+ e Chalamet\, playing the young Bob Dylan in A Complete Unknown\; Oscar-no
+ minated Colman Domingo\, performing with real-life former inmates in pris
+ on drama Sing Sing\; British star Andrew Garfield (Spider-Man\, Hacksaw R
+ idge)\, in non-linear romance We Live in Time\; and Smithy and Nessa them
+ selves\, James Corden and Ruth Jones\, together again for a Gavin & Stace
+ y Christmas special. With music from Icelandic singer-songwriter Laufey\,
+  performing her new single Christmas Magic.
 DTEND:20241220T231900Z
-DTSTAMP:20241207T021101Z
+DTSTAMP:20241208T021101Z
 DTSTART:20241220T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -91,7 +105,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Martin Short hosts\, and Hozier performs.
 DTEND:20241222T053500Z
-DTSTAMP:20241207T021101Z
+DTSTAMP:20241208T021101Z
 DTSTART:20241222T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
