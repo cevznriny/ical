@@ -7,7 +7,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Paul Mescal hosts\, and Shaboozey performs.
 DTEND:20241208T053500Z
-DTSTAMP:20241214T021101Z
+DTSTAMP:20241215T021102Z
 DTSTART:20241208T043000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -19,7 +19,7 @@ CATEGORIES:FOX
 DESCRIPTION:The Simpsons are trapped on a flight with the most unruly pass
  engers in America.
 DTEND:20241209T012500Z
-DTSTAMP:20241214T021101Z
+DTSTAMP:20241215T021102Z
 DTSTART:20241209T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -36,10 +36,10 @@ DESCRIPTION:Among the guests on Graham’s sofa tonight are former 007 Danie
  ing in the Doctor Who Christmas Special.\n\nAlso\, music from girl-band F
  LO\, performing their single In My Bag.
 DTEND:20241213T231900Z
-DTSTAMP:20241214T021101Z
+DTSTAMP:20241215T021102Z
 DTSTART:20241213T223000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Graham Norton Show - 32x11 - Episode 11
 UID:NzbDrone_episode_25227
 END:VEVENT
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Chris Rock hosts\, and Gracie Abrams performs.
 DTEND:20241215T053500Z
-DTSTAMP:20241214T021101Z
+DTSTAMP:20241215T021102Z
 DTSTART:20241215T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -59,7 +59,7 @@ CATEGORIES:FOX
 DESCRIPTION:After a fight in an escape room\, Krusty's truth-telling Aunt 
  fixes Homer's relationship with Patty and Selma.
 DTEND:20241216T012500Z
-DTSTAMP:20241214T021101Z
+DTSTAMP:20241215T021102Z
 DTSTART:20241216T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -77,7 +77,7 @@ DESCRIPTION:Together on Graham’s sofa tonight: Wonka and Dune star Timothé
  y Christmas special. With music from Icelandic singer-songwriter Laufey\,
   performing her new single Christmas Magic.
 DTEND:20241220T231900Z
-DTSTAMP:20241214T021101Z
+DTSTAMP:20241215T021102Z
 DTSTART:20241220T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -88,11 +88,28 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Martin Short hosts\, and Hozier performs.
 DTEND:20241222T053500Z
-DTSTAMP:20241214T021101Z
+DTSTAMP:20241215T021102Z
 DTSTART:20241222T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Saturday Night Live - 50x10 - Martin Short / Hozier
 UID:NzbDrone_episode_25287
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:BBC One
+DESCRIPTION:On Graham's sofa tonight: Loki and Night Manager star Tom Hidd
+ leston\, playing Benedick in Shakespeare's Much Ado About Nothing\; Oscar
+ -winner Brie Larson (Room\, Captain Marvel) making her West End debut in 
+ Elektra\; Kinky Boots and Pose star Billy Porter\, taking the Emcee role 
+ in Cabaret\; and Strictly host Claudia Winkleman\, talking about the new 
+ series of Traitors. With music from singer-songwriter Myles Smith\, perfo
+ rming Nice to Meet You.
+DTEND:20250110T231900Z
+DTSTAMP:20241215T021102Z
+DTSTART:20250110T223000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Graham Norton Show - 32x13 - Episode 13
+UID:NzbDrone_episode_25300
 END:VEVENT
 END:VCALENDAR
