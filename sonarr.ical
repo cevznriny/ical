@@ -9,7 +9,7 @@ DESCRIPTION:When Miles leaks the story to the press\, the fallout hits Pet
  e who soon realises that he must dig into Miles' murky past to save his f
  amily.
 DTEND:20250112T214800Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250112T210000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -21,7 +21,7 @@ CATEGORIES:ITV1
 DESCRIPTION:The final court hearing looms and the boys' fate must be decid
  ed as Pete and Maddie look set to lose everything.
 DTEND:20250113T214800Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250113T210000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -33,7 +33,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:The magnificent Sara Pascoe introduces comedians Amy Gledhill 
  and Eddie Kadi to the stage.
 DTEND:20250114T223300Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250114T220000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,7 +47,7 @@ DESCRIPTION:After 12 long years\, the Lockerbie trial begins. But as it un
  folds\, Jim begins questioning the official evidence against the suspects
  .
 DTEND:20250116T215400Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250116T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -62,7 +62,7 @@ DESCRIPTION:Joining Graham on his sofa are: Hollywood stars Jamie Foxx and
  tar of Bridgerton and Wicked\, Jonathan Bailey\, taking to the stage in R
  ichard II. With music from Griff\, who performs last night’s mascara.
 DTEND:20250117T231900Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250117T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -71,8 +71,9 @@ UID:NzbDrone_episode_25322
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
+DESCRIPTION:Dave Chappelle hosts\, and GloRilla performs.
 DTEND:20250119T053500Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250119T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -84,7 +85,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:The fabulous Babatunde Aléshé introduces Chloe Petts and Linds
  ey Santoro to the stage.
 DTEND:20250121T223300Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250121T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -97,7 +98,7 @@ CATEGORIES:Sky Atlantic (UK)
 DESCRIPTION:Jim grows closer to the wrong man\, and as a result pulls furt
  her away from his family.
 DTEND:20250123T215400Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250123T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -113,7 +114,7 @@ DESCRIPTION:Joining Graham on his sofa are: Hollywood stars Reese Withersp
  ead detective in the BBC series Death in Paradise. With music from Olly A
  lexander\, performing his new single When We Kiss.
 DTEND:20250124T231900Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250124T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -122,8 +123,9 @@ UID:NzbDrone_episode_25336
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
+DESCRIPTION:Timothee Chalamet hosts and performs.
 DTEND:20250126T053500Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250126T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -135,7 +137,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:Iain Stirling hosts\, with sets from Harriet Dyer and Maria Sh
  ehata.
 DTEND:20250128T223300Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250128T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -148,7 +150,7 @@ CATEGORIES:Sky Atlantic (UK)
 DESCRIPTION:Jim is left at a loss when Megrahi gives up his appeal. Questi
  oning everything he believes\, he wonders if he will ever know the truth.
 DTEND:20250130T215400Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250130T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -157,10 +159,15 @@ UID:NzbDrone_episode_25327
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC One
-DESCRIPTION:Graham’s guests on the sofa are Renée Zellweger\, Leo Woodall\
- , Sterling K Brown\, Anthony Mackie and Cyndi Lauper.
+DESCRIPTION:Joining Graham on his sofa are: double Oscar winner Renée Zell
+ weger and Brit star Leo Woodall (The White Lotus\, One Day)\, together in
+  Bridget Jones: Mad About The Boy\; This Is Us star Sterling K Brown\, in
+  thriller series Paradise\; stage and screen star Anthony Mackie\, wieldi
+ ng the famous shield in Marvel’s Captain America: Brave New World\; and p
+ op icon Cyndi Lauper\, talking about her Girls Just Wanna Have Fun Farewe
+ ll Tour.
 DTEND:20250131T231900Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250131T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -172,7 +179,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:Tim Renkow hosts\, with sets from Janine Harouni and Stuart Go
  ldsmith.
 DTEND:20250204T223300Z
-DTSTAMP:20250118T021101Z
+DTSTAMP:20250119T021101Z
 DTSTART:20250204T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
