@@ -4,68 +4,6 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Peacock
-DESCRIPTION:The preparation\, determination and diverse stories of those w
- ho achieved their dream of joining SNL.
-DTEND:20250116T060200Z
-DTSTAMP:20250123T021100Z
-DTSTART:20250116T050000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:SNL50: Beyond Saturday Night - 1x01 - Five Minutes
-UID:NzbDrone_episode_25368
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Peacock
-DESCRIPTION:The chaos and creativity of a week inside the SNL writers' roo
- m is revealed through interviews.
-DTEND:20250116T060200Z
-DTSTAMP:20250123T021100Z
-DTSTART:20250116T050000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:SNL50: Beyond Saturday Night - 1x02 - Written By: A Week Inside Th
- e SNL Writers Room
-UID:NzbDrone_episode_25369
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Peacock
-DESCRIPTION:How the "More Cowbell" sketch became a phenomenon and legendar
- y cultural moment.
-DTEND:20250116T060200Z
-DTSTAMP:20250123T021100Z
-DTSTART:20250116T050000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:SNL50: Beyond Saturday Night - 1x03 - More Cowbell
-UID:NzbDrone_episode_25370
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Peacock
-DESCRIPTION:During SNL's strange\, yet pivotal 11th season\, Lorne Michael
- s' return reshapes the show's legacy.
-DTEND:20250116T060200Z
-DTSTAMP:20250123T021100Z
-DTSTART:20250116T050000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:SNL50: Beyond Saturday Night - 1x04 - Season 11: The Weird Year
-UID:NzbDrone_episode_25371
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Sky Atlantic (UK)
-DESCRIPTION:After 12 long years\, the Lockerbie trial begins. But as it un
- folds\, Jim begins questioning the official evidence against the suspects
- .
-DTEND:20250116T215400Z
-DTSTAMP:20250123T021100Z
-DTSTART:20250116T210000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Lockerbie: A Search for Truth - 1x03 - Episode 3
-UID:NzbDrone_episode_25325
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:BBC One
 DESCRIPTION:Joining Graham on his sofa are: Hollywood stars Jamie Foxx and
   Cameron Diaz\, together again in the high-octane comedy Back in Action\;
@@ -73,7 +11,7 @@ DESCRIPTION:Joining Graham on his sofa are: Hollywood stars Jamie Foxx and
  tar of Bridgerton and Wicked\, Jonathan Bailey\, taking to the stage in R
  ichard II. With music from Griff\, who performs last night’s mascara.
 DTEND:20250117T231900Z
-DTSTAMP:20250123T021100Z
+DTSTAMP:20250124T021100Z
 DTSTART:20250117T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -84,7 +22,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Dave Chappelle hosts\, and GloRilla performs.
 DTEND:20250119T053500Z
-DTSTAMP:20250123T021100Z
+DTSTAMP:20250124T021100Z
 DTSTART:20250119T043000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -96,7 +34,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:The fabulous Babatunde Aléshé introduces Chloe Petts and Linds
  ey Santoro to the stage.
 DTEND:20250121T223300Z
-DTSTAMP:20250123T021100Z
+DTSTAMP:20250124T021100Z
 DTSTART:20250121T220000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -109,7 +47,7 @@ CATEGORIES:Sky Atlantic (UK)
 DESCRIPTION:Jim grows closer to the wrong man\, and as a result pulls furt
  her away from his family.
 DTEND:20250123T215400Z
-DTSTAMP:20250123T021100Z
+DTSTAMP:20250124T021100Z
 DTSTART:20250123T210000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -125,7 +63,7 @@ DESCRIPTION:Joining Graham on his sofa are: Hollywood stars Reese Withersp
  ead detective in the BBC series Death in Paradise. With music from Olly A
  lexander\, performing his new single When We Kiss.
 DTEND:20250124T231900Z
-DTSTAMP:20250123T021100Z
+DTSTAMP:20250124T021100Z
 DTSTART:20250124T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -136,7 +74,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Timothee Chalamet hosts and performs.
 DTEND:20250126T053500Z
-DTSTAMP:20250123T021100Z
+DTSTAMP:20250124T021100Z
 DTSTART:20250126T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -148,7 +86,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:Iain Stirling introduces comedians Harriet Dyer and Maria Sheh
  ata to the stage.
 DTEND:20250128T223300Z
-DTSTAMP:20250123T021100Z
+DTSTAMP:20250124T021100Z
 DTSTART:20250128T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -161,7 +99,7 @@ CATEGORIES:Sky Atlantic (UK)
 DESCRIPTION:Jim is left at a loss when Megrahi gives up his appeal. Questi
  oning everything he believes\, he wonders if he will ever know the truth.
 DTEND:20250130T215400Z
-DTSTAMP:20250123T021100Z
+DTSTAMP:20250124T021100Z
 DTSTART:20250130T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -178,7 +116,7 @@ DESCRIPTION:Joining Graham on his sofa are: double Oscar winner Renée Zell
  op icon Cyndi Lauper\, talking about her Girls Just Wanna Have Fun Farewe
  ll Tour.
 DTEND:20250131T231900Z
-DTSTAMP:20250123T021100Z
+DTSTAMP:20250124T021100Z
 DTSTART:20250131T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -190,12 +128,25 @@ CATEGORIES:BBC Two
 DESCRIPTION:Tim Renkow hosts\, with sets from Janine Harouni and Stuart Go
  ldsmith.
 DTEND:20250204T223300Z
-DTSTAMP:20250123T021100Z
+DTSTAMP:20250124T021100Z
 DTSTART:20250204T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Live at the Apollo - 19x07 - Tim Renkow\, Janine Harouni\, Stuart 
  Goldsmith
 UID:NzbDrone_episode_25320
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:BBC One
+DESCRIPTION:Joining Graham on his sofa are Robert De Niro\, Mikey Madison\
+ , Alan Carr and Holly Willoughby. Brandi Carlile joins Elton John for a s
+ pecial performance in the studio.
+DTEND:20250207T231900Z
+DTSTAMP:20250124T021100Z
+DTSTART:20250207T223000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Graham Norton Show - 32x17 - Episode 17
+UID:NzbDrone_episode_25393
 END:VEVENT
 END:VCALENDAR
