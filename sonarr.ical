@@ -4,22 +4,11 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:Timothée Chalamet hosts and performs.
-DTEND:20250126T053500Z
-DTSTAMP:20250202T021100Z
-DTSTART:20250126T043000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Saturday Night Live - 50x12 - Timothée Chalamet
-UID:NzbDrone_episode_25335
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:BBC Two
 DESCRIPTION:Iain Stirling introduces comedians Harriet Dyer and Maria Sheh
  ata to the stage.
 DTEND:20250128T223300Z
-DTSTAMP:20250202T021100Z
+DTSTAMP:20250203T021100Z
 DTSTART:20250128T220000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,7 +21,7 @@ CATEGORIES:Sky Atlantic (UK)
 DESCRIPTION:Jim is left at a loss when Megrahi gives up his appeal. Questi
  oning everything he believes\, he wonders if he will ever know the truth.
 DTEND:20250130T215400Z
-DTSTAMP:20250202T021100Z
+DTSTAMP:20250203T021100Z
 DTSTART:20250130T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -50,7 +39,7 @@ DESCRIPTION:Joining Graham on his sofa are: double Oscar winner Renée Zell
  ll Tour. Plus\, music from Lola Young\, performing her current single Mes
  sy.
 DTEND:20250131T231900Z
-DTSTAMP:20250202T021100Z
+DTSTAMP:20250203T021100Z
 DTSTART:20250131T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -62,7 +51,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:Tim Renkow welcomes comedians Janine Harouni and Stuart Goldsm
  ith to the stage.
 DTEND:20250204T223300Z
-DTSTAMP:20250202T021100Z
+DTSTAMP:20250203T021100Z
 DTSTART:20250204T220000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -80,7 +69,7 @@ DESCRIPTION:Together on Graham’s sofa tonight: Hollywood great Robert De N
  n\, who’s joined by Grammy-winning singer-songwriter Brandi Carlile for a
   special performance.
 DTEND:20250207T231900Z
-DTSTAMP:20250202T021100Z
+DTSTAMP:20250203T021100Z
 DTSTART:20250207T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -99,7 +88,7 @@ DESCRIPTION:Graham welcomes a sofa of acting talent tonight: iconic Baywat
  ell. With music from Gracie Abrams\, performing her single That’s So True
  .
 DTEND:20250214T231900Z
-DTSTAMP:20250202T021100Z
+DTSTAMP:20250203T021100Z
 DTSTART:20250214T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
