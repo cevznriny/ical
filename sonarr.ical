@@ -4,24 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Sky Atlantic (UK)
-DESCRIPTION:Jim is left at a loss when Megrahi gives up his appeal. Questi
- oning everything he believes\, he wonders if he will ever know the truth.
-DTEND:20250130T215400Z
-DTSTAMP:20250206T021100Z
-DTSTART:20250130T210000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Lockerbie: A Search for Truth - 1x05 - Episode 5
-UID:NzbDrone_episode_25327
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:In 1965\, America sends young soldiers to war in a country the
  y know nothing about. Two tunnel rats form a powerful bond\, until one is
   gravely injured.
 DTEND:20250131T054200Z
-DTSTAMP:20250206T021100Z
+DTSTAMP:20250207T021101Z
 DTSTART:20250131T050000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,7 +22,7 @@ DESCRIPTION:Communist guerrillas launch a surprise attack: the Tet Offensi
  ve. Americans in the city of Huế find themselves at the center of a blood
  y battle.
 DTEND:20250131T054200Z
-DTSTAMP:20250206T021100Z
+DTSTAMP:20250207T021101Z
 DTSTART:20250131T050000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,7 +35,7 @@ DESCRIPTION:A Vietnamese child’s life is torn apart by the war\, and a pil
  ot is shot down in enemy territory. Back in the U.S.\, social unrest take
  s hold.
 DTEND:20250131T054200Z
-DTSTAMP:20250206T021100Z
+DTSTAMP:20250207T021101Z
 DTSTART:20250131T050000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -60,7 +48,7 @@ DESCRIPTION:With victory no closer\, American soldiers begin to lose faith
  . A nurse wrestles with how to protect her patients\, and a wife receives
   dreadful news.
 DTEND:20250131T054200Z
-DTSTAMP:20250206T021100Z
+DTSTAMP:20250207T021101Z
 DTSTART:20250131T050000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -73,7 +61,7 @@ DESCRIPTION:Soldiers return to a divided America and must come to terms wi
  th how the war changed them. Differing beliefs create a rift between best
   friends.
 DTEND:20250131T054200Z
-DTSTAMP:20250206T021100Z
+DTSTAMP:20250207T021101Z
 DTSTART:20250131T050000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -86,7 +74,7 @@ DESCRIPTION:Ten years later\, in 1975\, the remaining Americans and fleein
  g South Vietnamese race against time to escape in the largest helicopter 
  evacuation ever.
 DTEND:20250131T054200Z
-DTSTAMP:20250206T021100Z
+DTSTAMP:20250207T021101Z
 DTSTART:20250131T050000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -104,7 +92,7 @@ DESCRIPTION:Joining Graham on his sofa are: double Oscar winner Renée Zell
  ll Tour. Plus\, music from Lola Young\, performing her current single Mes
  sy.
 DTEND:20250131T231900Z
-DTSTAMP:20250206T021100Z
+DTSTAMP:20250207T021101Z
 DTSTART:20250131T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -116,7 +104,7 @@ CATEGORIES:BBC Two
 DESCRIPTION:Tim Renkow welcomes comedians Janine Harouni and Stuart Goldsm
  ith to the stage.
 DTEND:20250204T223300Z
-DTSTAMP:20250206T021100Z
+DTSTAMP:20250207T021101Z
 DTSTART:20250204T220000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -134,7 +122,7 @@ DESCRIPTION:Together on Graham’s sofa tonight: Hollywood great Robert De N
  n\, who’s joined by Grammy-winning singer-songwriter Brandi Carlile for a
   special performance.
 DTEND:20250207T231900Z
-DTSTAMP:20250206T021100Z
+DTSTAMP:20250207T021101Z
 DTSTART:20250207T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -153,11 +141,24 @@ DESCRIPTION:Graham welcomes a sofa of acting talent tonight: iconic Baywat
  ell. With music from Gracie Abrams\, performing her single That’s So True
  .
 DTEND:20250214T231900Z
-DTSTAMP:20250206T021100Z
+DTSTAMP:20250207T021101Z
 DTSTART:20250214T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Graham Norton Show - 32x18 - Episode 18
 UID:NzbDrone_episode_25396
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:BBC One
+DESCRIPTION:Joining Graham on his sofa are actor Ewan McGregor\, actress a
+ nd singer Kate Hudson and actress Naomie Harris. SELF ESTEEM performs her
+  single Focus Is Power.
+DTEND:20250221T231900Z
+DTSTAMP:20250207T021101Z
+DTSTART:20250221T223000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Graham Norton Show - 32x19 - Episode 19
+UID:NzbDrone_episode_25413
 END:VEVENT
 END:VCALENDAR
