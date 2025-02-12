@@ -4,19 +4,6 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:BBC Two
-DESCRIPTION:Tim Renkow welcomes comedians Janine Harouni and Stuart Goldsm
- ith to the stage.
-DTEND:20250204T223300Z
-DTSTAMP:20250211T021101Z
-DTSTART:20250204T220000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Live at the Apollo - 19x07 - Tim Renkow\, Janine Harouni\, Stuart 
- Goldsmith
-UID:NzbDrone_episode_25320
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:BBC One
 DESCRIPTION:Together on Graham’s sofa tonight: Hollywood great Robert De N
  iro\, in political thriller series Zero Day\; new star on the block Mikey
@@ -26,7 +13,7 @@ DESCRIPTION:Together on Graham’s sofa tonight: Hollywood great Robert De N
  n\, who’s joined by Grammy-winning singer-songwriter Brandi Carlile for a
   special performance.
 DTEND:20250207T231900Z
-DTSTAMP:20250211T021101Z
+DTSTAMP:20250212T021100Z
 DTSTART:20250207T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -45,12 +32,25 @@ DESCRIPTION:Graham welcomes a sofa of acting talent tonight: iconic Baywat
  ell. With music from Gracie Abrams\, performing her single That’s So True
  .
 DTEND:20250214T231900Z
-DTSTAMP:20250211T021101Z
+DTSTAMP:20250212T021100Z
 DTSTART:20250214T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Graham Norton Show - 32x18 - Episode 18
 UID:NzbDrone_episode_25396
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:The award-winning sketch show celebrates its groundbreaking 50
+ th anniversary live from New York\, featuring musical performances\, form
+ er cast members\, special guests and all-time favourite sketches.
+DTEND:20250217T053500Z
+DTSTAMP:20250212T021100Z
+DTSTART:20250217T043000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Saturday Night Live - 50x13 - SNL50: The Anniversary Special
+UID:NzbDrone_episode_25415
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC One
@@ -61,7 +61,7 @@ DESCRIPTION:Together on Graham’s sofa are: Scottish star of Trainspotting
  is\, in the Steven Soderbergh thriller Black Bag\; and musical guest Self
   Esteem\, who performs her single Focus Is Power.
 DTEND:20250221T231900Z
-DTSTAMP:20250211T021101Z
+DTSTAMP:20250212T021100Z
 DTSTART:20250221T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
