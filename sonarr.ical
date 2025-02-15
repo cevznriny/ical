@@ -5,23 +5,6 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:BBC One
-DESCRIPTION:Together on Graham’s sofa tonight: Hollywood great Robert De N
- iro\, in political thriller series Zero Day\; new star on the block Mikey
-  Madison\, in comedy-drama Anora\; comedy favourite Alan Carr\, talking a
- bout Amanda & Alan's Spanish Job\; and Holly Willoughby\, hitting the Cos
- ta Rican jungle for reality show Bear Hunt. Plus the iconic Sir Elton Joh
- n\, who’s joined by Grammy-winning singer-songwriter Brandi Carlile for a
-  special performance.
-DTEND:20250207T231900Z
-DTSTAMP:20250214T021100Z
-DTSTART:20250207T223000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Graham Norton Show - 32x17 - Episode 17
-UID:NzbDrone_episode_25393
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:BBC One
 DESCRIPTION:Graham welcomes a sofa of acting talent tonight: iconic Baywat
  ch star Pamela Anderson\, discussing her acclaimed performance in The Las
  t Showgirl\; Stephen Graham\, starring in A Thousand Blows\, set in the w
@@ -32,25 +15,12 @@ DESCRIPTION:Graham welcomes a sofa of acting talent tonight: iconic Baywat
  ell. With music from Gracie Abrams\, performing her single That’s So True
  .
 DTEND:20250214T231900Z
-DTSTAMP:20250214T021100Z
+DTSTAMP:20250215T021101Z
 DTSTART:20250214T223000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Graham Norton Show - 32x18 - Episode 18
 UID:NzbDrone_episode_25396
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:The award-winning sketch show celebrates its groundbreaking 50
- th anniversary live from New York\, featuring musical performances\, form
- er cast members\, special guests and all-time favourite sketches.
-DTEND:20250217T053500Z
-DTSTAMP:20250214T021100Z
-DTSTART:20250217T043000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Saturday Night Live - 50x13 - SNL50: The Anniversary Special
-UID:NzbDrone_episode_25415
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC One
@@ -61,7 +31,7 @@ DESCRIPTION:Together on Graham’s sofa are: Scottish star of Trainspotting
  is\, in the Steven Soderbergh thriller Black Bag\; and musical guest Self
   Esteem\, who performs her single Focus Is Power.
 DTEND:20250221T231900Z
-DTSTAMP:20250214T021100Z
+DTSTAMP:20250215T021101Z
 DTSTART:20250221T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -70,11 +40,13 @@ UID:NzbDrone_episode_25413
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC One
-DESCRIPTION:Guest host Claudia Winkleman welcomes Hollywood star Chris Pra
- tt and top comedian Rob Beckett to the famous red sofa. Shaboozey perform
- s his single Good News.
+DESCRIPTION:Among the guests on Claudia’s sofa are: Hollywood star Chris P
+ ratt (Parks and Recreation\, Jurassic Park) talking about his new sci-fi 
+ comedy drama The Electric State\; and top comedian Rob Beckett\, back for
+  a new series of panel game Rob Beckett’s Smart TV. With music from Shabo
+ ozey\, performing his single Good News.
 DTEND:20250228T231900Z
-DTSTAMP:20250214T021100Z
+DTSTAMP:20250215T021101Z
 DTSTART:20250228T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
