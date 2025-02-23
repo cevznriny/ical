@@ -9,7 +9,7 @@ DESCRIPTION:As a new round of guests arrives at the White Lotus Thailand\,
   Belinda settles in\, Chelsea deals with a moody Rick\, the Ratliffs go s
  eparate ways\, and Kate\, Laurie\, and Jaclyn kick off a girls' trip.
 DTEND:20250217T025900Z
-DTSTAMP:20250222T021101Z
+DTSTAMP:20250223T021101Z
 DTSTART:20250217T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -21,7 +21,7 @@ CATEGORIES:NBC
 DESCRIPTION:The award-winning\, record-breaking sketch show celebrates its
   50th anniversary live from New York.
 DTEND:20250217T053500Z
-DTSTAMP:20250222T021101Z
+DTSTAMP:20250223T021101Z
 DTSTART:20250217T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -39,7 +39,7 @@ DESCRIPTION:Together on Graham’s sofa are: Scottish star of Trainspotting
  g Story\; and musical guest Self Esteem\, who performs her latest single 
  Focus Is Power.
 DTEND:20250221T231900Z
-DTSTAMP:20250222T021101Z
+DTSTAMP:20250223T021101Z
 DTSTART:20250221T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -51,7 +51,7 @@ CATEGORIES:HBO
 DESCRIPTION:Timothy gets distressing updates about his business\, Chelsea 
  connects with expat Chloe\, and Gaitok shares his feelings with Mook.
 DTEND:20250224T025900Z
-DTSTAMP:20250222T021101Z
+DTSTAMP:20250223T021101Z
 DTSTART:20250224T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -60,13 +60,17 @@ UID:NzbDrone_episode_25307
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC One
-DESCRIPTION:Among those on guest host Claudia Winkleman's sofa are: Hollyw
- ood star Chris Pratt (Parks and Recreation\, Jurassic Park) talking about
-  his new sci-fi comedy drama The Electric State\; and top comedian Rob Be
- ckett\, back for a new series of panel game Rob Beckett’s Smart TV. With 
- music from Shaboozey\, performing his single Good News.
+DESCRIPTION:Together on guest host Claudia Winkleman's sofa are: Hollywood
+  star Chris Pratt (Parks and Recreation\, Jurassic Park) talking about hi
+ s new sci-fi comedy drama The Electric State\; actor Toby Jones (Mr Bates
+  vs The Post Office) starring as Richard Burton's inspirational teacher i
+ n Mr Burton\; Northern Irish actor Saoirse-Monica Jackson (Erin from Derr
+ y Girls)\, in new BBC drama series This City Is Ours\; and top comedian R
+ ob Beckett\, back for a new series of panel game Rob Beckett’s Smart TV. 
+ Plus music from singer-songwriter Rachel Chinouriri\, performing her sing
+ le All I Ever Asked.
 DTEND:20250228T231900Z
-DTSTAMP:20250222T021101Z
+DTSTAMP:20250223T021101Z
 DTSTART:20250228T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -76,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20250302T053500Z
-DTSTAMP:20250222T021101Z
+DTSTAMP:20250223T021101Z
 DTSTART:20250302T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -92,7 +96,7 @@ DESCRIPTION:When Saxon also starts getting calls from the office\, Timothy
  cation fling with Valentin\, and Gaitok worries about getting reprimanded
   by his bosses.
 DTEND:20250303T025900Z
-DTSTAMP:20250222T021101Z
+DTSTAMP:20250223T021101Z
 DTSTART:20250303T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -102,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20250309T053500Z
-DTSTAMP:20250222T021101Z
+DTSTAMP:20250223T021101Z
 DTSTART:20250309T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -117,7 +121,7 @@ DESCRIPTION:Looking for a change of scenery\, Jaclyn drags the girls to a
   for Lochlan’s support before sharing a life update with the family\, and
   Rick finally opens up to Chelsea about his past.
 DTEND:20250310T015900Z
-DTSTAMP:20250222T021101Z
+DTSTAMP:20250223T021101Z
 DTSTART:20250310T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -127,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20250316T204300Z
-DTSTAMP:20250222T021101Z
+DTSTAMP:20250223T021101Z
 DTSTART:20250316T194500Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -137,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250317T015900Z
-DTSTAMP:20250222T021101Z
+DTSTAMP:20250223T021101Z
 DTSTART:20250317T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
