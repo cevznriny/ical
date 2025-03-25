@@ -5,80 +5,11 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:HBO
-DESCRIPTION:As things get wild during the Full Moon festivities\, Rick vis
- its an old friend\, and Belinda shares her suspicions about a hotel guest
- .
-DTEND:20250317T015900Z
-DTSTAMP:20250324T021101Z
-DTSTART:20250317T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The White Lotus - 3x05 - Full-Moon Party
-UID:NzbDrone_episode_25310
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Prime Video
-DESCRIPTION:Jimmy Carr oversees the chaos while Bob Mortimer\, Daisy May C
- ooper\, Harriet Kemsley\, Joe Lycett\, Joe Wilkinson\, Judi Love\, Lou Sa
- nders\, Rob Beckett\, Richard Ayoade\, Roisin Conaty and Sara Pascoe try 
- to make each other laugh without cracking a smile.
-DTEND:20250320T043100Z
-DTSTAMP:20250324T021101Z
-DTSTART:20250320T040000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:LOL: Last One Laughing UK - 1x01 - Shake Your Tush
-UID:NzbDrone_episode_25614
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Prime Video
-DESCRIPTION:It’s carnage in there as Jimmy starts to dish out the cards. M
- eanwhile\, Rob Beckett pays a touching tribute to his grandma and there’s
-  a sprinkling of magic from Bob Mortimer. Plus\, when someone breaks the 
- rules\, Jimmy decides it’s time for an old school punishment.
-DTEND:20250320T043100Z
-DTSTAMP:20250324T021101Z
-DTSTART:20250320T040000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:LOL: Last One Laughing UK - 1x02 - Naughty Taughty
-UID:NzbDrone_episode_25615
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Prime Video
-DESCRIPTION:As the game nears the halfway point\, Daisy is tested to the l
- imit by Bob’s songs\, Lou sees a side of herself she didn’t know existed\
- , and the gang get a taste of the occult when Jimmy sends in an unexpecte
- d guest.
-DTEND:20250320T043100Z
-DTSTAMP:20250324T021101Z
-DTSTART:20250320T040000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:LOL: Last One Laughing UK - 1x03 - Anyone for Ping Pong?
-UID:NzbDrone_episode_25616
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Prime Video
-DESCRIPTION:Bob shows off his newsreader skills\, Judi introduces a furry 
- friend\, and it all kicks off when a surprise celebrity guest invades Rob
- ’s personal space. Meanwhile\, one of the comics gets the serious giggles
- . And as the clock ticks down\, can anyone make Richard Ayoade laugh?
-DTEND:20250320T043100Z
-DTSTAMP:20250324T021101Z
-DTSTART:20250320T040000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:LOL: Last One Laughing UK - 1x04 - Cracking Up
-UID:NzbDrone_episode_25617
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HBO
 DESCRIPTION:In the wake of the festivities\, Laurie finds herself feeling 
  deceived by Jaclyn\, while Saxon tries to bury what happened the night be
  fore.
-DTEND:20250324T015900Z
-DTSTAMP:20250324T021101Z
+DTEND:20250324T020000Z
+DTSTAMP:20250325T021101Z
 DTSTART:20250324T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -86,30 +17,10 @@ SUMMARY:The White Lotus - 3x06 - Denials
 UID:NzbDrone_episode_25311
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Prime Video
-DTEND:20250327T043100Z
-DTSTAMP:20250324T021101Z
-DTSTART:20250327T040000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:LOL: Last One Laughing UK - 1x05 - Meats and Cheeses
-UID:NzbDrone_episode_25618
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Prime Video
-DTEND:20250327T050200Z
-DTSTAMP:20250324T021101Z
-DTSTART:20250327T043100Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:LOL: Last One Laughing UK - 1x06 - The Last Laugh
-UID:NzbDrone_episode_25619
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Mikey Madison hosts\, and Morgan Wallen performs.
 DTEND:20250330T043500Z
-DTSTAMP:20250324T021101Z
+DTSTAMP:20250325T021101Z
 DTSTART:20250330T033000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -121,7 +32,7 @@ CATEGORIES:FOX
 DESCRIPTION:Bart dips his toe into the world of celebrity DJ-ing\, and Hom
  er finally pushes Flanders too far.
 DTEND:20250331T002500Z
-DTSTAMP:20250324T021101Z
+DTSTAMP:20250325T021101Z
 DTSTART:20250331T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -130,8 +41,11 @@ UID:NzbDrone_episode_25395
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DTEND:20250331T015900Z
-DTSTAMP:20250324T021101Z
+DESCRIPTION:Rick confronts his suspected nemesis in Bangkok. Belinda takes
+  Zion to Chloe's party\, Saxon questions Timothy's behavior\, Laurie atte
+ nds Muay Thai with Valentin\, and Gaitok dates Mook.
+DTEND:20250331T020000Z
+DTSTAMP:20250325T021101Z
 DTSTART:20250331T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -142,7 +56,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jack Black hosts\, and Elton John & Brandi Carlile perform.
 DTEND:20250406T043500Z
-DTSTAMP:20250324T021101Z
+DTSTAMP:20250325T021101Z
 DTSTART:20250406T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -152,8 +66,8 @@ UID:NzbDrone_episode_25423
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DTEND:20250407T015900Z
-DTSTAMP:20250324T021101Z
+DTEND:20250407T020000Z
+DTSTAMP:20250325T021101Z
 DTSTART:20250407T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -164,7 +78,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jon Hamm hosts\, and Lizzo performs.
 DTEND:20250413T043500Z
-DTSTAMP:20250324T021101Z
+DTSTAMP:20250325T021101Z
 DTSTART:20250413T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
