@@ -4,12 +4,26 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
+CATEGORIES:Channel 4
+DESCRIPTION:Roman Kemp\, Amelia Dimoldenberg\, Sarah Beeny and Maxine Peak
+ e take cupcakes to a new level and recreate their most memorable romantic
+  dates in biscuit form.
+DTEND:20250323T204300Z
+DTSTAMP:20250327T021101Z
+DTSTART:20250323T194500Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Celebrity Bake Off for SU2C - 8x02 - Roman Kemp/Amelia D
+ imoldenberg/Sarah Beeny/Maxine Peake
+UID:NzbDrone_episode_25401
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:HBO
 DESCRIPTION:In the wake of the festivities\, Laurie finds herself feeling 
  deceived by Jaclyn\, while Saxon tries to bury what happened the night be
  fore.
 DTEND:20250324T020000Z
-DTSTAMP:20250326T021101Z
+DTSTAMP:20250327T021101Z
 DTSTART:20250324T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -20,7 +34,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Mikey Madison hosts\, and Morgan Wallen performs.
 DTEND:20250330T043500Z
-DTSTAMP:20250326T021101Z
+DTSTAMP:20250327T021101Z
 DTSTART:20250330T033000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -28,11 +42,26 @@ SUMMARY:Saturday Night Live - 50x16 - Mikey Madison / Morgan Wallen
 UID:NzbDrone_episode_25422
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Channel 4
+DESCRIPTION:Sophie Willan\, Phil Wang\, Gbemisola Ikumelo and Kate Garrawa
+ y take on mini loaf cakes in the Signature\, things get hot in there duri
+ ng the Technical. Lastly\, the celebs reveal their hidden talent in this 
+ week's Choux-stopper.
+DTEND:20250330T194300Z
+DTSTAMP:20250327T021101Z
+DTSTART:20250330T184500Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Great Celebrity Bake Off for SU2C - 8x03 - Sophie Willan/Phil 
+ Wang/Gbemisola Ikumelo/Kate Garraway
+UID:NzbDrone_episode_25402
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:FOX
 DESCRIPTION:Bart dips his toe into the world of celebrity DJ-ing\, and Hom
  er finally pushes Flanders too far.
 DTEND:20250331T002500Z
-DTSTAMP:20250326T021101Z
+DTSTAMP:20250327T021101Z
 DTSTART:20250331T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -41,11 +70,11 @@ UID:NzbDrone_episode_25395
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DESCRIPTION:Rick confronts his suspected nemesis in Bangkok. Belinda takes
-  Zion to Chloe's party\, Saxon questions Timothy's behavior\, Laurie atte
- nds Muay Thai with Valentin\, and Gaitok dates Mook.
+DESCRIPTION:Belinda brings Zion to Chloe’s expat party. Saxon confronts Ti
+ m about how strange he’s been acting. Gaitok and Mook have their first da
+ te.
 DTEND:20250331T020000Z
-DTSTAMP:20250326T021101Z
+DTSTAMP:20250327T021101Z
 DTSTART:20250331T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -56,7 +85,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jack Black hosts\, and Elton John & Brandi Carlile perform.
 DTEND:20250406T043500Z
-DTSTAMP:20250326T021101Z
+DTSTAMP:20250327T021101Z
 DTSTART:20250406T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -65,9 +94,19 @@ SUMMARY:Saturday Night Live - 50x17 - Jack Black / Elton John & Brandi Car
 UID:NzbDrone_episode_25423
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Channel 4
+DTEND:20250406T194300Z
+DTSTAMP:20250327T021101Z
+DTSTART:20250406T184500Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Great Celebrity Bake Off for SU2C - 8x04 - TBA
+UID:NzbDrone_episode_25403
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250407T020000Z
-DTSTAMP:20250326T021101Z
+DTSTAMP:20250327T021101Z
 DTSTART:20250407T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -78,11 +117,21 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jon Hamm hosts\, and Lizzo performs.
 DTEND:20250413T043500Z
-DTSTAMP:20250326T021101Z
+DTSTAMP:20250327T021101Z
 DTSTART:20250413T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Saturday Night Live - 50x18 - Jon Hamm / Lizzo
 UID:NzbDrone_episode_25424
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Channel 4
+DTEND:20250413T194300Z
+DTSTAMP:20250327T021101Z
+DTSTART:20250413T184500Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Great Celebrity Bake Off for SU2C - 8x05 - TBA
+UID:NzbDrone_episode_25404
 END:VEVENT
 END:VCALENDAR
