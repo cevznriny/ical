@@ -4,23 +4,10 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:HBO
-DESCRIPTION:In the wake of the festivities\, Laurie finds herself feeling 
- deceived by Jaclyn\, while Saxon tries to bury what happened the night be
- fore.
-DTEND:20250324T020000Z
-DTSTAMP:20250331T011101Z
-DTSTART:20250324T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The White Lotus - 3x06 - Denials
-UID:NzbDrone_episode_25311
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Mikey Madison hosts\, and Morgan Wallen performs.
 DTEND:20250330T043500Z
-DTSTAMP:20250331T011101Z
+DTSTAMP:20250401T011100Z
 DTSTART:20250330T033000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,7 +21,7 @@ DESCRIPTION:Sophie Willan\, Phil Wang\, Gbemisola Ikumelo and Kate Garrawa
  ng the Technical. Lastly\, the celebs reveal their hidden talent in this 
  week's Choux-stopper.
 DTEND:20250330T194300Z
-DTSTAMP:20250331T011101Z
+DTSTAMP:20250401T011100Z
 DTSTART:20250330T184500Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,7 +34,7 @@ CATEGORIES:FOX
 DESCRIPTION:Bart dips his toe into the world of celebrity DJ-ing\, and Hom
  er finally pushes Flanders too far.
 DTEND:20250331T002500Z
-DTSTAMP:20250331T011101Z
+DTSTAMP:20250401T011100Z
 DTSTART:20250331T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -60,10 +47,10 @@ DESCRIPTION:Belinda brings Zion to Chloe’s expat party. Saxon confronts Ti
  m about how strange he’s been acting. Gaitok and Mook have their first da
  te.
 DTEND:20250331T020000Z
-DTSTAMP:20250331T011101Z
+DTSTAMP:20250401T011100Z
 DTSTART:20250331T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The White Lotus - 3x07 - Killer Instincts
 UID:NzbDrone_episode_25312
 END:VEVENT
@@ -71,7 +58,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jack Black hosts\, and Elton John & Brandi Carlile perform.
 DTEND:20250406T043500Z
-DTSTAMP:20250331T011101Z
+DTSTAMP:20250401T011100Z
 DTSTART:20250406T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -88,7 +75,7 @@ DESCRIPTION:Rebecca Lucy Taylor (Self Esteem)\, Adam Buxton\, Tommy Tierna
  perfect piping in the Technical\, before recreating their own celebrity h
  ero in pastry for the Showstopper.
 DTEND:20250406T194300Z
-DTSTAMP:20250331T011101Z
+DTSTAMP:20250401T011100Z
 DTSTART:20250406T184500Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -98,8 +85,13 @@ UID:NzbDrone_episode_25403
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
+DESCRIPTION:On their last night in paradise\, Laurie\, Jaclyn\, and Kate a
+ re forced to reckon with the changes in their decades-long friendship. Be
+ linda and Zion negotiate a deal that could secure her future. Gaitok shar
+ es his plans with a disappointed Mook. Timothy comes up with a shocking p
+ lan for his family.
 DTEND:20250407T020000Z
-DTSTAMP:20250331T011101Z
+DTSTAMP:20250401T011100Z
 DTSTART:20250407T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -110,7 +102,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jon Hamm hosts\, and Lizzo performs.
 DTEND:20250413T043500Z
-DTSTAMP:20250331T011101Z
+DTSTAMP:20250401T011100Z
 DTSTART:20250413T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -120,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20250413T194300Z
-DTSTAMP:20250331T011101Z
+DTSTAMP:20250401T011100Z
 DTSTART:20250413T184500Z
 SEQUENCE:0
 STATUS:TENTATIVE
