@@ -7,7 +7,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Mikey Madison hosts\, and Morgan Wallen performs.
 DTEND:20250330T043500Z
-DTSTAMP:20250401T011100Z
+DTSTAMP:20250402T011100Z
 DTSTART:20250330T033000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -15,18 +15,31 @@ SUMMARY:Saturday Night Live - 50x16 - Mikey Madison / Morgan Wallen
 UID:NzbDrone_episode_25422
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Harry is called upon to make a problem disappear after a night
+  out goes awry for the sons of two warring crime families\; as boss Richi
+ e Stevenson looks to pin blame\, patriarch Conrad Harrigan gathers his cl
+ an with a plan.
+DTEND:20250330T075900Z
+DTSTAMP:20250402T011100Z
+DTSTART:20250330T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MobLand - 1x01 - Stick or Twist
+UID:NzbDrone_episode_25640
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Channel 4
-DESCRIPTION:Sophie Willan\, Phil Wang\, Gbemisola Ikumelo and Kate Garrawa
- y take on mini loaf cakes in the Signature\, things get hot in there duri
- ng the Technical. Lastly\, the celebs reveal their hidden talent in this 
- week's Choux-stopper.
+DESCRIPTION:Kate Garraway\, Phil Wang\, Gbemisola Ikumelo and Sophie Willa
+ n take on mini loaf cakes and reveal their hidden talents in showstopping
+  choux.
 DTEND:20250330T194300Z
-DTSTAMP:20250401T011100Z
+DTSTAMP:20250402T011100Z
 DTSTART:20250330T184500Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:The Great Celebrity Bake Off for SU2C - 8x03 - Sophie Willan\, Phi
- l Wang\, Gbemisola Ikumelo\, Kate Garraway
+SUMMARY:The Great Celebrity Bake Off for SU2C - 8x03 - Kate Garraway/Phil 
+ Wang/Gbemisola Ikumelo/Sophie Willan
 UID:NzbDrone_episode_25402
 END:VEVENT
 BEGIN:VEVENT
@@ -34,7 +47,7 @@ CATEGORIES:FOX
 DESCRIPTION:Bart dips his toe into the world of celebrity DJ-ing\, and Hom
  er finally pushes Flanders too far.
 DTEND:20250331T002500Z
-DTSTAMP:20250401T011100Z
+DTSTAMP:20250402T011100Z
 DTSTART:20250331T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,7 +60,7 @@ DESCRIPTION:Belinda brings Zion to Chloe’s expat party. Saxon confronts Ti
  m about how strange he’s been acting. Gaitok and Mook have their first da
  te.
 DTEND:20250331T020000Z
-DTSTAMP:20250401T011100Z
+DTSTAMP:20250402T011100Z
 DTSTART:20250331T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -58,7 +71,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jack Black hosts\, and Elton John & Brandi Carlile perform.
 DTEND:20250406T043500Z
-DTSTAMP:20250401T011100Z
+DTSTAMP:20250402T011100Z
 DTSTART:20250406T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -67,20 +80,29 @@ SUMMARY:Saturday Night Live - 50x17 - Jack Black / Elton John & Brandi Car
 UID:NzbDrone_episode_25423
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Harry deals with the aftermath of the Harrigan family meeting 
+ as Jan wonders what's the final straw.
+DTEND:20250406T075900Z
+DTSTAMP:20250402T011100Z
+DTSTART:20250406T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 1x02 - Jigsaw Puzzle
+UID:NzbDrone_episode_25641
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Channel 4
-DESCRIPTION:Rebecca Lucy Taylor (Self Esteem)\, Adam Buxton\, Tommy Tierna
- n and Meera Syal put their skills to the test\, as they try to impress\, 
- Caroline Waldegrave and Paul Hollywood the bake-off judges. To raise mone
- y they must bake crumpets - in the Signature and try not to panic - over 
- perfect piping in the Technical\, before recreating their own celebrity h
- ero in pastry for the Showstopper.
+DESCRIPTION:Pop star Self Esteem (aka Rebecca Taylor)\, Tommy Tiernan\, Me
+ era Syal and Adam Buxton take on crumpets and recreate their own celeb he
+ roes in pastry.
 DTEND:20250406T194300Z
-DTSTAMP:20250401T011100Z
+DTSTAMP:20250402T011100Z
 DTSTART:20250406T184500Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Great Celebrity Bake Off for SU2C - 8x04 - Rebecca Lucy Taylor
- \, Adam Buxton\, Tommy Tiernan\, Meera Syal
+SUMMARY:The Great Celebrity Bake Off for SU2C - 8x04 - Self Esteem/Tommy T
+ iernan/Meera Syal/Adam Buxton
 UID:NzbDrone_episode_25403
 END:VEVENT
 BEGIN:VEVENT
@@ -91,7 +113,7 @@ DESCRIPTION:On their last night in paradise\, Laurie\, Jaclyn\, and Kate a
  es his plans with a disappointed Mook. Timothy comes up with a shocking p
  lan for his family.
 DTEND:20250407T020000Z
-DTSTAMP:20250401T011100Z
+DTSTAMP:20250402T011100Z
 DTSTART:20250407T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -102,7 +124,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jon Hamm hosts\, and Lizzo performs.
 DTEND:20250413T043500Z
-DTSTAMP:20250401T011100Z
+DTSTAMP:20250402T011100Z
 DTSTART:20250413T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -110,13 +132,49 @@ SUMMARY:Saturday Night Live - 50x18 - Jon Hamm / Lizzo
 UID:NzbDrone_episode_25424
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:As Kevin prepares for all-out war\, Harry kills two birds with
+  one stone.
+DTEND:20250413T075900Z
+DTSTAMP:20250402T011100Z
+DTSTART:20250413T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 1x03 - Plan B
+UID:NzbDrone_episode_25642
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20250413T194300Z
-DTSTAMP:20250401T011100Z
+DTSTAMP:20250402T011100Z
 DTSTART:20250413T184500Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Great Celebrity Bake Off for SU2C - 8x05 - TBA
 UID:NzbDrone_episode_25404
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Harry pays a visit to Antoine at the urging of Bella\; Fisk an
+ d Mukasa trade theories.
+DTEND:20250420T075900Z
+DTSTAMP:20250402T011100Z
+DTSTART:20250420T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 1x04 - Rat Trap
+UID:NzbDrone_episode_25643
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Kevin and Harry assess scenarios in a search for insurance and
+  an exit strategy.
+DTEND:20250427T075900Z
+DTSTAMP:20250402T011100Z
+DTSTART:20250427T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 1x05 - Funeral for a Friend
+UID:NzbDrone_episode_25644
 END:VEVENT
 END:VCALENDAR
