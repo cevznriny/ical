@@ -7,7 +7,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Mikey Madison hosts\, and Morgan Wallen performs.
 DTEND:20250330T043500Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250330T033000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -21,7 +21,7 @@ DESCRIPTION:Harry is called upon to make a problem disappear after a night
  e Stevenson looks to pin blame\, patriarch Conrad Harrigan gathers his cl
  an with a plan.
 DTEND:20250330T075900Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250330T070000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,7 +34,7 @@ DESCRIPTION:Kate Garraway\, Phil Wang\, Gbemisola Ikumelo and Sophie Willa
  n take on mini loaf cakes and reveal their hidden talents in showstopping
   choux.
 DTEND:20250330T194300Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250330T184500Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,7 +47,7 @@ CATEGORIES:FOX
 DESCRIPTION:Bart dips his toe into the world of celebrity DJ-ing\, and Hom
  er finally pushes Flanders too far.
 DTEND:20250331T002500Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250331T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -60,7 +60,7 @@ DESCRIPTION:Belinda brings Zion to Chloe’s expat party. Saxon confronts Ti
  m about how strange he’s been acting. Gaitok and Mook have their first da
  te.
 DTEND:20250331T020100Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250331T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jack Black hosts\, and Elton John & Brandi Carlile perform.
 DTEND:20250406T043500Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250406T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -84,7 +84,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Harry deals with the aftermath of the Harrigan family meeting 
  as Jan wonders what's the final straw.
 DTEND:20250406T075900Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250406T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -97,7 +97,7 @@ DESCRIPTION:Pop star Self Esteem (aka Rebecca Taylor)\, Tommy Tiernan\, Me
  era Syal and Adam Buxton take on crumpets and recreate their own celeb he
  roes in pastry.
 DTEND:20250406T194300Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250406T184500Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -110,7 +110,7 @@ CATEGORIES:FOX
 DESCRIPTION:Springfield becomes hooked on a miracle weight loss drug... al
  l except Homer.
 DTEND:20250407T002500Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250407T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -125,7 +125,7 @@ DESCRIPTION:On their last night in paradise\, Laurie\, Jaclyn\, and Kate a
  es his plans with a disappointed Mook. Timothy comes up with a shocking p
  lan for his family.
 DTEND:20250407T020100Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250407T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jon Hamm hosts\, and Lizzo performs.
 DTEND:20250413T043500Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250413T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -148,7 +148,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:As Kevin prepares for all-out war\, Harry kills two birds with
   one stone.
 DTEND:20250413T075900Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250413T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -157,12 +157,19 @@ UID:NzbDrone_episode_25642
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
+DESCRIPTION:Judges Caroline Waldegrave and Paul Hollywood\, and hosts Noel
+  Fielding and Alison Hammond\, are joined in the tent by Jim Howick\, Glo
+ ria Hunniford\, Ellie Goldstein and Jamali Maddix. The bakers take on a r
+ etro recipe for brandy snaps in the signature\, try not to be too cheesy 
+ in the technical and reveal all with a 'my best kept secret' cake showsto
+ pper.
 DTEND:20250413T194300Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250413T184500Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Great Celebrity Bake Off for SU2C - 8x05 - TBA
+SUMMARY:The Great Celebrity Bake Off for SU2C - 8x05 - Jim Howick/Gloria H
+ unniford/Ellie Goldstein/Jamali Maddix
 UID:NzbDrone_episode_25404
 END:VEVENT
 BEGIN:VEVENT
@@ -170,7 +177,7 @@ CATEGORIES:FOX
 DESCRIPTION:Marge's "nice-lady" reputation is on the line when an unknown 
  blackmailer threatens to expose the angry woman she is inside.
 DTEND:20250414T002500Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250414T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -182,7 +189,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Harry pays a visit to Antoine at the urging of Bella\; Fisk an
  d Mukasa trade theories.
 DTEND:20250420T075900Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250420T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -194,7 +201,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Kevin and Harry assess scenarios in a search for insurance and
   an exit strategy.
 DTEND:20250427T075900Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250427T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -207,7 +214,7 @@ DESCRIPTION:After Grampa and Moe recruit a Macedonian slugger to play in S
  pringfield\, it strains their friendship and the very integrity of baseba
  ll.
 DTEND:20250428T002500Z
-DTSTAMP:20250405T011100Z
+DTSTAMP:20250406T011101Z
 DTSTART:20250428T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
