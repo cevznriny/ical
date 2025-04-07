@@ -4,50 +4,11 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:Mikey Madison hosts\, and Morgan Wallen performs.
-DTEND:20250330T043500Z
-DTSTAMP:20250406T011101Z
-DTSTART:20250330T033000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Saturday Night Live - 50x16 - Mikey Madison / Morgan Wallen
-UID:NzbDrone_episode_25422
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Paramount+
-DESCRIPTION:Harry is called upon to make a problem disappear after a night
-  out goes awry for the sons of two warring crime families\; as boss Richi
- e Stevenson looks to pin blame\, patriarch Conrad Harrigan gathers his cl
- an with a plan.
-DTEND:20250330T075900Z
-DTSTAMP:20250406T011101Z
-DTSTART:20250330T070000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MobLand - 1x01 - Stick or Twist
-UID:NzbDrone_episode_25640
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Channel 4
-DESCRIPTION:Kate Garraway\, Phil Wang\, Gbemisola Ikumelo and Sophie Willa
- n take on mini loaf cakes and reveal their hidden talents in showstopping
-  choux.
-DTEND:20250330T194300Z
-DTSTAMP:20250406T011101Z
-DTSTART:20250330T184500Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Great Celebrity Bake Off for SU2C - 8x03 - Kate Garraway/Phil 
- Wang/Gbemisola Ikumelo/Sophie Willan
-UID:NzbDrone_episode_25402
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:FOX
 DESCRIPTION:Bart dips his toe into the world of celebrity DJ-ing\, and Hom
  er finally pushes Flanders too far.
 DTEND:20250331T002500Z
-DTSTAMP:20250406T011101Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250331T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -60,7 +21,7 @@ DESCRIPTION:Belinda brings Zion to Chloe’s expat party. Saxon confronts Ti
  m about how strange he’s been acting. Gaitok and Mook have their first da
  te.
 DTEND:20250331T020100Z
-DTSTAMP:20250406T011101Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250331T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -69,25 +30,25 @@ UID:NzbDrone_episode_25312
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
-DESCRIPTION:Jack Black hosts\, and Elton John & Brandi Carlile perform.
+DESCRIPTION:Host Jack Black\; Elton John and Brandi Carlile perform.
 DTEND:20250406T043500Z
-DTSTAMP:20250406T011101Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250406T033000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Saturday Night Live - 50x17 - Jack Black / Elton John & Brandi Car
- lile
+STATUS:CONFIRMED
+SUMMARY:Saturday Night Live - 50x17 - Jack Black / Elton John and Brandi C
+ arlile
 UID:NzbDrone_episode_25423
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:Harry deals with the aftermath of the Harrigan family meeting 
  as Jan wonders what's the final straw.
-DTEND:20250406T075900Z
-DTSTAMP:20250406T011101Z
+DTEND:20250406T075500Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250406T070000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:MobLand - 1x02 - Jigsaw Puzzle
 UID:NzbDrone_episode_25641
 END:VEVENT
@@ -97,10 +58,10 @@ DESCRIPTION:Pop star Self Esteem (aka Rebecca Taylor)\, Tommy Tiernan\, Me
  era Syal and Adam Buxton take on crumpets and recreate their own celeb he
  roes in pastry.
 DTEND:20250406T194300Z
-DTSTAMP:20250406T011101Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250406T184500Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Great Celebrity Bake Off for SU2C - 8x04 - Self Esteem/Tommy T
  iernan/Meera Syal/Adam Buxton
 UID:NzbDrone_episode_25403
@@ -110,10 +71,10 @@ CATEGORIES:FOX
 DESCRIPTION:Springfield becomes hooked on a miracle weight loss drug... al
  l except Homer.
 DTEND:20250407T002500Z
-DTSTAMP:20250406T011101Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250407T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Simpsons - 36x13 - The Last Man Expanding
 UID:NzbDrone_episode_25651
 END:VEVENT
@@ -125,7 +86,7 @@ DESCRIPTION:On their last night in paradise\, Laurie\, Jaclyn\, and Kate a
  es his plans with a disappointed Mook. Timothy comes up with a shocking p
  lan for his family.
 DTEND:20250407T020100Z
-DTSTAMP:20250406T011101Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250407T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -136,7 +97,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Jon Hamm hosts\, and Lizzo performs.
 DTEND:20250413T043500Z
-DTSTAMP:20250406T011101Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250413T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -147,8 +108,8 @@ BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:As Kevin prepares for all-out war\, Harry kills two birds with
   one stone.
-DTEND:20250413T075900Z
-DTSTAMP:20250406T011101Z
+DTEND:20250413T075500Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250413T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -164,7 +125,7 @@ DESCRIPTION:Judges Caroline Waldegrave and Paul Hollywood\, and hosts Noel
  in the technical and reveal all with a 'my best kept secret' cake showsto
  pper.
 DTEND:20250413T194300Z
-DTSTAMP:20250406T011101Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250413T184500Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -177,7 +138,7 @@ CATEGORIES:FOX
 DESCRIPTION:Marge's "nice-lady" reputation is on the line when an unknown 
  blackmailer threatens to expose the angry woman she is inside.
 DTEND:20250414T002500Z
-DTSTAMP:20250406T011101Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250414T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -188,8 +149,8 @@ BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:Harry pays a visit to Antoine at the urging of Bella\; Fisk an
  d Mukasa trade theories.
-DTEND:20250420T075900Z
-DTSTAMP:20250406T011101Z
+DTEND:20250420T075500Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250420T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -200,8 +161,8 @@ BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:Kevin and Harry assess scenarios in a search for insurance and
   an exit strategy.
-DTEND:20250427T075900Z
-DTSTAMP:20250406T011101Z
+DTEND:20250427T075500Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250427T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -214,11 +175,31 @@ DESCRIPTION:After Grampa and Moe recruit a Macedonian slugger to play in S
  pringfield\, it strains their friendship and the very integrity of baseba
  ll.
 DTEND:20250428T002500Z
-DTSTAMP:20250406T011101Z
+DTSTAMP:20250407T011101Z
 DTSTART:20250428T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Simpsons - 36x15 - Abe League of Their Moe
 UID:NzbDrone_episode_25660
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DTEND:20250504T043500Z
+DTSTAMP:20250407T011101Z
+DTSTART:20250504T033000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Saturday Night Live - 50x19 - May 3\, 2025
+UID:NzbDrone_episode_25425
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20250504T075500Z
+DTSTAMP:20250407T011101Z
+DTSTART:20250504T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 1x06 - Antwerp Blues
+UID:NzbDrone_episode_25645
 END:VEVENT
 END:VCALENDAR
