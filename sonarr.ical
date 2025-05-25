@@ -4,24 +4,13 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:NBC
-DESCRIPTION:Scarlett Johansson hosts\, and Bad Bunny performs.
-DTEND:20250518T043500Z
-DTSTAMP:20250524T011101Z
-DTSTART:20250518T033000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Saturday Night Live - 50x21 - Scarlett Johansson / Bad Bunny
-UID:NzbDrone_episode_25429
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:Maeve extends an olive branch. Kevin questions the wisdom of a
   sit down with Jaime. Tattersall offers Fisk and Mukasa a new point of en
  try. Harry comes to Kat for a favor as Richie\, at the Sinful Monkey\, co
  ntemplates a new affiliation.
 DTEND:20250518T074600Z
-DTSTAMP:20250524T011101Z
+DTSTAMP:20250525T011101Z
 DTSTART:20250518T070000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,7 +23,7 @@ DESCRIPTION:When Bart & Lisa stop watching Itchy & Scratchy together\, Mar
  ge fears that they'll start to drift apart... but she has no idea how bad
   things are about to get!
 DTEND:20250519T002500Z
-DTSTAMP:20250524T011101Z
+DTSTAMP:20250525T011101Z
 DTSTART:20250519T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -46,7 +35,7 @@ CATEGORIES:Apple TV+
 DESCRIPTION:Coop tries getting back what he’s lost. Mel and Sam clash. Coo
  p\, Nick\, and Barney have a boys’ night.
 DTEND:20250523T045100Z
-DTSTAMP:20250524T011101Z
+DTSTAMP:20250525T011101Z
 DTSTART:20250523T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -54,9 +43,62 @@ SUMMARY:Your Friends & Neighbors - 1x08 - When Did We Become These People?
 UID:NzbDrone_episode_27516
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Kaleb and Lisa are both away and Jeremy has been left to run t
+ he farm on his own. Help is soon needed\, and the arrival of a new farmha
+ nd to ease the burden gives Jeremy space for some strategic thinking.
+DTEND:20250523T194700Z
+DTSTAMP:20250525T011101Z
+DTSTART:20250523T190000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Clarkson's Farm - 4x01 - Solo-ing
+UID:NzbDrone_episode_25650
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Jeremy has found a promising pub\, Diddly Squat’s newest arriv
+ al teaches him a thing or two about farming\, and the ageing Lamborghini 
+ has competition.
+DTEND:20250523T194700Z
+DTSTAMP:20250525T011101Z
+DTSTART:20250523T190000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Clarkson's Farm - 4x02 - Pubbing
+UID:NzbDrone_episode_25653
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Relentless wet weather puts the crop planting in crisis\, Kale
+ b returns to find another farmer on his patch\, and while his pub search 
+ continues\, in an effort to dry the soil Jeremy gets to grips with a new 
+ piece of kit.
+DTEND:20250523T194700Z
+DTSTAMP:20250525T011101Z
+DTSTART:20250523T190000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Clarkson's Farm - 4x03 - Crawling
+UID:NzbDrone_episode_25654
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:There’s a big new arrival at the farm\, a much smaller one dow
+ n in the pig pens\, and it looks as though the pub search might finally b
+ e over.
+DTEND:20250523T194700Z
+DTSTAMP:20250525T011101Z
+DTSTART:20250523T190000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Clarkson's Farm - 4x04 - Cottaging
+UID:NzbDrone_episode_25655
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Paramount+
 DTEND:20250525T074600Z
-DTSTAMP:20250524T011101Z
+DTSTAMP:20250525T011101Z
 DTSTART:20250525T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -67,7 +109,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:Coop fights for his freedom.
 DTEND:20250530T045100Z
-DTSTAMP:20250524T011101Z
+DTSTAMP:20250525T011101Z
 DTSTART:20250530T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -76,13 +118,53 @@ SUMMARY:Your Friends & Neighbors - 1x09 - Everything Becomes Symbol and Ir
 UID:NzbDrone_episode_27517
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20250530T194700Z
+DTSTAMP:20250525T011101Z
+DTSTART:20250530T190000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 4x05 - Endgaming
+UID:NzbDrone_episode_25656
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20250530T203400Z
+DTSTAMP:20250525T011101Z
+DTSTART:20250530T194700Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 4x06 - Splurging
+UID:NzbDrone_episode_25657
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Paramount+
 DTEND:20250601T074600Z
-DTSTAMP:20250524T011101Z
+DTSTAMP:20250525T011101Z
 DTSTART:20250601T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:MobLand - 1x10 - The Beast in Me
 UID:NzbDrone_episode_25649
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20250606T194700Z
+DTSTAMP:20250525T011101Z
+DTSTART:20250606T190000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 4x07 - Hurrying
+UID:NzbDrone_episode_25658
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20250606T203400Z
+DTSTAMP:20250525T011101Z
+DTSTART:20250606T194700Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 4x08 - Landlording
+UID:NzbDrone_episode_25659
 END:VEVENT
 END:VCALENDAR
