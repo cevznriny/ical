@@ -4,23 +4,11 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Gordon helps the owner of an understaffed barbecue joint start
-  anew by minimizing the menu and inventory by focusing on BBQ staples.
-DTEND:20250626T014400Z
-DTSTAMP:20250703T011101Z
-DTSTART:20250626T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Gordon Ramsay’s Secret Service - 1x06 - Wilson's Secret Sauce
-UID:NzbDrone_episode_27620
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:HBO
 DESCRIPTION:Amid their domestic quibbles\, Agnes and Ada welcome the Scott
  s into their home. Bertha and George disagree about Gladys's future.
 DTEND:20250630T015400Z
-DTSTAMP:20250703T011101Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250630T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,8 +20,8 @@ CATEGORIES:History
 DESCRIPTION:Ever taken medical advice from a cigarette commercial? There w
  as a time when any and all "cures" could be sold to the public indiscrimi
  nately.
-DTEND:20250630T024100Z
-DTSTAMP:20250703T011101Z
+DTEND:20250630T024200Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250630T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -43,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250707T015400Z
-DTSTAMP:20250703T011101Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250707T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -52,13 +40,16 @@ UID:NzbDrone_episode_27563
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:History
-DESCRIPTION:TBD
-DTEND:20250707T024100Z
-DTSTAMP:20250703T011101Z
+DESCRIPTION:The modern concept of extreme sports is a product of marketing
+ \, but back in the old days\, the lack of rules made them truly extreme\;
+  from bone-crushing football and deadly baseball games to wild events lik
+ e auto polo.
+DTEND:20250707T024200Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250707T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Hazardous History with Henry Winkler - 1x04 - Misfires
+SUMMARY:Hazardous History with Henry Winkler - 1x04 - Very Extreme Sports
 UID:NzbDrone_episode_34329
 END:VEVENT
 BEGIN:VEVENT
@@ -67,7 +58,7 @@ DESCRIPTION:Gordon gains intel on community staple Callahan's Seafood Bar
  and Grill\, which has rapidly declined since the owner died and left the 
  restaurant to his three daughters.
 DTEND:20250710T014400Z
-DTSTAMP:20250703T011101Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250710T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -77,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250714T015400Z
-DTSTAMP:20250703T011101Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250714T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -86,13 +77,15 @@ UID:NzbDrone_episode_27564
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:History
-DESCRIPTION:TBD
-DTEND:20250714T024100Z
-DTSTAMP:20250703T011101Z
+DESCRIPTION:Exploding cars and blimp disasters to kids sent through the ma
+ il and doomed personal helicopters\; the past is packed with travel tales
+  and the misfires that paved the road to modern transportation.
+DTEND:20250714T024200Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250714T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Hazardous History with Henry Winkler - 1x05 - Dangerous Foods
+SUMMARY:Hazardous History with Henry Winkler - 1x05 - Treacherous Travel
 UID:NzbDrone_episode_34330
 END:VEVENT
 BEGIN:VEVENT
@@ -106,7 +99,7 @@ DESCRIPTION:After a much-needed reality check\, the sisters unite to rebui
  for a successful mission and failure is not on the menu. Phase two of Gor
  don's assignment: relaunch and sustain a functional restaurant.
 DTEND:20250717T014400Z
-DTSTAMP:20250703T011101Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250717T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -116,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250721T015400Z
-DTSTAMP:20250703T011101Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250721T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -125,20 +118,22 @@ UID:NzbDrone_episode_27565
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:History
-DESCRIPTION:TBD
-DTEND:20250721T024100Z
-DTSTAMP:20250703T011101Z
+DESCRIPTION:Snack on a feast of food horrors from the past: from radioacti
+ ve energy drinks\, to scandalous snacks made with Olestra\, to the appall
+ ing additives in your milk and bread\, we uncover the incredible things p
+ eople once ate without a second thought.
+DTEND:20250721T024200Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250721T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Hazardous History with Henry Winkler - 1x06 - Riskiest Household P
- roducts
+SUMMARY:Hazardous History with Henry Winkler - 1x06 - Food Fiascos
 UID:NzbDrone_episode_34331
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20250724T022200Z
-DTSTAMP:20250703T011101Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250724T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -148,11 +143,24 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250728T015400Z
-DTSTAMP:20250703T011101Z
+DTSTAMP:20250704T011100Z
 DTSTART:20250728T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Gilded Age - 3x06 - TBA
 UID:NzbDrone_episode_27566
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:The everyday products that are way more dangerous than meets t
+ he unsuspecting eye\; what were the most ill-advised and risky household 
+ products?
+DTEND:20250728T024200Z
+DTSTAMP:20250704T011100Z
+DTSTART:20250728T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 1x07 - Precarious Products
+UID:NzbDrone_episode_34380
 END:VEVENT
 END:VCALENDAR
