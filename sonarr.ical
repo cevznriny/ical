@@ -5,44 +5,6 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:FOX
-DESCRIPTION:Gordon gains intel on community staple Callahan's Seafood Bar 
- and Grill\, which has rapidly declined since the owner died and left the 
- restaurant to his three daughters.
-DTEND:20250710T014400Z
-DTSTAMP:20250715T011100Z
-DTSTART:20250710T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Gordon Ramsay’s Secret Service - 1x07 - Callahan's (1)
-UID:NzbDrone_episode_34372
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HBO
-DESCRIPTION:Bertha deals with unwanted rumors in the press… and the surpri
- se arrival of her sister Monica.
-DTEND:20250714T015500Z
-DTSTAMP:20250715T011100Z
-DTSTART:20250714T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Gilded Age - 3x04 - Marriage is a Gamble
-UID:NzbDrone_episode_27564
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:History
-DESCRIPTION:Exploding cars and blimp disasters to kids sent through the ma
- il and doomed personal helicopters\; the past is packed with travel tales
-  and the misfires that paved the road to modern transportation.
-DTEND:20250714T024200Z
-DTSTAMP:20250715T011100Z
-DTSTART:20250714T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hazardous History with Henry Winkler - 1x05 - Treacherous Travel
-UID:NzbDrone_episode_34330
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:FOX
 DESCRIPTION:After a much-needed reality check\, the sisters unite to rebui
  ld their family's legacy with Gordon's help. What starts as a heartfelt m
  emorial for their father turns into a mission to revamp Callahan's Seafoo
@@ -52,7 +14,7 @@ DESCRIPTION:After a much-needed reality check\, the sisters unite to rebui
  for a successful mission and failure is not on the menu. Phase two of Gor
  don's assignment: relaunch and sustain a functional restaurant.
 DTEND:20250717T014400Z
-DTSTAMP:20250715T011100Z
+DTSTAMP:20250716T011100Z
 DTSTART:20250717T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -67,7 +29,7 @@ DESCRIPTION:Gladys has trouble adjusting to her changed circumstances...an
  and\, Peggy gets an opportunity from an old colleague. Later\, drama ensu
  es at Mrs. Fish's Newport luncheon.
 DTEND:20250721T015500Z
-DTSTAMP:20250715T011100Z
+DTSTAMP:20250716T011100Z
 DTSTART:20250721T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -81,7 +43,7 @@ DESCRIPTION:Snack on a feast of food horrors from the past: from radioacti
  ing additives in your milk and bread\, we uncover the incredible things p
  eople once ate without a second thought.
 DTEND:20250721T024200Z
-DTSTAMP:20250715T011100Z
+DTSTAMP:20250716T011100Z
 DTSTART:20250721T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -91,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20250724T022200Z
-DTSTAMP:20250715T011100Z
+DTSTAMP:20250716T011100Z
 DTSTART:20250724T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -107,7 +69,7 @@ DESCRIPTION:While Bertha encourages Gladys to stand up for herself and her
  des in Dr. Kirkland about her past\, and Ada has a candid talk with Jack 
  about his future.
 DTEND:20250728T015500Z
-DTSTAMP:20250715T011100Z
+DTSTAMP:20250716T011100Z
 DTSTART:20250728T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -120,7 +82,7 @@ DESCRIPTION:The everyday products that are way more dangerous than meets t
  he unsuspecting eye\; what were the most ill-advised and risky household 
  products?
 DTEND:20250728T024200Z
-DTSTAMP:20250715T011100Z
+DTSTAMP:20250716T011100Z
 DTSTART:20250728T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -128,9 +90,22 @@ SUMMARY:Hazardous History with Henry Winkler - 1x07 - Precarious Products
 UID:NzbDrone_episode_34380
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:FOX
+DESCRIPTION:Gordon's assignment is to empower the owner of a Philadelphia 
+ establishment to rediscover her passion for cooking and managing a restau
+ rant and give her chefs the tools to succeed.
+DTEND:20250731T014400Z
+DTSTAMP:20250716T011100Z
+DTSTART:20250731T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Gordon Ramsay’s Secret Service - 1x09 - Pretty Girls Cook
+UID:NzbDrone_episode_34427
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250804T015500Z
-DTSTAMP:20250715T011100Z
+DTSTAMP:20250716T011100Z
 DTSTART:20250804T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -140,11 +115,31 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250811T015500Z
-DTSTAMP:20250715T011100Z
+DTSTAMP:20250716T011100Z
 DTSTART:20250811T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Gilded Age - 3x08 - My Mind is Made Up
 UID:NzbDrone_episode_27568
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DTEND:20250812T040000Z
+DTSTAMP:20250716T011100Z
+DTSTART:20250812T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Alien: Earth - 1x01 - Neverland
+UID:NzbDrone_episode_28013
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DTEND:20250812T040000Z
+DTSTAMP:20250716T011100Z
+DTSTART:20250812T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Alien: Earth - 1x02 - Mr. October
+UID:NzbDrone_episode_28014
 END:VEVENT
 END:VCALENDAR
