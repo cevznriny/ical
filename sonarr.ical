@@ -4,37 +4,11 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:HBO
-DESCRIPTION:While Gladys adjusts to her changed circumstances\, Larry runs
-  into a familiar face. Peggy gets an opportunity from an old colleague.
-DTEND:20250721T015500Z
-DTSTAMP:20250728T011100Z
-DTSTART:20250721T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Gilded Age - 3x05 - A Different World
-UID:NzbDrone_episode_27565
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:History
-DESCRIPTION:Snack on a feast of food horrors from the past: from radioacti
- ve energy drinks\, to scandalous snacks made with Olestra\, to the appall
- ing additives in your milk and bread\, we uncover the incredible things p
- eople once ate without a second thought.
-DTEND:20250721T024200Z
-DTSTAMP:20250728T011100Z
-DTSTART:20250721T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hazardous History with Henry Winkler - 1x06 - Food Fiascos
-UID:NzbDrone_episode_34331
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV+
 DESCRIPTION:On the last day of the tournament\, an unexpected visitor shak
  es things up while Santi’s golf dreams hang in the balance.
 DTEND:20250723T043300Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250723T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -46,7 +20,7 @@ CATEGORIES:Comedy Central
 DESCRIPTION:When the residents of South Park face their possible demise\, 
  Jesus returns to give them an important message.
 DTEND:20250724T022200Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250724T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -55,17 +29,13 @@ UID:NzbDrone_episode_25661
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
-DESCRIPTION:While Bertha encourages Gladys to stand up for herself and her
-  new husband\, George faces an upward battle to secure the rail line that
-  runs through Chicago. Larry gains intel that leads Oscar to have a long-
- awaited confrontation – but raises doubts for Marian. Later\, Peggy confi
- des in Dr. Kirkland about her past\, and Ada has a candid talk with Jack 
- about his future.
+DESCRIPTION:Bertha helps Gladys stand up for herself. George attempts a bo
+ ld business move. Peggy confides in Dr. Kirkland about her past.
 DTEND:20250728T015500Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250728T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Gilded Age - 3x06 - If You Want to Cook an Omelette
 UID:NzbDrone_episode_27566
 END:VEVENT
@@ -75,12 +45,25 @@ DESCRIPTION:The everyday products that are way more dangerous than meets t
  he unsuspecting eye\; what were the most ill-advised and risky household 
  products?
 DTEND:20250728T024200Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250728T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Hazardous History with Henry Winkler - 1x07 - Precarious Products
 UID:NzbDrone_episode_34380
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:BBC Two
+DESCRIPTION:Shocking new insights into the demise of modern humans' sister
+  species\, the Neanderthals\, Homo sapiens's possible role in their downf
+ all and how it became the last human species on Earth.
+DTEND:20250728T205900Z
+DTSTAMP:20250729T011101Z
+DTSTART:20250728T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Human (2025) - 1x03 - Last Humans Standing
+UID:NzbDrone_episode_34465
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
@@ -88,7 +71,7 @@ DESCRIPTION:Gordon's assignment is to empower the owner of a Philadelphia
  establishment to rediscover her passion for cooking and managing a restau
  rant and give her chefs the tools to succeed.
 DTEND:20250731T014300Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250731T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -98,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20250731T022200Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250731T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -108,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250804T015500Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250804T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -118,12 +101,25 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:History
 DTEND:20250804T024200Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250804T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Hazardous History with Henry Winkler - 1x08 - Occupational Hazards
 UID:NzbDrone_episode_34446
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:BBC Two
+DESCRIPTION:During the height of the Ice Age\, one of the coldest times hu
+ manity has ever known\, Homo sapiens steps into the last habitable contin
+ ents on the planet: the Americas.
+DTEND:20250804T205900Z
+DTSTAMP:20250729T011101Z
+DTSTART:20250804T200000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Human (2025) - 1x04 - Discovering the Americas
+UID:NzbDrone_episode_34466
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
@@ -135,7 +131,7 @@ DESCRIPTION:Established 36 years ago\, Bruno's remains a beacon of familia
  ging as he urges a natural transition for the future of the restaurant an
  d father-son duo.
 DTEND:20250807T014300Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250807T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -145,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20250807T022200Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250807T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -155,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
 DTEND:20250811T015500Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250811T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -163,9 +159,22 @@ SUMMARY:The Gilded Age - 3x08 - My Mind is Made Up
 UID:NzbDrone_episode_27568
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:BBC Two
+DESCRIPTION:Around 12\,000 years ago\, as the Ice Age finally thaws\, huma
+ nity makes a dramatic shift - abandoning nomadic life for permanent settl
+ ements.
+DTEND:20250811T205900Z
+DTSTAMP:20250729T011101Z
+DTSTART:20250811T200000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Human (2025) - 1x05 - A Great Gamble
+UID:NzbDrone_episode_34467
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:FX
 DTEND:20250812T040000Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250812T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -175,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FX
 DTEND:20250812T040000Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250812T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -185,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20250814T022200Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250814T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -195,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FX
 DTEND:20250819T040000Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250819T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -207,7 +216,7 @@ CATEGORIES:FOX
 DESCRIPTION:Gordon tries to neutralize the threat of vermin and unkempt ki
  tchen habits at Dahlak and help the owner pass the torch to her children.
 DTEND:20250821T014300Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250821T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -217,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20250821T022200Z
-DTSTAMP:20250728T011100Z
+DTSTAMP:20250729T011101Z
 DTSTART:20250821T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
