@@ -4,46 +4,6 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:HBO
-DESCRIPTION:Amid the release of a salacious book\, Mrs. Astor confides in 
- Bertha. Armed with updates from Arizona\, Larry returns home to troubling
-  news.
-DTEND:20250804T015500Z
-DTSTAMP:20250811T011101Z
-DTSTART:20250804T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Gilded Age - 3x07 - Ex-Communicated
-UID:NzbDrone_episode_27567
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:History
-DESCRIPTION:You thought your job was tough? Uncover the downright dangerou
- s gigs of the past. In a journey through the wild frontier of the no hold
- s-barred working world\, we'll find a dark side in the extreme lengths pe
- ople went to just to earn a buck.
-DTEND:20250804T024200Z
-DTSTAMP:20250811T011101Z
-DTSTART:20250804T020000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Hazardous History with Henry Winkler - 1x08 - Occupational Hazards
-UID:NzbDrone_episode_34446
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:BBC Two
-DESCRIPTION:During the height of the Ice Age\, one of the coldest times hu
- manity has ever known\, Homo sapiens steps into the last habitable contin
- ents on the planet: the Americas.
-DTEND:20250804T205900Z
-DTSTAMP:20250811T011101Z
-DTSTART:20250804T200000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Human (2025) - 1x04 - Discovering the Americas
-UID:NzbDrone_episode_34466
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:FOX
 DESCRIPTION:Established 36 years ago\, Bruno's remains a beacon of familia
  rity and joy for loyal customers in Philadelphia's community. However\, G
@@ -53,7 +13,7 @@ DESCRIPTION:Established 36 years ago\, Bruno's remains a beacon of familia
  ging as he urges a natural transition for the future of the restaurant an
  d father-son duo.
 DTEND:20250807T014300Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250807T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -65,7 +25,7 @@ CATEGORIES:Comedy Central
 DESCRIPTION:When Mr. Mackey loses his job\, he desperately tries to find a
   new way to make a living.
 DTEND:20250807T022200Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250807T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -74,11 +34,13 @@ UID:NzbDrone_episode_34448
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
+DESCRIPTION:Peggy reveals her truth to Dr. Kirkland\, Marian struggles to 
+ move forward\, and Bertha finally faces the fallout of her actions.
 DTEND:20250811T015500Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250811T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Gilded Age - 3x08 - My Mind is Made Up
 UID:NzbDrone_episode_27568
 END:VEVENT
@@ -88,7 +50,7 @@ DESCRIPTION:Around 12\,000 years ago\, as the Ice Age finally thaws\, huma
  nity makes a dramatic shift - abandoning nomadic life for permanent settl
  ements.
 DTEND:20250811T205900Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250811T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -100,7 +62,7 @@ CATEGORIES:Hulu
 DESCRIPTION:When a spaceship crash-lands on Earth\, a sister searches for 
  her brother amidst an unexpected alien threat.
 DTEND:20250813T000000Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250813T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -112,7 +74,7 @@ CATEGORIES:Hulu
 DESCRIPTION:Tensions rise between rival corporations\, a reunion takes pla
  ce\, and a secret is revealed.
 DTEND:20250813T000000Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250813T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -124,7 +86,7 @@ CATEGORIES:FOX
 DESCRIPTION:Gordon tries to neutralize the threat of vermin and unkempt ki
  tchen habits at Dahlak and help the owner pass the torch to her children.
 DTEND:20250814T014300Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250814T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -134,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20250814T022200Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250814T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -146,7 +108,7 @@ CATEGORIES:Hulu
 DESCRIPTION:The team returns home with unexpected cargo. An unsettling exp
  eriment occurs\, and a new talent is discovered.
 DTEND:20250820T000000Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250820T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -156,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20250821T022200Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250821T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -168,7 +130,7 @@ CATEGORIES:Hulu
 DESCRIPTION:An unexpected connection is formed while a covert plot puts ev
  eryone in danger.
 DTEND:20250827T000000Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250827T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -184,7 +146,7 @@ DESCRIPTION:Located in the center of Boston\, Savin Bar & Grill has a rich
  een the absent owners and exhausted staff to develop a cohesive restauran
  t identity.
 DTEND:20250828T014300Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250828T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -194,7 +156,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20250828T022200Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250828T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -205,7 +167,7 @@ BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:An outer-space vessel in peril leads to a dangerous reckoning.
 DTEND:20250903T000000Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250903T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -215,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20250904T014300Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250904T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -225,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20250904T022200Z
-DTSTAMP:20250811T011101Z
+DTSTAMP:20250812T011100Z
 DTSTART:20250904T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
