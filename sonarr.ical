@@ -8,7 +8,7 @@ CATEGORIES:FX
 DESCRIPTION:An unexpected connection is formed while a covert plot puts ev
  eryone in danger.
 DTEND:20250827T005800Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250827T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -21,7 +21,7 @@ DESCRIPTION:A bowling alley's side venture restaurant faces closure due to
   poor food and unsanitary conditions. Gordon must rescue this failing ret
  irement project before it's too late.
 DTEND:20250828T014300Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250828T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -30,18 +30,14 @@ UID:NzbDrone_episode_34444
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
-DESCRIPTION:The bunting has been hung and the tent is up\, which can only 
- mean one thing - Alison Hammond and Noel Fielding are back to guide a new
-  batch of amateur bakers through 10 weeks of challenges set by judges Pau
- l Hollywood and Prue Leith. First up is cake week\, in which the hopefuls
-  must produce a Swiss roll with an inlay design\, work out how to make fo
- ndant fancies in the technical and serve up a stunning landscape cake in 
- the showstopper round.
+DESCRIPTION:A fresh batch of bakers take on fiddly fondant fancies\, a Sig
+ nature Swiss roll and a landscape cake Showstopper. Who'll be having thei
+ r cake and eating it as they’re crowned the first Star Baker?
 DTEND:20250902T200000Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250902T190000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Great British Bake Off - 16x01 - Cake Week
 UID:NzbDrone_episode_34555
 END:VEVENT
@@ -49,33 +45,32 @@ BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:An outer-space vessel in peril leads to a dangerous reckoning.
 DTEND:20250903T005800Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250903T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Alien: Earth - 1x05 - In Space\, No One...
 UID:NzbDrone_episode_28017
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
+DESCRIPTION:Butters experiences the reality of tariffs when he has to buy 
+ a Labubu doll for his girlfriend’s birthday.
 DTEND:20250904T022200Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250904T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:South Park - 27x04 - TBA
+SUMMARY:South Park - 27x04 - Wok Is Dead
 UID:NzbDrone_episode_34450
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
-DESCRIPTION:It's crunch time for the bakers as biscuit week arrives\, seei
- ng them take on a 'slice and bake' signature\, produce a classic chocolat
- e Hobnob (other brands are available) in the technical and make their fav
- ourite mementos out of biscuit in the showstopper. Alison Hammond and Noe
- l Fielding find out who will be top biscuit and who will crumble under th
- e pressure\, while Paul Hollywood and Prue Leith judge their efforts.
+DESCRIPTION:It's Biscuit Week\, and the bakers make Hobnobs and memento ti
+ me capsules. Whose keepsake crunch will see them hobnobbing as star baker
+ ? And whose time has crumb to an end?
 DTEND:20250909T200000Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250909T190000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -87,7 +82,7 @@ CATEGORIES:FX
 DESCRIPTION:Tensions rise as powerful enemies confront each other\, a dang
  erous plan unfolds\, and curiosity leads to deadly consequences.
 DTEND:20250910T005800Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250910T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -105,7 +100,7 @@ DESCRIPTION:Crazy Burger\, a historic establishment located in the heart o
  post-pandemic chaos\, rally the staff\, and execute a strategic repositio
  ning of their culinary care and craft.
 DTEND:20250911T014300Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250911T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -115,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20250916T200000Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250916T190000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -125,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FX
 DTEND:20250917T005800Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250917T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -135,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20250918T022200Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250918T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -150,7 +145,7 @@ DESCRIPTION:As Wolf deals with a personal crisis that brings up dark corne
  de housewife\, who gives her some shocking intel about a nearby influenti
  al surgeon.
 DTEND:20250923T024300Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250923T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -160,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20250923T200000Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250923T190000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -170,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FX
 DTEND:20250924T005800Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250924T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -185,11 +180,35 @@ DESCRIPTION:Lisa discovers Marge's vintage clothes from the 90’s and is we
   ring. Meanwhile\, Homer gets addicted to a Reacher-type Dad TV show with
   lots of punching.
 DTEND:20250929T002500Z
-DTSTAMP:20250902T011100Z
+DTSTAMP:20250903T011101Z
 DTSTART:20250929T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Simpsons - 37x01 - Men Behaving Manly
+SUMMARY:The Simpsons - 37x01 - Thrifty Ways to Thieve Your Mother
 UID:NzbDrone_episode_34487
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:The doctors assist when a young professional looking for love 
+ on a reality dating show finds herself experiencing a mental health crisi
+ s while all eyes are on her. Wolf clashes with Frederick over his father'
+ s treatment.
+DTEND:20250930T024300Z
+DTSTAMP:20250903T011101Z
+DTSTART:20250930T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Brilliant Minds - 2x02 - The Contestant
+UID:NzbDrone_episode_34488
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Channel 4
+DTEND:20250930T200000Z
+DTSTAMP:20250903T011101Z
+DTSTART:20250930T190000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Great British Bake Off - 16x05 - TBA
+UID:NzbDrone_episode_34559
 END:VEVENT
 END:VCALENDAR
