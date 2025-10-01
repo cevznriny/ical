@@ -4,23 +4,10 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Channel 4
-DESCRIPTION:The bakers make classic canteen flapjacks\, nostalgic school c
- ake and a spectacular school fete Showstopper. Who'll be top of the class
- \, and who will Mr Hollywood and Ms Leith expel from the tent?
-DTEND:20250923T200000Z
-DTSTAMP:20250930T011100Z
-DTSTART:20250923T190000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Great British Bake Off - 16x04 - Back to School Week
-UID:NzbDrone_episode_34558
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:FX
 DESCRIPTION:A new power dynamic emerges.
 DTEND:20250924T005600Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20250924T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,7 +19,7 @@ CATEGORIES:Comedy Central
 DESCRIPTION:Kyle and Cartman are at odds when a prediction markets app get
  s popular with their fellow students.
 DTEND:20250925T022200Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20250925T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -45,25 +32,12 @@ DESCRIPTION:Dwayne Johnson\, Emily Blunt\, Matthew McConaughey and James N
  orton join Graham on his sofa. And there's live music and chat from singe
  r-songwriter RAYE.
 DTEND:20250926T221900Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20250926T213000Z
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:The Graham Norton Show - 33x01 - Episode 1
 UID:NzbDrone_episode_34669
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:TF1
-DESCRIPTION:Marinette finds it increasingly difficult to keep a secret fro
- m Adrien… and the arrival of a supervillain who looks just like her old e
- nemy won’t help!
-DTEND:20250928T083900Z
-DTSTAMP:20250930T011100Z
-DTSTART:20250928T081500Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Miraculous: Tales of Ladybug & Cat Noir - 6x09 - Mister Agreste
-UID:NzbDrone_episode_25375
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
@@ -73,7 +47,7 @@ DESCRIPTION:Lisa discovers Marge's vintage clothes from the 90’s and is we
   ring. Meanwhile\, Homer gets addicted to a Reacher-type Dad TV show with
   lots of punching.
 DTEND:20250929T002500Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20250929T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -87,7 +61,7 @@ DESCRIPTION:It's Chocolate Week! Noel Fielding and Alison Hammond host as
  tart in the Technical and a fondue display for their Showstopper challeng
  e.
 DTEND:20250930T200000Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20250930T190000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -105,11 +79,11 @@ DESCRIPTION:In this first episode\, Xander takes broadcaster James May on
  days and\, under a tree in the grounds of Bolton Abbey\, opens up about a
  geing and retirement.
 DTEND:20251001T204700Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251001T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Perfect Pub Walks with Bill Bailey - 2x01 - Episode 1
+SUMMARY:Perfect Pub Walks with Bill Bailey - 2x01 - James May
 UID:NzbDrone_episode_34671
 END:VEVENT
 BEGIN:VEVENT
@@ -118,7 +92,7 @@ DESCRIPTION:Taylor Swift\, Cillian Murphy\, Greta Lee\, Jodie Turner-Smith
   and Domhnall Gleeson join Graham on his sofa. And there's live music fro
  m Scottish great Lewis Capaldi.
 DTEND:20251003T221900Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251003T213000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -129,7 +103,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Bad Bunny hosts\, and Doja Cat performs.
 DTEND:20251005T043500Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251005T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -137,25 +111,12 @@ SUMMARY:Saturday Night Live - 51x01 - Bad Bunny / Doja Cat
 UID:NzbDrone_episode_27582
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:TF1
-DESCRIPTION:When Ondine worries that she still hasn’t had a first kiss wit
- h Kim and wonders about his true feelings\, Marinette decides to help her
- … in her own way!
-DTEND:20251005T083900Z
-DTSTAMP:20250930T011100Z
-DTSTART:20251005T081500Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Miraculous: Tales of Ladybug & Cat Noir - 6x10 - Sleeping Syren
-UID:NzbDrone_episode_25376
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:FOX
 DESCRIPTION:Homer gets Superintendent Chalmers a job at the power plant. T
  here\, Chalmers discovers huge mutated snails that produce valuable slime
   launching his new career as a man-o-sphere guru
 DTEND:20251006T002500Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251006T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -171,7 +132,7 @@ DESCRIPTION:Noel Fielding and Alison Hammond lead the bakers through pastr
   Whose plaits will leave Paul Hollywood and Prue Leith tongue-tied? And w
  hose pie will equal goodbye?
 DTEND:20251007T200000Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251007T190000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -183,7 +144,7 @@ CATEGORIES:BBC Three
 DESCRIPTION:Best friends Evie and Noa have watched films together since th
  ey first met. But now Noa has news which is set to change everything.
 DTEND:20251007T212900Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251007T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -196,7 +157,7 @@ DESCRIPTION:While Noa attends a taster day for his new job in Bristol\, Ev
  ie pulls out all the stops for Film Club – there’s a lot riding on tonigh
  t
 DTEND:20251007T215800Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251007T212900Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -205,12 +166,18 @@ UID:NzbDrone_episode_38123
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:More4
+DESCRIPTION:Chris Packham joins Alexander on an excursion in Kent\, where 
+ they hunt for lost treasure\, encounter Spitfires and a boat graveyard\, 
+ explore battlefields\, castles and the rich natural environment\, and unc
+ over historical secrets. Chris talks openly about some of his struggles a
+ nd difficulties\, while Alexander speaks movingly about his own experienc
+ es with his son's autism.
 DTEND:20251008T204700Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251008T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Perfect Pub Walks with Bill Bailey - 2x02 - Episode 2
+SUMMARY:Perfect Pub Walks with Bill Bailey - 2x02 - Chris Packham
 UID:NzbDrone_episode_34672
 END:VEVENT
 BEGIN:VEVENT
@@ -219,7 +186,7 @@ DESCRIPTION:Julia Roberts\, Colin Farrell\, Gloria Estefan and Benedict Cu
  mberbatch join Graham on his sofa. And there's live music from Robbie Wil
  liams.
 DTEND:20251010T221900Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251010T213000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -230,7 +197,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Amy Poehler hosts\, and Role Model performs.
 DTEND:20251012T043500Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251012T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -238,19 +205,9 @@ SUMMARY:Saturday Night Live - 51x02 - Amy Poehler / Role Model
 UID:NzbDrone_episode_27583
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:TF1
-DTEND:20251012T083900Z
-DTSTAMP:20250930T011100Z
-DTSTART:20251012T081500Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Miraculous: Tales of Ladybug & Cat Noir - 6x11 - Wreckless Driver
-UID:NzbDrone_episode_25377
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20251014T200000Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251014T190000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -260,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:More4
 DTEND:20251015T204700Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251015T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -270,7 +227,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251016T022200Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251016T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -281,7 +238,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Sabrina Carpenter hosts and performs.
 DTEND:20251019T043500Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251019T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -295,7 +252,7 @@ DESCRIPTION:1970s Springfield is menaced by a grease monster that feeds on
  cial\, and in a poseable plastic post-apocalyptic future\, Bart and Lisa 
  fight for the future of humanity.
 DTEND:20251020T002500Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251020T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -305,7 +262,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20251021T200000Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251021T190000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -315,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:More4
 DTEND:20251022T204700Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251022T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -325,11 +282,21 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20251027T002500Z
-DTSTAMP:20250930T011100Z
+DTSTAMP:20251001T011101Z
 DTSTART:20251027T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Simpsons - 37x04 - Men Behaving Manly
 UID:NzbDrone_episode_34637
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Channel 4
+DTEND:20251028T210000Z
+DTSTAMP:20251001T011101Z
+DTSTART:20251028T200000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Great British Bake Off - 16x09 - TBA
+UID:NzbDrone_episode_34563
 END:VEVENT
 END:VCALENDAR
