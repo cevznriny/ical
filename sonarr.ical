@@ -4,24 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Comedy Central
-DESCRIPTION:Kyle and Cartman are at odds when a prediction markets app get
- s popular with their fellow students.
-DTEND:20250925T022200Z
-DTSTAMP:20251002T011101Z
-DTSTART:20250925T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:South Park - 27x05 - Conflict of Interest
-UID:NzbDrone_episode_34451
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:BBC One
 DESCRIPTION:Dwayne Johnson\, Emily Blunt\, Matthew McConaughey and James N
  orton join Graham on his sofa. And there's live music and chat from singe
  r-songwriter RAYE.
 DTEND:20250926T221900Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20250926T213000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -36,7 +24,7 @@ DESCRIPTION:Lisa discovers Marge's vintage clothes from the 90’s and is we
   ring. Meanwhile\, Homer gets addicted to a Reacher-type Dad TV show with
   lots of punching.
 DTEND:20250929T002500Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20250929T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -49,7 +37,7 @@ DESCRIPTION:The bakers melt into Chocolate Week with fiddly mousse cups\,
  a tricky tart and a fab fondue display. Whose fondue will get them throug
  h\, and whose mousse will cut them loose?
 DTEND:20250930T200000Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20250930T190000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -58,20 +46,15 @@ UID:NzbDrone_episode_34559
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:More4
-DESCRIPTION:In this first episode\, Xander takes broadcaster James May on 
- three spectacular pub walks in Yorkshire. They explore the landscapes and
-  rich history of the region\, taking in majestic ruins\, steam trains and
-  a deadly stretch of river\, all while Xander delves into the remarkable 
- story of James' own life. James discusses memories from his childhood\, g
- etting repeatedly fired from jobs as a young man\, his eventful Top Gear 
- days and\, under a tree in the grounds of Bolton Abbey\, opens up about a
- geing and retirement.
+DESCRIPTION:James May joins Xander for a majestic Yorkshire meander\, taki
+ ng in the rich landscapes and history\, and chatting about James's childh
+ ood\, ageing\, retirement and his eventful Top Gear days.
 DTEND:20251001T204700Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251001T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Perfect Pub Walks - 2x01 - James May
+SUMMARY:Perfect Pub Walks - 2x01 - Man & Boy
 UID:NzbDrone_episode_34671
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +63,7 @@ DESCRIPTION:Taylor Swift\, Cillian Murphy\, Greta Lee\, Jodie Turner-Smith
   and Domhnall Gleeson join Graham on his sofa. And there's live music fro
  m Scottish great Lewis Capaldi.
 DTEND:20251003T221900Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251003T213000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -91,7 +74,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Bad Bunny hosts\, and Doja Cat performs.
 DTEND:20251005T043500Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251005T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -104,7 +87,7 @@ DESCRIPTION:Homer gets Superintendent Chalmers a job at the power plant. T
  here\, Chalmers discovers huge mutated snails that produce valuable slime
   launching his new career as a man-o-sphere guru
 DTEND:20251006T002500Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251006T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -120,7 +103,7 @@ DESCRIPTION:Noel Fielding and Alison Hammond lead the bakers through pastr
   Whose plaits will leave Paul Hollywood and Prue Leith tongue-tied? And w
  hose pie will equal goodbye?
 DTEND:20251007T200000Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251007T190000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -132,7 +115,7 @@ CATEGORIES:BBC Three
 DESCRIPTION:Best friends Evie and Noa have watched films together since th
  ey first met. But now Noa has news which is set to change everything.
 DTEND:20251007T212900Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251007T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -145,7 +128,7 @@ DESCRIPTION:While Noa attends a taster day for his new job in Bristol\, Ev
  ie pulls out all the stops for Film Club – there’s a lot riding on tonigh
  t
 DTEND:20251007T215800Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251007T212900Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -154,18 +137,15 @@ UID:NzbDrone_episode_38123
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:More4
-DESCRIPTION:Chris Packham joins Alexander on an excursion in Kent\, where 
- they hunt for lost treasure\, encounter Spitfires and a boat graveyard\, 
- explore battlefields\, castles and the rich natural environment\, and unc
- over historical secrets. Chris talks openly about some of his struggles a
- nd difficulties\, while Alexander speaks movingly about his own experienc
- es with his son's autism.
+DESCRIPTION:Chris Packham joins Xander for an exciting excursion in Kent\,
+  exploring battlefields and castles\, as they chat about life's challenge
+ s.
 DTEND:20251008T204700Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251008T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Perfect Pub Walks - 2x02 - Chris Packham
+SUMMARY:Perfect Pub Walks - 2x02 - Episode 2
 UID:NzbDrone_episode_34672
 END:VEVENT
 BEGIN:VEVENT
@@ -174,7 +154,7 @@ DESCRIPTION:Julia Roberts\, Colin Farrell\, Gloria Estefan and Benedict Cu
  mberbatch join Graham on his sofa. And there's live music from Robbie Wil
  liams.
 DTEND:20251010T221900Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251010T213000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -185,7 +165,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Amy Poehler hosts\, and Role Model performs.
 DTEND:20251012T043500Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251012T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -195,7 +175,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20251014T200000Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251014T190000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -205,7 +185,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:More4
 DTEND:20251015T204700Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251015T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -215,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251016T022200Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251016T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -226,7 +206,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Sabrina Carpenter hosts and performs.
 DTEND:20251019T043500Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251019T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -240,7 +220,7 @@ DESCRIPTION:1970s Springfield is menaced by a grease monster that feeds on
  cial\, and in a poseable plastic post-apocalyptic future\, Bart and Lisa 
  fight for the future of humanity.
 DTEND:20251020T002500Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251020T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -250,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20251021T200000Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251021T190000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -260,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:More4
 DTEND:20251022T204700Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251022T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -270,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20251027T002500Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251027T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -280,11 +260,21 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20251028T210000Z
-DTSTAMP:20251002T011101Z
+DTSTAMP:20251003T011100Z
 DTSTART:20251028T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Great British Bake Off - 16x09 - TBA
 UID:NzbDrone_episode_34563
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Comedy Central
+DTEND:20251030T022200Z
+DTSTAMP:20251003T011100Z
+DTSTART:20251030T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:South Park - 27x07 - TBA
+UID:NzbDrone_episode_34453
 END:VEVENT
 END:VCALENDAR
