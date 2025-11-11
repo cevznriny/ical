@@ -4,18 +4,6 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Homer and Marge must find out once and for good if Bart is tru
- ly just a bad seed.
-DTEND:20251103T012500Z
-DTSTAMP:20251110T021100Z
-DTSTART:20251103T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Simpsons - 37x05 - Bad Boys... for Life?
-UID:NzbDrone_episode_34638
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Channel 4
 DESCRIPTION:The three finalists bake a classic British iced bun in the sig
  nature\, a tower of French delights in the technical and for their showst
@@ -24,7 +12,7 @@ DESCRIPTION:The three finalists bake a classic British iced bun in the sig
   while judges Paul Hollywood and Prue Leith taste their efforts - but onl
  y one can be crowned winner of The Great British Bake Off 2025.
 DTEND:20251104T210000Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251104T200000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -37,7 +25,7 @@ DESCRIPTION:Glen Powell\, Michelle Yeoh\, Rosamund Pike and Jack Whitehall
   join Graham on his sofa. Ed Sheeran also joins the conversation after pe
  rforming Camera from his album Play.
 DTEND:20251107T231900Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251107T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -48,7 +36,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Nikki Glaser hosts\, and sombr performs.
 DTEND:20251109T053500Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251109T043000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -61,17 +49,17 @@ DESCRIPTION:When Bart becomes Professor Frink's lab assistant\, the Simpso
  ns are thrown into a world of tech billionaires determined to live foreve
  r\, with the future of the internet at stake.
 DTEND:20251110T012500Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251110T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Simpsons - 37x06 - Bart 'N' Frink
 UID:NzbDrone_episode_34639
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251113T032200Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251113T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -82,7 +70,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Glen Powell hosts\, and Olivia Dean performs.
 DTEND:20251116T053500Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251116T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -94,7 +82,7 @@ CATEGORIES:FOX
 DESCRIPTION:The past and the present collides for Mayor Quimby as rumours 
  concerning his father's empire begin to spread in Springfield.
 DTEND:20251117T012500Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251117T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -103,24 +91,11 @@ UID:NzbDrone_episode_38386
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC One
-DESCRIPTION:New mum Gemma is living with her exasperating mother\, Davina\
- , whilst Malcolm is staying at the squalid bedsit. Wanting her out\, Gemm
- a and Derek plot to get Malcolm back in the flat.
-DTEND:20251121T212400Z
-DTSTAMP:20251110T021100Z
-DTSTART:20251121T210000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Daddy Issues - 2x01 - Back for Good
-UID:NzbDrone_episode_38547
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:BBC One
 DESCRIPTION:Hugh Jackman\, Kate Hudson\, Ben Stiller and Da'Vine Joy Rando
  lph join Graham on his sofa. Singer-songwriter sombr performs his single 
  12 to 12.
 DTEND:20251121T231900Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251121T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -133,7 +108,7 @@ DESCRIPTION:After a mysterious buyer purchases every ticket for the KPOP c
  oncert Lisa wants to go to\, the Simpsons have to figure out the identity
   of this evil ticket reseller. Or do they? (Yes\, they do).
 DTEND:20251124T012500Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251124T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -143,25 +118,12 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251127T032200Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251127T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:South Park - 28x04 - TBA
 UID:NzbDrone_episode_38367
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:BBC One
-DESCRIPTION:Malcolm is babysitting Sadie whilst Gemma is out on the town. 
- Derek tricks Malcolm into helping seek revenge on his ex\, but panic ensu
- es when Gemma announces she is coming home.
-DTEND:20251128T212400Z
-DTSTAMP:20251110T021100Z
-DTSTART:20251128T210000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Daddy Issues - 2x02 - Pine Cones and Litter
-UID:NzbDrone_episode_38557
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
@@ -170,7 +132,7 @@ DESCRIPTION:Patty and Bart team up for the ultimate prank: getting Homer d
  d - which leads to Patty and Selma having a huge fight and Patty moving a
  way to "Palm Springfield."
 DTEND:20251201T012500Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251201T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -180,11 +142,21 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20251207T053500Z
-DTSTAMP:20251110T021100Z
+DTSTAMP:20251111T021100Z
 DTSTART:20251207T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Saturday Night Live - 51x07 - December 6\, 2025
 UID:NzbDrone_episode_34498
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FOX
+DTEND:20251208T012500Z
+DTSTAMP:20251111T021100Z
+DTSTART:20251208T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Simpsons - 37x10 - Guess Who's Coming to Skinner
+UID:NzbDrone_episode_38555
 END:VEVENT
 END:VCALENDAR
