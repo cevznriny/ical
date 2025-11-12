@@ -4,28 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Channel 4
-DESCRIPTION:The three finalists bake a classic British iced bun in the sig
- nature\, a tower of French delights in the technical and for their showst
- opper take on the challenge of making the largest ever cake in Bake Off h
- istory. As ever\, Alison Hammond and Noel Fielding encourage the bakers\,
-  while judges Paul Hollywood and Prue Leith taste their efforts - but onl
- y one can be crowned winner of The Great British Bake Off 2025.
-DTEND:20251104T210000Z
-DTSTAMP:20251111T021100Z
-DTSTART:20251104T200000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Great British Bake Off - 16x10 - The Final
-UID:NzbDrone_episode_34564
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:BBC One
 DESCRIPTION:Glen Powell\, Michelle Yeoh\, Rosamund Pike and Jack Whitehall
   join Graham on his sofa. Ed Sheeran also joins the conversation after pe
  rforming Camera from his album Play.
 DTEND:20251107T231900Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251107T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -36,7 +20,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Nikki Glaser hosts\, and sombr performs.
 DTEND:20251109T053500Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251109T043000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -49,7 +33,7 @@ DESCRIPTION:When Bart becomes Professor Frink's lab assistant\, the Simpso
  ns are thrown into a world of tech billionaires determined to live foreve
  r\, with the future of the internet at stake.
 DTEND:20251110T012500Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251110T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -58,19 +42,22 @@ UID:NzbDrone_episode_34639
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
+DESCRIPTION:Butters’ Al revenge plan backfires\, igniting an epidemic of f
+ ake videos at school that leaves Detective Harris struggling to tell fant
+ asy from reality.
 DTEND:20251113T032200Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251113T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:South Park - 28x03 - TBA
+SUMMARY:South Park - 28x03 - Sora Not Sorry
 UID:NzbDrone_episode_38366
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Glen Powell hosts\, and Olivia Dean performs.
 DTEND:20251116T053500Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251116T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -82,7 +69,7 @@ CATEGORIES:FOX
 DESCRIPTION:The past and the present collides for Mayor Quimby as rumours 
  concerning his father's empire begin to spread in Springfield.
 DTEND:20251117T012500Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251117T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -95,7 +82,7 @@ DESCRIPTION:Hugh Jackman\, Kate Hudson\, Ben Stiller and Da'Vine Joy Rando
  lph join Graham on his sofa. Singer-songwriter sombr performs his single 
  12 to 12.
 DTEND:20251121T231900Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251121T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -108,7 +95,7 @@ DESCRIPTION:After a mysterious buyer purchases every ticket for the KPOP c
  oncert Lisa wants to go to\, the Simpsons have to figure out the identity
   of this evil ticket reseller. Or do they? (Yes\, they do).
 DTEND:20251124T012500Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251124T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -118,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251127T032200Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251127T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -132,7 +119,7 @@ DESCRIPTION:Patty and Bart team up for the ultimate prank: getting Homer d
  d - which leads to Patty and Selma having a huge fight and Patty moving a
  way to "Palm Springfield."
 DTEND:20251201T012500Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251201T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -142,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20251207T053500Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251207T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -152,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20251208T012500Z
-DTSTAMP:20251111T021100Z
+DTSTAMP:20251112T021100Z
 DTSTART:20251208T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
