@@ -9,7 +9,7 @@ DESCRIPTION:Butters’ Al revenge plan backfires\, igniting an epidemic of f
  ake videos at school that leaves Detective Harris struggling to tell fant
  asy from reality.
 DTEND:20251113T032200Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251113T030000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -21,7 +21,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:The World just wants to help—which infuriates Carol. A heart-t
  o-heart conversation ends with a bang.
 DTEND:20251114T024900Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251114T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Glen Powell hosts\, and Olivia Dean performs.
 DTEND:20251116T053500Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251116T043000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -43,8 +43,8 @@ BEGIN:VEVENT
 CATEGORIES:FOX
 DESCRIPTION:The past and the present collides for Mayor Quimby as rumours 
  concerning his father's empire begin to spread in Springfield.
-DTEND:20251117T012500Z
-DTSTAMP:20251119T021100Z
+DTEND:20251117T012400Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251117T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -52,55 +52,12 @@ SUMMARY:The Simpsons - 37x07 - Sashes to Sashes
 UID:NzbDrone_episode_38386
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:PBS
-DESCRIPTION:British General Howe defeats General Washington\, forcing the 
- Americans to abandon New York\; Washington's army regroups in New Jersey 
- before attacking an outpost at Trenton.
-DTEND:20251119T030000Z
-DTSTAMP:20251119T021100Z
-DTSTART:20251119T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The American Revolution (2025) - 1x03 - The Times That Try Men's S
- ouls (July 1776 – January 1777)
-UID:NzbDrone_episode_38588
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:PBS
-DESCRIPTION:General Howe takes Philadelphia\, but the Americans' surprisin
- g victory over General Burgoyne at Saratoga encourages France to support 
- the U.S.
-DTEND:20251120T030000Z
-DTSTAMP:20251119T021100Z
-DTSTART:20251120T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The American Revolution (2025) - 1x04 - Conquer by a Drawn Game (J
- anuary 1777 – February 1778)
-UID:NzbDrone_episode_38589
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:PBS
-DESCRIPTION:The French-American alliance changes the war and moves it to o
- ther theaters\; navies battle off England and in the Caribbean\, while ar
- mies advance in Indian Country and the South\; the British take Charlesto
- n.
-DTEND:20251121T030000Z
-DTSTAMP:20251119T021100Z
-DTSTART:20251121T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The American Revolution (2025) - 1x05 - The Soul of All America (D
- ecember 1777 – May 1780)
-UID:NzbDrone_episode_38590
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Carol tests the boundaries of this weirdly honest world at the
   expense of her ego. Far away\, a resolute individual learns he’s not alo
  ne.
 DTEND:20251121T024900Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251121T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -113,7 +70,7 @@ DESCRIPTION:Hugh Jackman\, Kate Hudson\, Ben Stiller and Da'Vine Joy Rando
  lph join Graham on his sofa. Singer-songwriter sombr performs his single 
  12 to 12.
 DTEND:20251121T231900Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251121T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -121,26 +78,12 @@ SUMMARY:The Graham Norton Show - 33x08 - Episode 8
 UID:NzbDrone_episode_38550
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:PBS
-DESCRIPTION:British General Cornwallis struggles to pacify the southern st
- ates\; supported by the French\, a victory at Yorktown secures independen
- ce for the Americans.
-DTEND:20251122T030000Z
-DTSTAMP:20251119T021100Z
-DTSTART:20251122T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The American Revolution (2025) - 1x06 - The Most Sacred Thing (May
-  1780 – Onward)
-UID:NzbDrone_episode_38591
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:FOX
 DESCRIPTION:After a mysterious buyer purchases every ticket for the KPOP c
  oncert Lisa wants to go to\, the Simpsons have to figure out the identity
   of this evil ticket reseller. Or do they? (Yes\, they do).
-DTEND:20251124T012500Z
-DTSTAMP:20251119T021100Z
+DTEND:20251124T012400Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251124T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -150,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251127T032200Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251127T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -160,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20251128T024900Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251128T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -173,7 +116,7 @@ DESCRIPTION:Glenn Close\, Alexander Skarsgård\, Miriam Margolyes and Nicol
  a Coughlan join Graham on his sofa. With music from Jessie J\, performing
   H.A.P.P.Y from her new album Don't Tease Me with a Good Time.
 DTEND:20251128T231900Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251128T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -186,8 +129,8 @@ DESCRIPTION:Patty and Bart team up for the ultimate prank: getting Homer d
  eclared legally dead. To their chagrin\, Homer loves being officially dea
  d - which leads to Patty and Selma having a huge fight and Patty moving a
  way to "Palm Springfield."
-DTEND:20251201T012500Z
-DTSTAMP:20251119T021100Z
+DTEND:20251201T012400Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251201T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -197,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20251205T024900Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251205T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -210,7 +153,7 @@ DESCRIPTION:Kate Winslet\, Jacinda Ardern\, Alan Carr and Seth Meyers join
   Graham on his sofa. With music from Cat Burns\, performing There's Just 
  Something About Her from her album How To Be Human.
 DTEND:20251205T231900Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251205T223000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -221,7 +164,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Melissa McCarthy hosts\, and Dijon performs.
 DTEND:20251207T053500Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251207T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -234,8 +177,8 @@ DESCRIPTION:When Principal Skinner discovers that one of his students is a
   runaway who has been living in the school library\, he has to take the s
  narky\, difficult kid into his home and is forced into a role he never ex
  pected or wanted - being a parent.
-DTEND:20251208T012500Z
-DTSTAMP:20251119T021100Z
+DTEND:20251208T012400Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251208T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -245,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251211T032200Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251211T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -255,7 +198,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20251212T024900Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251212T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -266,7 +209,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Josh O'Connor hosts\, and Lily Allen performs.
 DTEND:20251214T053500Z
-DTSTAMP:20251119T021100Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251214T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -275,13 +218,12 @@ UID:NzbDrone_episode_34499
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
-DESCRIPTION:Homer becomes Bumblebee Man's stunt double.
-DTEND:20251215T012500Z
-DTSTAMP:20251119T021100Z
+DTEND:20251215T012400Z
+DTSTAMP:20251120T021102Z
 DTSTART:20251215T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:The Simpsons - 37x11 - ¡The Fall Guy-Yi-Yi!
+SUMMARY:The Simpsons - 37x11 - Parahormonal Activity
 UID:NzbDrone_episode_38556
 END:VEVENT
 END:VCALENDAR
