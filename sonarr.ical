@@ -4,41 +4,11 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Marge's crusade to get the family dog in better shape leads to
-  her entering Santa's Little Helper in canine agility competitions and a 
- trip to the National Dog Show in Philadelphia. There\, Marge and Homer su
- ddenly find themselves — and the dog — mixed up in a historical conspirac
- y adventure worthy of a "National Treasure" movie.
-DTEND:20260216T012400Z
-DTSTAMP:20260223T021100Z
-DTSTART:20260216T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Simpsons - 37x14 - Irrational Treasure
-UID:NzbDrone_episode_38594
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:Homer strikes up an unlikely friendship with Kirk Van Houten\,
-  which leads to them launching a hugely successful business venture toget
- her - a "crumbless" cracker that sweeps the nation. But when Kirk's darke
- st secrets are revealed\, Homer has to choose between his family and his 
- fortune... and may just end up going in jail.
-DTEND:20260216T014800Z
-DTSTAMP:20260223T021100Z
-DTSTART:20260216T012400Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Simpsons - 37x15 - Homer? A Cracker Bro?
-UID:NzbDrone_episode_39115
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:BBC One
 DESCRIPTION:Benicio del Toro\, Jennifer Garner\, Gordon Ramsay and Charli 
  XCX join Graham on his sofa. With music from Foo Fighters.
 DTEND:20260220T231900Z
-DTSTAMP:20260223T021100Z
+DTSTAMP:20260224T021101Z
 DTSTART:20260220T223000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -49,7 +19,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Connor Storrie hosts\, and Mumford & Sons performs.
 DTEND:20260301T053500Z
-DTSTAMP:20260223T021100Z
+DTSTAMP:20260224T021101Z
 DTSTART:20260301T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -60,7 +30,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Ryan Gosling hosts\, and Gorillaz performs.
 DTEND:20260308T053500Z
-DTSTAMP:20260223T021100Z
+DTSTAMP:20260224T021101Z
 DTSTART:20260308T043000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -70,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:NBC
 DTEND:20260315T043500Z
-DTSTAMP:20260223T021100Z
+DTSTAMP:20260224T021101Z
 DTSTART:20260315T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
