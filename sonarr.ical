@@ -8,21 +8,27 @@ CATEGORIES:Apple TV
 DESCRIPTION:Ashe offers Coop a deal he can’t refuse. Mel feuds with her ne
  ighbors over their new dog. Sam goes on a date.
 DTEND:20260417T045300Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260417T040000Z
 SEQUENCE:0
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 SUMMARY:Your Friends & Neighbors - 2x03 - We Were Never Supposed to Get Th
  is Old
 UID:NzbDrone_episode_38945
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:History
+DESCRIPTION:Remember when "everybody's doing it" was the reason enough to 
+ dive in headfirst?\; from gravity-defying flagpole sitting and phone boot
+ h cramming\, to pet skunks and goldfish gulpers\, revealing the crazes th
+ at are sweeping the nation\; these obsessions are risky and impossible to
+  resist\; it is a trip back to the fads that push the limits and make haz
+ ardous history must-see mayhem.
 DTEND:20260420T014200Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260420T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Hazardous History with Henry Winkler - 2x01 - Killer Crazes
 UID:NzbDrone_episode_40349
 END:VEVENT
@@ -34,7 +40,7 @@ DESCRIPTION:Dean struggles with his inner demons but seems to find relief
   image. But soon\, a new climber named Alex Honnold emerges and threatens
   to eclipse Dean's dominance.
 DTEND:20260421T050000Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260421T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -46,7 +52,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Hari and Gretchen’s Passover seder brings the neighborhood tog
  ether for wine\, food\, and drama.
 DTEND:20260424T045300Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260424T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -57,12 +63,26 @@ BEGIN:VEVENT
 CATEGORIES:Sky One
 DESCRIPTION:Nicola Coughlan hosts\, and Foo Fighters performs.
 DTEND:20260425T215900Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260425T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Saturday Night Live UK - 1x05 - Nicola Coughlan / Foo Fighters
 UID:NzbDrone_episode_40241
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when looking your best meant risking life and limb?\;
+  from dentures that could explode at the dinner table and stiff shirt col
+ lars that strangled people to death\, to toxic hair implants and tanning 
+ pills that left them glowing orange.
+DTEND:20260427T014200Z
+DTSTAMP:20260421T011101Z
+DTSTART:20260427T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x02 - Looks That Kill
+UID:NzbDrone_episode_40808
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO
@@ -71,7 +91,7 @@ DESCRIPTION:The rivalry between Dean and Alex Honnold intensifies as both
  itan. As Dean's mental state deteriorates\, he alienates his inner-circle
   and accepts a dangerous career opportunity in China.
 DTEND:20260428T050000Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260428T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -81,7 +101,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260501T045300Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260501T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -92,7 +112,7 @@ BEGIN:VEVENT
 CATEGORIES:Sky One
 DESCRIPTION:Aimee Lou Wood hosts\, and MEEK performs.
 DTEND:20260502T215900Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260502T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -103,7 +123,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Olivia Rodrigo hosts\, and performs.
 DTEND:20260503T043500Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260503T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -111,12 +131,28 @@ SUMMARY:Saturday Night Live - 51x18 - Olivia Rodrigo
 UID:NzbDrone_episode_39697
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when playtime meant tempting fate?\; from toy belts t
+ hat fire speeding projectiles\, to high-powered pogo sticks that send peo
+ ple soaring\, to dolls that try to eat people alive\, these playthings ar
+ e made for kids\, but their risks are anything but child's play\; it's a 
+ mind-blowing\, bone-rattling trip through the toys of yesteryear that rem
+ ind people of a time when childhood was wild\, free\, and hazardous.
+DTEND:20260504T014200Z
+DTSTAMP:20260421T011101Z
+DTSTART:20260504T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x03 - Twisted Toys
+UID:NzbDrone_episode_40809
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:HBO
 DESCRIPTION:With a new relationship grounding him\, Dean regains emotional
   stability and his long-held dream of flight comes to fruition when he im
  merses himself in the cutting-edge world of wingsuit flying.
 DTEND:20260505T050000Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260505T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -126,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260508T045300Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260508T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -137,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky One
 DTEND:20260509T215900Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260509T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -148,7 +184,7 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Matt Damon hosts\, and Noah Kahan performs.
 DTEND:20260510T043500Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260510T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -156,9 +192,26 @@ SUMMARY:Saturday Night Live - 51x19 - Matt Damon / Noah Kahan
 UID:NzbDrone_episode_39698
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when hitting the road meant flirting with disaster?\;
+  from rumble seats that turn passengers into projectiles\, to scorching c
+ igarette lighters built right into the dash\, to cars that have a habit o
+ f going up in flames\, even a simple trip can go south\; these are the br
+ ight ideas and questionable designs that turn people daily commute into a
+  demolition derby\; it's a high-speed\, white-knuckle ride back to a time
+  when the rules of the road were still being written.
+DTEND:20260511T014200Z
+DTSTAMP:20260421T011101Z
+DTSTART:20260511T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x04 - Hell On Wheels
+UID:NzbDrone_episode_40810
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260515T045300Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260515T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -168,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky One
 DTEND:20260516T215900Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260516T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -179,11 +232,28 @@ BEGIN:VEVENT
 CATEGORIES:NBC
 DESCRIPTION:Will Ferrell hosts\, and Paul McCartney performs.
 DTEND:20260517T043500Z
-DTSTAMP:20260420T011100Z
+DTSTAMP:20260421T011101Z
 DTSTART:20260517T033000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Saturday Night Live - 51x20 - Will Ferrell / Paul McCartney
 UID:NzbDrone_episode_39699
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when having a modern home meant living on the edge of
+  danger?\; from backyard trash fires and waterbeds that turn bedrooms int
+ o flood zones\, to electric fans that snatch fingers and garden hoses tha
+ t serve up toxic sips of water\, domestic life is full of hidden peril\; 
+ these are the familiar fixes and convenient comforts that turn out to be 
+ far from safe\; it's a hair-raising\, eye-opening trip back to the homegr
+ own hazards that can make you wonder what are we thinking?
+DTEND:20260518T014200Z
+DTSTAMP:20260421T011101Z
+DTSTART:20260518T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x05 - Domestic Dangers
+UID:NzbDrone_episode_40811
 END:VEVENT
 END:VCALENDAR
