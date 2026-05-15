@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+NAME:Sonarr TV Schedule
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Sonarr TV Schedule
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:Coop and his family navigate a fraught funeral service and wak
+ e.
+DTEND:20260508T045300Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260508T040000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Your Friends & Neighbors - 2x06 - For Everything Else\, There Was 
+ Bowling
+UID:NzbDrone_episode_38948
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky One
+DESCRIPTION:Hannah Waddingham hosts as Myles Smith performs live.
+DTEND:20260509T215900Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260509T210000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Saturday Night Live UK - 1x07 - Hannah Waddingham / Myles Smith
+UID:NzbDrone_episode_40352
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:Matt Damon is invited for the third time while promoting his n
+ ew Christopher Nolan film\, and folk-pop artist Noah Kahan joins as the m
+ usical guest to perform songs from his latest album.
+DTEND:20260510T043500Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260510T033000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Saturday Night Live - 51x19 - Matt Damon / Noah Kahan
+UID:NzbDrone_episode_39698
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when hitting the road meant flirting with disaster? F
+ rom rumble seats that turn passengers into projectiles\, to scorching cig
+ arette lighters built right into the dash\, to cars that have a habit of 
+ going up in flames\, even a simple trip can go south. These are the brigh
+ t ideas and questionable designs that turn people daily commute into a de
+ molition derby. It's a high-speed\, white-knuckle ride back to a time whe
+ n the rules of the road were still being written.
+DTEND:20260511T014200Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260511T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hazardous History with Henry Winkler - 2x04 - Hell on Wheels
+UID:NzbDrone_episode_40810
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:TLC (UK)
+DESCRIPTION:Roisin and Sara take on a badly reviewed train to see the summ
+ er solstice celebrations. The duo also try graffiti\, walking over hot co
+ als and arm wrestling some locals.
+DTEND:20260511T014500Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260511T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Zero Stars - 1x05 - Bulgaria
+UID:NzbDrone_episode_40948
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:Coop and Sam attend a wild weekend at Ashe’s Hamptons estate. 
+ Mel takes things too far in her battle with the neighbors.
+DTEND:20260515T045300Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260515T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Your Friends & Neighbors - 2x07 - Out East
+UID:NzbDrone_episode_38949
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Sky One
+DESCRIPTION:Ncuti Gatwa hosts as Holly Humberstone performs live.
+DTEND:20260516T215900Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260516T210000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Saturday Night Live UK - 1x08 - Ncuti Gatwa / Holly Humberstone
+UID:NzbDrone_episode_40353
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:Will Ferrell hosts\, and Paul McCartney performs.
+DTEND:20260517T043500Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260517T033000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Saturday Night Live - 51x20 - Will Ferrell / Paul McCartney
+UID:NzbDrone_episode_39699
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when having a modern home meant living on the edge of
+  danger?\; from backyard trash fires and waterbeds that turn bedrooms int
+ o flood zones\, to electric fans that snatch fingers and garden hoses tha
+ t serve up toxic sips of water\, domestic life is full of hidden peril\; 
+ these are the familiar fixes and convenient comforts that turn out to be 
+ far from safe\; it's a hair-raising\, eye-opening trip back to the homegr
+ own hazards that can make you wonder what are we thinking?
+DTEND:20260518T014200Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260518T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x05 - Domestic Dangers
+UID:NzbDrone_episode_40811
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:TLC (UK)
+DTEND:20260518T014500Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260518T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Zero Stars - 1x06 - Episode 6
+UID:NzbDrone_episode_40949
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTEND:20260522T045300Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260522T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Your Friends & Neighbors - 2x08 - A Single Woman
+UID:NzbDrone_episode_38950
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:TLC (UK)
+DTEND:20260525T014500Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260525T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Zero Stars - 1x07 - Episode 7
+UID:NzbDrone_episode_40950
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTEND:20260529T045300Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260529T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Your Friends & Neighbors - 2x09 - I Feel Lost Without Me
+UID:NzbDrone_episode_38951
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when people would do just about anything for an adren
+ aline fix?\; from racing cars at the "Murderdrome\," to high diving on ho
+ rseback\, to cutting our teeth on looping water slides\, revisit the ways
+  people once chased a thrill\; these death-defying stunts and gravity-pus
+ hing spectacles didn't always stick the landing\, but that didn't stop an
+ yone from trying\; it's a heart-pumping jolt back to a time when a big ru
+ sh was worth a little spill.
+DTEND:20260601T014200Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260601T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x06 - Thrills & Spills
+UID:NzbDrone_episode_40812
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:TLC (UK)
+DTEND:20260601T014500Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260601T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Zero Stars - 1x08 - Episode 8
+UID:NzbDrone_episode_40951
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:TBA
+DTEND:20260603T054800Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260603T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 5x01 - TBA
+UID:NzbDrone_episode_40813
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:TBA
+DTEND:20260603T054800Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260603T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 5x02 - TBA
+UID:NzbDrone_episode_40814
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:TBA
+DTEND:20260603T054800Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260603T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 5x03 - TBA
+UID:NzbDrone_episode_40815
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:TBA
+DTEND:20260603T054800Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260603T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 5x04 - TBA
+UID:NzbDrone_episode_40816
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTEND:20260605T045300Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260605T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Your Friends & Neighbors - 2x10 - Always Another Elephant
+UID:NzbDrone_episode_38952
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:TBA
+DTEND:20260610T054800Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260610T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 5x05 - TBA
+UID:NzbDrone_episode_40817
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:TBA
+DTEND:20260610T063600Z
+DTSTAMP:20260515T011101Z
+DTSTART:20260610T054800Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 5x06 - TBA
+UID:NzbDrone_episode_40818
+END:VEVENT
+END:VCALENDAR
