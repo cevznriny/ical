@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+NAME:Sonarr TV Schedule
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Sonarr TV Schedule
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:In the wake of another shocking scandal\, the neighborhood gat
+ hers for Father’s Day at the country club.
+DTEND:20260605T045400Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260605T040000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Your Friends & Neighbors - 2x10 - The Night of the Hunter
+UID:NzbDrone_episode_38952
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when hobbies were more than just a way to pass the ti
+ me - they were a chance to push the limits? From making model planes with
+  glue that gets you high\, to cooking up explosive rocket fuel in the bac
+ kyard\, to strapping ourselves to homemade kites and launching into the u
+ nknown\, these hands-on pursuits often came with a dangerous edge. It's a
+  thrilling\, hair-raising trip back to the crafty obsessions that prove o
+ ur hazardous history was never just a hobby.
+DTEND:20260608T014200Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260608T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hazardous History with Henry Winkler - 2x07 - Hobbies Gone Haywire
+UID:NzbDrone_episode_41055
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Diddly Squat 2.0 continues to take shape with a new farm offic
+ e and the arrival of a droid. The snails\, meanwhile\, have been getting 
+ along famously\, and the cows are due to give birth any day.
+DTEND:20260610T074800Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260610T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Clarkson's Farm - 5x05 - Decapitating
+UID:NzbDrone_episode_40817
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Diddly Squat is basking in a sunny spell. There're baby animal
+ s aplenty\, the high-tech crops are coming along nicely and there's a big
+  night at the pub to look forward to. The only question is\, when does a 
+ sunny spell become a drought?
+DTEND:20260610T083600Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260610T074800Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Clarkson's Farm - 5x06 - Frazzling
+UID:NzbDrone_episode_40818
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when popular tourist attractions came with real dange
+ r? From climbing onto the backs of live alligators\, to hand-feeding hung
+ ry bears\, to scoring front-row seats to atomic blasts\, these heart-poun
+ ding experiences promised irresistible thrills you'd never forget - where
+  the risk was part of the draw. It's a jaw-dropping\, pulse-racing trip b
+ ack to the places that prove our hazardous history wasn't just entertaini
+ ng - it was a death-defying must-see!
+DTEND:20260615T014200Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260615T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x08 - Fatal Attractions
+UID:NzbDrone_episode_41056
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:National Geographic
+DESCRIPTION:Antoni explores New York City’s most singular\, world-class ex
+ periences and uncovers the best of a city where history and modern life c
+ ollide. Escape to bold fusion cuisine\, mind-bending cocktails and a uniq
+ ue twist on NYC-style pizza\, he discovers some of the remarkable people 
+ and cultural influences that shape the place he calls home.
+DTEND:20260615T014500Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260615T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Best of the World with Antoni Porowski - 1x03 - New York City
+UID:NzbDrone_episode_41190
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:National Geographic
+DESCRIPTION:Antoni curates London’s most memorable experiences\, from Bric
+ k Lane’s multicultural cuisine to a swim at Canary Wharf. He learns what 
+ makes Big Ben’s Great Clock tick\, tastes a Sunday roast with a twist\, c
+ limbs up to the top of The Shard\, explores Kew Gardens\, and dives into 
+ London’s drag scene with the performers who bring it to life.
+DTEND:20260615T023000Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260615T014500Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Best of the World with Antoni Porowski - 1x04 - London
+UID:NzbDrone_episode_41191
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20260617T074800Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260617T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 5x07 - Sickening
+UID:NzbDrone_episode_40819
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20260617T083600Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260617T074800Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Clarkson's Farm - 5x08 - Reaping
+UID:NzbDrone_episode_40820
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when being part of the crowd meant taking your chance
+ s? From packing in shoulder to shoulder for front row views of Civil War 
+ battles\, to lining up to watch dead whales explode\, to full-blown riots
+  while shopping\, the biggest shared moments didn't just bring people tog
+ ether - they stirred things up. It's a wild\, edge-of-your-seat trip back
+  to the gatherings that prove our hazardous history was anything but orde
+ rly - but always had an eager audience!
+DTEND:20260622T014200Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260622T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x09 - Crowd Chaos
+UID:NzbDrone_episode_41178
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:A storm hits.
+DTEND:20260625T043500Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260625T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Bear - 5x01 - Soda
+UID:NzbDrone_episode_40978
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:The staff prepares for the day.
+DTEND:20260625T043500Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260625T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Bear - 5x02 - Lamb
+UID:NzbDrone_episode_40979
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:A new direction.
+DTEND:20260625T043500Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260625T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Bear - 5x03 - Mint
+UID:NzbDrone_episode_40980
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:Family meal.
+DTEND:20260625T043500Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260625T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Bear - 5x04 - Ribs
+UID:NzbDrone_episode_40981
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:A traffic jam.
+DTEND:20260625T043500Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260625T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Bear - 5x05 - Raspberries
+UID:NzbDrone_episode_40982
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:A seating chart.
+DTEND:20260625T043500Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260625T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Bear - 5x06 - Foccacia
+UID:NzbDrone_episode_40983
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:A hard service.
+DTEND:20260625T043500Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260625T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Bear - 5x07 - Caramel
+UID:NzbDrone_episode_40984
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:After service.
+DTEND:20260625T043500Z
+DTSTAMP:20260611T011100Z
+DTSTART:20260625T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Bear - 5x08 - The Original Beef of Chicagoland
+UID:NzbDrone_episode_40985
+END:VEVENT
+END:VCALENDAR
