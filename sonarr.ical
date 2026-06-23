@@ -4,53 +4,6 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:History
-DESCRIPTION:Remember when popular tourist attractions came with real dange
- r? From climbing onto the backs of live alligators\, to hand-feeding hung
- ry bears\, to scoring front-row seats to atomic blasts\, these heart-poun
- ding experiences promised irresistible thrills you'd never forget - where
-  the risk was part of the draw. It's a jaw-dropping\, pulse-racing trip b
- ack to the places that prove our hazardous history wasn't just entertaini
- ng - it was a death-defying must-see!
-DTEND:20260615T014200Z
-DTSTAMP:20260622T011100Z
-DTSTART:20260615T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hazardous History with Henry Winkler - 2x08 - Fatal Attractions
-UID:NzbDrone_episode_41056
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:National Geographic
-DESCRIPTION:Antoni explores New York City’s most singular\, world-class ex
- periences and uncovers the best of a city where history and modern life c
- ollide. Escape to bold fusion cuisine\, mind-bending cocktails and a uniq
- ue twist on NYC-style pizza\, he discovers some of the remarkable people 
- and cultural influences that shape the place he calls home.
-DTEND:20260615T014500Z
-DTSTAMP:20260622T011101Z
-DTSTART:20260615T010000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Best of the World with Antoni Porowski - 1x03 - New York City
-UID:NzbDrone_episode_41190
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:National Geographic
-DESCRIPTION:Antoni curates London’s most memorable experiences\, from Bric
- k Lane’s multicultural cuisine to a swim at Canary Wharf. He learns what 
- makes Big Ben’s Great Clock tick\, tastes a Sunday roast with a twist\, c
- limbs up to the top of The Shard\, explores Kew Gardens\, and dives into 
- London’s drag scene with the performers who bring it to life.
-DTEND:20260615T023000Z
-DTSTAMP:20260622T011101Z
-DTSTART:20260615T014500Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Best of the World with Antoni Porowski - 1x04 - London
-UID:NzbDrone_episode_41191
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:Jeremy busies himself with a project close to his heart\, invi
  ting over a local birdlife expert to offer advice on how Diddly Squat can
@@ -59,7 +12,7 @@ DESCRIPTION:Jeremy busies himself with a project close to his heart\, invi
  n forgotten when - with the harvest looming - the farm is rocked by some 
  devastating news.
 DTEND:20260617T074800Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260617T070000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -73,7 +26,7 @@ DESCRIPTION:With the farm still reeling from its shock TB diagnosis\, ther
  other\, and only once the results are in can the Diddly Squat family take
   stock of this rollercoaster of a farming year.
 DTEND:20260617T083600Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260617T074800Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -90,10 +43,10 @@ DESCRIPTION:Remember when being part of the crowd meant taking your chance
   to the gatherings that prove our hazardous history was anything but orde
  rly - but always had an eager audience!
 DTEND:20260622T014200Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260622T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Hazardous History with Henry Winkler - 2x09 - Crowd Chaos
 UID:NzbDrone_episode_41178
 END:VEVENT
@@ -101,7 +54,7 @@ BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:A storm hits.
 DTEND:20260625T043500Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260625T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -112,7 +65,7 @@ BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:The staff prepares for the day.
 DTEND:20260625T043500Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260625T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -123,7 +76,7 @@ BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:A new direction.
 DTEND:20260625T043500Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260625T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -134,7 +87,7 @@ BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:Family meal.
 DTEND:20260625T043500Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260625T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -145,7 +98,7 @@ BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:A traffic jam.
 DTEND:20260625T043500Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260625T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -156,7 +109,7 @@ BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:A seating chart.
 DTEND:20260625T043500Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260625T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -167,7 +120,7 @@ BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:A hard service.
 DTEND:20260625T043500Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260625T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -178,7 +131,7 @@ BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:After service.
 DTEND:20260625T043500Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260625T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -195,7 +148,7 @@ DESCRIPTION:When earning a paycheck meant risking life and limb. From dang
  ng off death-defying Hollywood stunts\, people once did whatever it took 
  to earn a living.
 DTEND:20260629T014200Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260629T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -203,9 +156,26 @@ SUMMARY:Hazardous History with Henry Winkler - 2x10 - Anything for a Buck
 UID:NzbDrone_episode_41199
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:When being young meant testing the limits of what our bodies c
+ ould survive. From launching our bikes off homemade ramps and playing chi
+ cken in traffic\, to using dangerous construction sites as our playground
+ \, childhood adventure was often intertwined with how far you were willin
+ g to go--and the consequences that came with it. Armed with cherry bombs\
+ , slingshots\, and more confidence than caution\, we pushed boundaries in
+  ways that would make parents today shudder.
+DTEND:20260706T014200Z
+DTSTAMP:20260623T011101Z
+DTSTART:20260706T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x11 - Young & the Reckless
+UID:NzbDrone_episode_41294
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260715T040000Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260715T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -215,7 +185,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260715T040000Z
-DTSTAMP:20260622T011101Z
+DTSTAMP:20260623T011101Z
 DTSTART:20260715T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
