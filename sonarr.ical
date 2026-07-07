@@ -5,23 +5,6 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:History
-DESCRIPTION:When earning a paycheck meant risking life and limb. From dang
- ling off skyscrapers without safety harnesses and riding runaway logs dow
- n raging rivers\, to digging up corpses for cash and selling your own blo
- od to scrape by\, people once took unbelievable risks no paycheck could t
- ruly cover. Whether racing pizzas across town at breakneck speed or pulli
- ng off death-defying Hollywood stunts\, people once did whatever it took 
- to earn a living.
-DTEND:20260629T014200Z
-DTSTAMP:20260706T011103Z
-DTSTART:20260629T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Hazardous History with Henry Winkler - 2x10 - Anything for a Buck
-UID:NzbDrone_episode_41199
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:History
 DESCRIPTION:When being young meant testing the limits of what our bodies c
  ould survive. From launching our bikes off homemade ramps and playing chi
  cken in traffic\, to using dangerous construction sites as our playground
@@ -30,10 +13,10 @@ DESCRIPTION:When being young meant testing the limits of what our bodies c
  , slingshots\, and more confidence than caution\, we pushed boundaries in
   ways that would make parents today shudder.
 DTEND:20260706T014200Z
-DTSTAMP:20260706T011103Z
+DTSTAMP:20260707T011101Z
 DTSTART:20260706T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Hazardous History with Henry Winkler - 2x11 - Young & the Reckless
 UID:NzbDrone_episode_41294
 END:VEVENT
@@ -46,7 +29,7 @@ DESCRIPTION:From personal jetpacks that promised to send us sky-high\, to
   the ambitious ideas\, futuristic gadgets\, and engineering marvels that 
  aimed to revolutionize everyday life\, but sometimes overshot the mark.
 DTEND:20260713T014200Z
-DTSTAMP:20260706T011103Z
+DTSTAMP:20260707T011101Z
 DTSTART:20260713T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -56,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260715T040000Z
-DTSTAMP:20260706T011103Z
+DTSTAMP:20260707T011101Z
 DTSTART:20260715T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -66,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260715T040000Z
-DTSTAMP:20260706T011103Z
+DTSTAMP:20260707T011101Z
 DTSTART:20260715T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -76,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260722T040000Z
-DTSTAMP:20260706T011103Z
+DTSTAMP:20260707T011101Z
 DTSTART:20260722T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -86,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260729T040000Z
-DTSTAMP:20260706T011103Z
+DTSTAMP:20260707T011101Z
 DTSTART:20260729T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
