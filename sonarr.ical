@@ -4,6 +4,21 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
+CATEGORIES:FOX
+DESCRIPTION:When penniless con-artist Marge Bouvier is sent to Italy to co
+ nvince wealthy sap Seymour Skinner to come home\, she's tempted by the tr
+ appings of his affluent lifestyle. But there's a big fat fly in the ointm
+ ent: Skinner's clingy\, dim-witted mooch of a houseguest\, Homer Simpsley
+ .
+DTEND:20260704T002400Z
+DTSTAMP:20260710T011101Z
+DTSTART:20260704T000000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Simpsons - 0x79 - Simpsley
+UID:NzbDrone_episode_41275
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:History
 DESCRIPTION:When being young meant testing the limits of what our bodies c
  ould survive. From launching our bikes off homemade ramps and playing chi
@@ -13,7 +28,7 @@ DESCRIPTION:When being young meant testing the limits of what our bodies c
  , slingshots\, and more confidence than caution\, we pushed boundaries in
   ways that would make parents today shudder.
 DTEND:20260706T014200Z
-DTSTAMP:20260709T011100Z
+DTSTAMP:20260710T011101Z
 DTSTART:20260706T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -28,7 +43,7 @@ DESCRIPTION:Burning Man grows from an anti-establishment group in San Fran
  ttendees and organizers prep for the unpredictable as COVID-19 threatens 
  the event.
 DTEND:20260709T040000Z
-DTSTAMP:20260709T011100Z
+DTSTAMP:20260710T011101Z
 DTSTART:20260709T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -44,7 +59,7 @@ DESCRIPTION:From personal jetpacks that promised to send us sky-high\, to
   the ambitious ideas\, futuristic gadgets\, and engineering marvels that 
  aimed to revolutionize everyday life\, but sometimes overshot the mark.
 DTEND:20260713T014200Z
-DTSTAMP:20260709T011100Z
+DTSTAMP:20260710T011101Z
 DTSTART:20260713T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -54,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260715T040000Z
-DTSTAMP:20260709T011100Z
+DTSTAMP:20260710T011101Z
 DTSTART:20260715T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -64,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260715T040000Z
-DTSTAMP:20260709T011100Z
+DTSTAMP:20260710T011101Z
 DTSTART:20260715T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -77,7 +92,7 @@ DESCRIPTION:Burning Man is canceled for the second year in a row. A renega
  , the Renegade Burn feels like a return to the event’s origins\, and expo
  ses complex dynamics within the leadership.
 DTEND:20260716T040000Z
-DTSTAMP:20260709T011100Z
+DTSTAMP:20260710T011101Z
 DTSTART:20260716T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -87,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260722T040000Z
-DTSTAMP:20260709T011100Z
+DTSTAMP:20260710T011101Z
 DTSTART:20260722T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -101,7 +116,7 @@ DESCRIPTION:Burning Man is back in full force with the musicians\, singers
  cial media influencers and the influx of tech money threaten the original
   philosophy of the Burning Man community spirit.
 DTEND:20260723T040000Z
-DTSTAMP:20260709T011100Z
+DTSTAMP:20260710T011101Z
 DTSTART:20260723T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -109,9 +124,23 @@ SUMMARY:The Man Will Burn - 1x03 - Waking Dreams
 UID:NzbDrone_episode_41413
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:FOX
+DESCRIPTION:A defective lamp reveals a heartbreaking truth about what Home
+ r believes is reality\, and an AI-powered tablet befriends and controls M
+ aggie. The Simpsons struggle to find the light through two dark tales of 
+ the curious and bizarre.
+DTEND:20260727T002400Z
+DTSTAMP:20260710T011101Z
+DTSTART:20260727T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Simpsons - 0x80 - Yellow Mirror
+UID:NzbDrone_episode_41276
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260729T040000Z
-DTSTAMP:20260709T011100Z
+DTSTAMP:20260710T011101Z
 DTSTART:20260729T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -123,7 +152,7 @@ DESCRIPTION:Burning Man is threatened by days of rain and chaos. Many atte
  ndees flee the muddy terrain as the government steps in to ensure attende
  es stay safe.
 DTEND:20260730T040000Z
-DTSTAMP:20260709T011100Z
+DTSTAMP:20260710T011101Z
 DTSTART:20260730T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -133,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260805T040000Z
-DTSTAMP:20260709T011100Z
+DTSTAMP:20260710T011101Z
 DTSTART:20260805T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
