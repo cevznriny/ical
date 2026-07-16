@@ -11,7 +11,7 @@ DESCRIPTION:Burning Man grows from an anti-establishment group in San Fran
  ttendees and organizers prep for the unpredictable as COVID-19 threatens 
  the event.
 DTEND:20260709T040000Z
-DTSTAMP:20260715T011101Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260709T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -27,7 +27,7 @@ DESCRIPTION:From personal jetpacks that promised to send us sky-high\, to
   the ambitious ideas\, futuristic gadgets\, and engineering marvels that 
  aimed to revolutionize everyday life\, but sometimes overshot the mark.
 DTEND:20260713T014200Z
-DTSTAMP:20260715T011101Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260713T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -36,22 +36,26 @@ UID:NzbDrone_episode_41341
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTEND:20260715T040000Z
-DTSTAMP:20260715T011101Z
+DESCRIPTION:After a wild night in Vegas\, Lucky wakes up to discover her w
+ orld has been turned upside down.
+DTEND:20260715T044700Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260715T040000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Lucky (2026) - 1x01 - Episode 1
+STATUS:CONFIRMED
+SUMMARY:Lucky (2026) - 1x01 - No Shortcuts
 UID:NzbDrone_episode_41181
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTEND:20260715T040000Z
-DTSTAMP:20260715T011101Z
-DTSTART:20260715T040000Z
+DESCRIPTION:Seeking shelter\, Lucky takes refuge with an unsuspecting fami
+ ly. Priscilla visits Lucky’s father.
+DTEND:20260715T053400Z
+DTSTAMP:20260716T011101Z
+DTSTART:20260715T044700Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Lucky (2026) - 1x02 - Episode 2
+STATUS:CONFIRMED
+SUMMARY:Lucky (2026) - 1x02 - Make 'em Dance
 UID:NzbDrone_episode_41182
 END:VEVENT
 BEGIN:VEVENT
@@ -60,7 +64,7 @@ DESCRIPTION:Burning Man is canceled for the second year in a row. A renega
  , the Renegade Burn feels like a return to the event’s origins\, and expo
  ses complex dynamics within the leadership.
 DTEND:20260716T040000Z
-DTSTAMP:20260715T011101Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260716T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -77,7 +81,7 @@ DESCRIPTION:From racing atop ostriches and wrestling wild bears\, to raisi
  a rowdy\, unpredictable trip back to the critter-filled close calls that 
  prove our hazardous history was anything but tame.
 DTEND:20260720T014200Z
-DTSTAMP:20260715T011101Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260720T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -86,12 +90,14 @@ UID:NzbDrone_episode_41446
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTEND:20260722T040000Z
-DTSTAMP:20260715T011101Z
+DESCRIPTION:Lucky tries to track down Cary—and her money. Agent Rand inves
+ tigates Lucky’s moves.
+DTEND:20260722T044700Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260722T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Lucky (2026) - 1x03 - Episode 3
+SUMMARY:Lucky (2026) - 1x03 - Read the Room
 UID:NzbDrone_episode_41183
 END:VEVENT
 BEGIN:VEVENT
@@ -101,7 +107,7 @@ DESCRIPTION:Burning Man is back in full force with the musicians\, singers
  cial media influencers and the influx of tech money threaten the original
   philosophy of the Burning Man community spirit.
 DTEND:20260723T040000Z
-DTSTAMP:20260715T011101Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260723T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -115,7 +121,7 @@ DESCRIPTION:A defective lamp reveals a heartbreaking truth about what Home
  aggie. The Simpsons struggle to find the light through two dark tales of 
  the curious and bizarre.
 DTEND:20260727T002400Z
-DTSTAMP:20260715T011101Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260727T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -131,7 +137,7 @@ DESCRIPTION:From chocolate eaten out of the gutter\, to a single cup of ic
  nable treats\, and kitchen experiments that once captured America's appet
  ite all without raising an eyebrow.
 DTEND:20260727T014200Z
-DTSTAMP:20260715T011101Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260727T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -140,12 +146,12 @@ UID:NzbDrone_episode_41461
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTEND:20260729T040000Z
-DTSTAMP:20260715T011101Z
+DTEND:20260729T044700Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260729T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Lucky (2026) - 1x04 - Episode 4
+SUMMARY:Lucky (2026) - 1x04 - TBA
 UID:NzbDrone_episode_41184
 END:VEVENT
 BEGIN:VEVENT
@@ -153,7 +159,7 @@ DESCRIPTION:Burning Man is threatened by days of rain and chaos. Many atte
  ndees flee the muddy terrain as the government steps in to ensure attende
  es stay safe.
 DTEND:20260730T040000Z
-DTSTAMP:20260715T011101Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260730T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -162,12 +168,22 @@ UID:NzbDrone_episode_41414
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DTEND:20260805T040000Z
-DTSTAMP:20260715T011101Z
+DTEND:20260805T044700Z
+DTSTAMP:20260716T011101Z
 DTSTART:20260805T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Lucky (2026) - 1x05 - Episode 5
+SUMMARY:Lucky (2026) - 1x05 - TBA
 UID:NzbDrone_episode_41185
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTEND:20260812T044700Z
+DTSTAMP:20260716T011101Z
+DTSTART:20260812T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Lucky (2026) - 1x06 - TBA
+UID:NzbDrone_episode_41186
 END:VEVENT
 END:VCALENDAR
