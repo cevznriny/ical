@@ -4,25 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-DESCRIPTION:Burning Man is canceled for the second year in a row. A renega
- de group of “Burners” hold their own event in the desert\, and\, to many\
- , the Renegade Burn feels like a return to the event’s origins\, and expo
- ses complex dynamics within the leadership.
-DTEND:20260716T045800Z
-DTSTAMP:20260723T011100Z
-DTSTART:20260716T040000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Man Will Burn - 1x02 - Welcome To The Shit Show
-UID:NzbDrone_episode_41412
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:MGM+
 DESCRIPTION:Sweeney strikes a deal with Castellano: rob a Colombian disco 
  and Flanagan walks free\; Bridget seeks counsel about Cahill\, while Keen
  an investigates the killing of a cop in Boston.
 DTEND:20260719T045000Z
-DTSTAMP:20260723T011100Z
+DTSTAMP:20260724T011100Z
 DTSTART:20260719T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -39,7 +26,7 @@ DESCRIPTION:From racing atop ostriches and wrestling wild bears\, to raisi
  a rowdy\, unpredictable trip back to the critter-filled close calls that 
  prove our hazardous history was anything but tame.
 DTEND:20260720T014200Z
-DTSTAMP:20260723T011100Z
+DTSTAMP:20260724T011100Z
 DTSTART:20260720T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -53,7 +40,7 @@ DESCRIPTION:Burning Man is back in full force with the musicians\, singers
  cial media influencers and the influx of tech money threaten the original
   philosophy of the Burning Man community spirit.
 DTEND:20260723T045800Z
-DTSTAMP:20260723T011100Z
+DTSTAMP:20260724T011100Z
 DTSTART:20260723T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -65,7 +52,7 @@ CATEGORIES:MGM+
 DESCRIPTION:Roarke clashes with Sweeney over selling stolen cocaine\, but 
  Sweeney has his own agenda.
 DTEND:20260726T045000Z
-DTSTAMP:20260723T011100Z
+DTSTAMP:20260724T011100Z
 DTSTART:20260726T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -79,7 +66,7 @@ DESCRIPTION:A defective lamp reveals a heartbreaking truth about what Home
  aggie. The Simpsons struggle to find the light through two dark tales of 
  the curious and bizarre.
 DTEND:20260727T002400Z
-DTSTAMP:20260723T011100Z
+DTSTAMP:20260724T011100Z
 DTSTART:20260727T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -95,7 +82,7 @@ DESCRIPTION:From chocolate eaten out of the gutter\, to a single cup of ic
  nable treats\, and kitchen experiments that once captured America's appet
  ite all without raising an eyebrow.
 DTEND:20260727T014200Z
-DTSTAMP:20260723T011100Z
+DTSTAMP:20260724T011100Z
 DTSTART:20260727T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -107,7 +94,7 @@ DESCRIPTION:Burning Man is threatened by days of rain and chaos. Many atte
  ndees flee the muddy terrain as the government steps in to ensure attende
  es stay safe.
 DTEND:20260730T045800Z
-DTSTAMP:20260723T011100Z
+DTSTAMP:20260724T011100Z
 DTSTART:20260730T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -119,7 +106,7 @@ CATEGORIES:MGM+
 DESCRIPTION:Sweeney lets Roarke sell cocaine only if he sources it himself
  \, putting him in Gotti's crosshairs.
 DTEND:20260802T045000Z
-DTSTAMP:20260723T011100Z
+DTSTAMP:20260724T011100Z
 DTSTART:20260802T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -136,7 +123,7 @@ DESCRIPTION:Remember when hitting the road promised freedom\, adventure… a
  nexpected twists and turns. These are the engineering feats and automotiv
  e innovations that transformed the journey.
 DTEND:20260803T014200Z
-DTSTAMP:20260723T011100Z
+DTSTAMP:20260724T011100Z
 DTSTART:20260803T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -148,7 +135,7 @@ CATEGORIES:MGM+
 DESCRIPTION:Roarke gets a risky loan from Ruby Stein to fund a cocaine dea
  l with a hotshot from downtown.
 DTEND:20260809T045000Z
-DTSTAMP:20260723T011100Z
+DTSTAMP:20260724T011100Z
 DTSTART:20260809T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -160,7 +147,7 @@ CATEGORIES:MGM+
 DESCRIPTION:Tensions between Sweeney and Roarke erupt when one of the West
  ies is busted for dealing.
 DTEND:20260816T045000Z
-DTSTAMP:20260723T011100Z
+DTSTAMP:20260724T011100Z
 DTSTART:20260816T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
