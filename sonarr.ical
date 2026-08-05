@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+NAME:Sonarr TV Schedule
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Sonarr TV Schedule
+BEGIN:VEVENT
+DESCRIPTION:Burning Man is threatened by days of rain and chaos. Many atte
+ ndees flee the muddy terrain as the government steps in to ensure attende
+ es stay safe.
+DTEND:20260730T045800Z
+DTSTAMP:20260805T011108Z
+DTSTART:20260730T040000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Man Will Burn - 1x04 - Mud Burn
+UID:NzbDrone_episode_41414
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when hitting the road promised freedom\, adventure… a
+ nd a few risky surprises? From marathon cross-country races that pushed d
+ rivers to the limit\, to flaming roadside smudge pots that lined the way 
+ after dark\, to endless stretches of highway that lulled motorists into d
+ angerous trances\, America's love affair with the open road was full of u
+ nexpected twists and turns. These are the engineering feats and automotiv
+ e innovations that transformed the journey.
+DTEND:20260803T014200Z
+DTSTAMP:20260805T011110Z
+DTSTART:20260803T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hazardous History with Henry Winkler - 2x15 - Harrowing Highways
+UID:NzbDrone_episode_41527
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:BBC Two
+DESCRIPTION:How did the dolphin get so smart? Chris Packham explores the o
+ rigins of senses\, brains and intelligence\, in an evolutionary odyssey t
+ hat ventures from ocean to land and back again.
+DTEND:20260803T205900Z
+DTSTAMP:20260805T011110Z
+DTSTART:20260803T200000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Evolution (2026) - 1x04 - The Dolphin
+UID:NzbDrone_episode_41554
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember how parents used to raise us with more freedom and a 
+ lot fewer rules? From babies suspended in window cages and kids bouncing 
+ in the backs of pickup trucks\, to expectant mothers being encouraged to 
+ smoke\, drink\, and relax\, the parenting playbook once looked very diffe
+ rent. It's an eye-opening\, head-shaking trip back to the parenting pract
+ ices that prove what didn't hurt us made us stronger and our hazardous hi
+ story was one for the ages.
+DTEND:20260810T014200Z
+DTSTAMP:20260805T011110Z
+DTSTART:20260810T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x16 - Precarious Parenting
+UID:NzbDrone_episode_41563
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:BBC Two
+DESCRIPTION:How did the horse become so fast? Chris Packham sets out on a 
+ slithering\, swimming\, sprinting odyssey that explores the evolutionary 
+ beginnings of animal movement and how it reached its peak in one of the m
+ ost elegant and athletic animals on Earth: the horse.
+DTEND:20260810T205900Z
+DTSTAMP:20260805T011110Z
+DTSTART:20260810T200000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Evolution (2026) - 1x05 - The Horse
+UID:NzbDrone_episode_41555
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when feeling better sometimes meant taking your medic
+ ine... and your chances? From miracle snake oils that claimed to cure jus
+ t about every complaint\, to electrified healing devices that swore to re
+ store perfect health\, to toxic tonics laced with strychnine and mercury\
+ , yesterday's remedies often carried risks as remarkable as their promise
+ s. These are the cures and questionable treatments that offered hope to g
+ enerations of patients\, along with a host of unexpected side effects.
+DTEND:20260817T014200Z
+DTSTAMP:20260805T011110Z
+DTSTART:20260817T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x17 - Crazy Cures
+UID:NzbDrone_episode_42453
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FOX
+DESCRIPTION:A defective lamp reveals a heartbreaking truth about what Home
+ r believes is reality\, and an AI-powered tablet befriends and controls M
+ aggie. The Simpsons struggle to find the light through two dark tales of 
+ the curious and bizarre.
+DTEND:20260827T002400Z
+DTSTAMP:20260805T011110Z
+DTSTART:20260827T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Simpsons - 0x80 - Yellow Mirror
+UID:NzbDrone_episode_41276
+END:VEVENT
+END:VCALENDAR
