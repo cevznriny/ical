@@ -8,7 +8,7 @@ DESCRIPTION:Burning Man is threatened by days of rain and chaos. Many atte
  ndees flee the muddy terrain as the government steps in to ensure attende
  es stay safe.
 DTEND:20260730T045800Z
-DTSTAMP:20260805T011108Z
+DTSTAMP:20260806T011104Z
 DTSTART:20260730T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -25,7 +25,7 @@ DESCRIPTION:Remember when hitting the road promised freedom\, adventure… a
  nexpected twists and turns. These are the engineering feats and automotiv
  e innovations that transformed the journey.
 DTEND:20260803T014200Z
-DTSTAMP:20260805T011110Z
+DTSTAMP:20260806T011104Z
 DTSTART:20260803T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -33,12 +33,36 @@ SUMMARY:Hazardous History with Henry Winkler - 2x15 - Harrowing Highways
 UID:NzbDrone_episode_41527
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:The Professor attempts to create lab-grown meat so Fry can com
+ pete in the world hotdog-eating championship.
+DTEND:20260803T102300Z
+DTSTAMP:20260806T011104Z
+DTSTART:20260803T100000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Futurama - 11x01 - Beef
+UID:NzbDrone_episode_43124
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:Bender travels to Mississippi in search of a sexy scammer who 
+ ripped off his grandmother.
+DTEND:20260803T104600Z
+DTSTAMP:20260806T011104Z
+DTSTART:20260803T102300Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Futurama - 11x02 - Catfish Hunter
+UID:NzbDrone_episode_43125
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:BBC Two
 DESCRIPTION:How did the dolphin get so smart? Chris Packham explores the o
  rigins of senses\, brains and intelligence\, in an evolutionary odyssey t
  hat ventures from ocean to land and back again.
 DTEND:20260803T205900Z
-DTSTAMP:20260805T011110Z
+DTSTAMP:20260806T011104Z
 DTSTART:20260803T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -55,12 +79,24 @@ DESCRIPTION:Remember how parents used to raise us with more freedom and a
  ices that prove what didn't hurt us made us stronger and our hazardous hi
  story was one for the ages.
 DTEND:20260810T014200Z
-DTSTAMP:20260805T011110Z
+DTSTAMP:20260806T011104Z
 DTSTART:20260810T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Hazardous History with Henry Winkler - 2x16 - Precarious Parenting
 UID:NzbDrone_episode_41563
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:Vicious Space Pirates steal a priceless cargo entrusted to Fry
+  and Bender.
+DTEND:20260810T102300Z
+DTSTAMP:20260806T011104Z
+DTSTART:20260810T100000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Futurama - 11x03 - Our Flag Means Medical Coverage
+UID:NzbDrone_episode_43126
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:BBC Two
@@ -69,7 +105,7 @@ DESCRIPTION:How did the horse become so fast? Chris Packham sets out on a
  beginnings of animal movement and how it reached its peak in one of the m
  ost elegant and athletic animals on Earth: the horse.
 DTEND:20260810T205900Z
-DTSTAMP:20260805T011110Z
+DTSTAMP:20260806T011104Z
 DTSTART:20260810T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -86,12 +122,36 @@ DESCRIPTION:Remember when feeling better sometimes meant taking your medic
  s. These are the cures and questionable treatments that offered hope to g
  enerations of patients\, along with a host of unexpected side effects.
 DTEND:20260817T014200Z
-DTSTAMP:20260805T011110Z
+DTSTAMP:20260806T011104Z
 DTSTART:20260817T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Hazardous History with Henry Winkler - 2x17 - Crazy Cures
 UID:NzbDrone_episode_42453
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:The crew crash-lands on a mysterious world inhabited by intell
+ igent rats.
+DTEND:20260817T102300Z
+DTSTAMP:20260806T011104Z
+DTSTART:20260817T100000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Futurama - 11x04 - Lords of the Ring
+UID:NzbDrone_episode_43127
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:Earth's biggest pop star uses musical brain programming to com
+ mand her army of fans.
+DTEND:20260824T102300Z
+DTSTAMP:20260806T011104Z
+DTSTART:20260824T100000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Futurama - 11x05 - The Charm Offensive
+UID:NzbDrone_episode_43128
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
@@ -100,11 +160,23 @@ DESCRIPTION:A defective lamp reveals a heartbreaking truth about what Home
  aggie. The Simpsons struggle to find the light through two dark tales of 
  the curious and bizarre.
 DTEND:20260827T002400Z
-DTSTAMP:20260805T011110Z
+DTSTAMP:20260806T011104Z
 DTSTART:20260827T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:The Simpsons - 0x80 - Yellow Mirror
 UID:NzbDrone_episode_41276
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:Hermes attempts to save his dying father\, as Zoidberg reunite
+ s with an old flame.
+DTEND:20260831T102300Z
+DTSTAMP:20260806T011104Z
+DTSTART:20260831T100000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Futurama - 11x06 - Late Bloomers
+UID:NzbDrone_episode_43129
 END:VEVENT
 END:VCALENDAR
