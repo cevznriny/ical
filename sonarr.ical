@@ -4,33 +4,17 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:History
-DESCRIPTION:Remember when feeling better sometimes meant taking your medic
- ine... and your chances? From miracle snake oils that claimed to cure jus
- t about every complaint\, to electrified healing devices that swore to re
- store perfect health\, to toxic tonics laced with strychnine and mercury\
- , yesterday's remedies often carried risks as remarkable as their promise
- s. These are the cures and questionable treatments that offered hope to g
- enerations of patients\, along with a host of unexpected side effects.
-DTEND:20260817T014200Z
-DTSTAMP:20260824T011101Z
-DTSTART:20260817T010000Z
+CATEGORIES:Prime Video
+DESCRIPTION:Reacher talks to Sampson\, Tamara breaks into a government str
+ ucture\, Jacob gets bad news\, and the team learns information that chang
+ es everything.
+DTEND:20260819T074900Z
+DTSTAMP:20260825T011101Z
+DTSTART:20260819T070000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Hazardous History with Henry Winkler - 2x17 - Crazy Cures
-UID:NzbDrone_episode_42453
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Hulu
-DESCRIPTION:The Planet Express ship crash-lands on a mysterious world inha
- bited by intelligent rats.
-DTEND:20260817T102300Z
-DTSTAMP:20260824T011101Z
-DTSTART:20260817T100000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Futurama - 11x04 - Lords of the Ring
-UID:NzbDrone_episode_43127
+SUMMARY:Reacher - 4x04 - Karambits and Pieces
+UID:NzbDrone_episode_43346
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
@@ -38,7 +22,7 @@ DESCRIPTION:The gang arrives in paradise\, where everyone lives in harmony
   with nature and each other. Bert finds true love and the machine is brok
  en.
 DTEND:20260821T012200Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260821T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -52,10 +36,10 @@ DESCRIPTION:From perilous playgrounds to precarious products\, Henry Winkl
  er hosts a running cavalcade of the most exciting\, reckless\, unsupervis
  ed tales of Americana in our history.
 DTEND:20260824T014200Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260824T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Hazardous History with Henry Winkler - 2x18 - School Dazed
 UID:NzbDrone_episode_43143
 END:VEVENT
@@ -64,12 +48,26 @@ CATEGORIES:Hulu
 DESCRIPTION:Amy's favorite pop star commands her massive army of fans usin
  g musical brain programming.
 DTEND:20260824T102300Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260824T100000Z
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Futurama - 11x05 - The Charm Offensive
 UID:NzbDrone_episode_43128
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Following a misunderstanding\, Reacher becomes the most wanted
+  man in Philadelphia. Old enemies track it down and new ones appear. Jaco
+ b\, Tamara and Plum end up involved in a shooting and Jacob avenges his s
+ ister's death.
+DTEND:20260826T074900Z
+DTSTAMP:20260825T011101Z
+DTSTART:20260826T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Reacher - 4x05 - Bridge
+UID:NzbDrone_episode_43347
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
@@ -78,7 +76,7 @@ DESCRIPTION:A defective lamp reveals a heartbreaking truth about what Home
  aggie. The Simpsons struggle to find the light through two dark tales of 
  the curious and bizarre.
 DTEND:20260827T002400Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260827T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -88,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
 DTEND:20260828T012200Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260828T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -97,11 +95,38 @@ SUMMARY:Stuart Fails to Save the Universe - 1x06 - Spoiler: Gary Works for
 UID:NzbDrone_episode_43159
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:History
+DESCRIPTION:Remember when the path to good hygiene was anything but clean?
+  From splinter-filled toilet paper and barbers who doubled as surgeons\, 
+ to communal drinking cups shared by everyone in town and ear candles burn
+ ing too close for comfort\, yesterday's sanitation solutions often blurre
+ d the line between health and hazard. These are the everyday habits\, gro
+ oming rituals and routine remedies that promised to keep us fresh… but of
+ ten went afoul.
+DTEND:20260831T014200Z
+DTSTAMP:20260825T011101Z
+DTSTART:20260831T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Hazardous History with Henry Winkler - 2x19 - Horrible Hygiene
+UID:NzbDrone_episode_43296
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20260831T015400Z
+DTSTAMP:20260825T011101Z
+DTSTART:20260831T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Lanterns - 1x03 - TBA
+UID:NzbDrone_episode_43353
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:Hermes attempts to save his dying father\, as Zoidberg reunite
  s with an old flame.
 DTEND:20260831T102300Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260831T100000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -109,19 +134,38 @@ SUMMARY:Futurama - 11x06 - Late Bloomers
 UID:NzbDrone_episode_43129
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:On the run from the police\, Reacher and Tamara leave town in 
+ search of the mysterious Ahlquist\, but they end up in trouble. Meanwhile
+ \, in Philadelphia\, Jacob and Plum must face their own problems.
+DTEND:20260902T074900Z
+DTSTAMP:20260825T011101Z
+DTSTART:20260902T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Reacher - 4x06 - Plum Out of Luck
+UID:NzbDrone_episode_43348
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Channel 4
+DESCRIPTION:Richard Ayoade\, Isy Suttie\, Matt Lucas\, Nina Conti & Chloe 
+ Petts leave their dignity at the door to take part in the comedy show\, b
+ eginning with challenges that see them hunting for golden apples\, rearra
+ nging furniture & performing duets - with themselves. Alex Horne keeps an
+  eye on their progress\, while Greg Davies sums up their performances & h
+ ands out the points.
 DTEND:20260903T204600Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260903T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Taskmaster - 22x01 - TBA
+SUMMARY:Taskmaster - 22x01 - In My Mind There's a River
 UID:NzbDrone_episode_42286
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
 DTEND:20260904T012200Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260904T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -130,11 +174,21 @@ SUMMARY:Stuart Fails to Save the Universe - 1x07 - Spoiler: Dexys Midnight
 UID:NzbDrone_episode_43160
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20260907T015400Z
+DTSTAMP:20260825T011101Z
+DTSTART:20260907T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Lanterns - 1x04 - TBA
+UID:NzbDrone_episode_43354
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:Nibbler is chosen for a one-way mission to observe a dying uni
  verse.
 DTEND:20260907T102300Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260907T100000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -142,9 +196,22 @@ SUMMARY:Futurama - 11x07 - Lord Nibbler in the Nothingverse
 UID:NzbDrone_episode_43130
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Reacher and Tamara finally get the answers they've been waitin
+ g for\, while Jacob discovers that their woes have just begun when Plum's
+  sources provide crucial information.
+DTEND:20260909T074900Z
+DTSTAMP:20260825T011101Z
+DTSTART:20260909T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Reacher - 4x07 - Vote for Sampson
+UID:NzbDrone_episode_43349
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20260910T204600Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260910T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -154,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
 DTEND:20260911T012200Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260911T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -165,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky One
 DTEND:20260912T215800Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260912T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -173,11 +240,21 @@ SUMMARY:Saturday Night Live UK - 2x01 - TBA
 UID:NzbDrone_episode_43269
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20260914T015400Z
+DTSTAMP:20260825T011101Z
+DTSTART:20260914T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Lanterns - 1x05 - TBA
+UID:NzbDrone_episode_43355
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Hulu
 DESCRIPTION:The Planet Express crew sets off on a treacherous ocean advent
  ure.
 DTEND:20260914T102300Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260914T100000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -185,9 +262,23 @@ SUMMARY:Futurama - 11x08 - Oceans Three
 UID:NzbDrone_episode_43131
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Reacher\, Tamara and Jacob go on the attack as the real extent
+  of the plot emerges. Reacher confronts those responsible for Anna's deat
+ h\, Jacob is forced to face the truth\, and Plum has a chance to redeem h
+ erself.
+DTEND:20260916T074900Z
+DTSTAMP:20260825T011101Z
+DTSTART:20260916T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Reacher - 4x08 - Cut
+UID:NzbDrone_episode_43350
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20260917T022200Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260917T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -197,7 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Channel 4
 DTEND:20260917T204600Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260917T200000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -207,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HBO Max
 DTEND:20260918T012200Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260918T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -219,7 +310,7 @@ BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:TBA
 DTEND:20260918T074700Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260918T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -229,11 +320,33 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Sky One
 DTEND:20260919T215800Z
-DTSTAMP:20260824T011101Z
+DTSTAMP:20260825T011101Z
 DTSTART:20260919T210000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Saturday Night Live UK - 2x02 - TBA
 UID:NzbDrone_episode_43270
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20260921T015400Z
+DTSTAMP:20260825T011101Z
+DTSTART:20260921T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Lanterns - 1x06 - TBA
+UID:NzbDrone_episode_43356
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Hulu
+DESCRIPTION:A time-machine failure sends Fry sideways in time to a medieva
+ l land.
+DTEND:20260921T102300Z
+DTSTAMP:20260825T011101Z
+DTSTART:20260921T100000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Futurama - 11x09 - A New New York Yankee in King Elfo's Court
+UID:NzbDrone_episode_43132
 END:VEVENT
 END:VCALENDAR
